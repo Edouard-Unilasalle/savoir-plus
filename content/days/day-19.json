@@ -1,0 +1,118 @@
+{
+  "day": 19,
+  "domain": "Santé",
+  "title": "Le sommeil : pourquoi on dort (et ce qu'il fait à la mémoire)",
+  "subtitle": "Cycles, horloge interne, mémoire : ce que la science sait, et ce qu'elle débat encore",
+  "emoji": "😴",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Un tiers de vie « éteint » ?",
+      "body": "Nous passons près d'un tiers de notre vie à dormir. Longtemps vu comme une simple mise en veille, le sommeil est en réalité une activité intense : le cerveau y trie et consolide ce que nous avons vécu. Pourtant, à la question « pourquoi dort-on ? », les chercheurs n'ont toujours pas de réponse unique."
+    },
+    {
+      "type": "text",
+      "title": "Une nuit en cycles",
+      "body": "Une nuit n'est pas un bloc uniforme. Selon l'Inserm, elle enchaîne **3 à 6 cycles** de 60 à 120 minutes (environ 90 minutes en moyenne). Chaque cycle comprend des phases de sommeil lent, puis une phase de sommeil paradoxal.\n\nRépartition approximative d'une nuit :\n\n- stade 1, la transition avec l'éveil : 4 à 5 % ;\n- stade 2, sommeil lent léger : 45 à 55 % ;\n- stade 3, **sommeil lent profond** : 16 à 20 % ;\n- **sommeil paradoxal** : 20 à 25 %.\n\nLe sommeil profond domine en début de nuit, puis se raréfie : les cycles du petit matin sont plus riches en sommeil paradoxal."
+    },
+    {
+      "type": "figure",
+      "value": "1959",
+      "label": "Michel Jouvet décrit le « sommeil paradoxal » à Lyon",
+      "body": "En 1953, les Américains Aserinsky et Kleitman avaient observé des mouvements rapides des yeux chez des enfants endormis. En 1959, le Lyonnais Michel Jouvet observe chez le chat des épisodes où les muscles sont totalement relâchés alors que le cortex est aussi actif qu'à l'éveil. D'où ce nom paradoxal, désormais associé aux rêves les plus vifs."
+    },
+    {
+      "type": "text",
+      "title": "Dormir pour se souvenir",
+      "body": "Le sommeil joue un rôle clé dans la **consolidation de la mémoire**. Selon le modèle dominant, l'hippocampe enregistre les événements de la journée ; pendant le sommeil lent, il les « rejoue » spontanément et transmet l'information au cortex, où elle est stockée durablement.\n\nCe dialogue est rythmé par des ondes caractéristiques : ondes delta, puis « fuseaux de sommeil » pendant lesquels les circuits du cortex se réorganisent. En 2019, Ralitsa Todorova et Michaël Zugaro (CNRS, Collège de France, Inserm) ont montré chez le rat qu'en déclenchant artificiellement des ondes delta au bon moment, on renforçait la mémorisation d'un parcours appris la veille."
+    },
+    {
+      "type": "text",
+      "title": "Le grand nettoyage ?",
+      "body": "Vers 2012, la neuroscientifique danoise Maiken Nedergaard (université de Rochester) propose l'existence d'un **système glymphatique** : le liquide céphalorachidien circulerait dans le cerveau, aidé par des cellules appelées astrocytes, pour en évacuer les déchets.\n\nEn 2013, son équipe publie dans Science une étude sur la souris : ce nettoyage serait **bien plus efficace pendant le sommeil**. L'idée fait le tour du monde : dormir servirait à « laver » le cerveau, notamment de protéines impliquées dans la maladie d'Alzheimer. Une hypothèse séduisante… mais fondée surtout sur des expériences chez l'animal."
+    },
+    {
+      "type": "quote",
+      "quote": "Nos résultats remettent en cause l'idée que la fonction essentielle du sommeil serait d'éliminer les toxines du cerveau.",
+      "author": "Miao, Franks, Wisden et coll. (Imperial College London), Nature Neuroscience, mai 2024 (traduit de l'anglais)",
+      "body": "Avec une autre méthode, cette équipe trouve chez la souris une élimination plus lente pendant le sommeil. Nedergaard conteste la méthode. Le débat reste ouvert, et les données chez l'humain sont encore limitées."
+    },
+    {
+      "type": "text",
+      "title": "L'horloge interne",
+      "body": "Notre alternance veille-sommeil suit un **rythme circadien** d'environ 24 heures, généré par une horloge située dans le cerveau : les noyaux suprachiasmatiques de l'hypothalamus. La lumière, captée par la rétine, la remet à l'heure chaque jour.\n\nCette horloge commande la sécrétion de **mélatonine** par la glande pinéale. Sa concentration est environ dix fois plus élevée la nuit que le jour, avec un pic vers 2-3 heures du matin. Une lumière vive la nuit peut supprimer sa sécrétion. Plutôt qu'un « somnifère naturel », la mélatonine est un signal qui indique à l'organisme qu'il fait nuit."
+    },
+    {
+      "type": "figure",
+      "value": "2017",
+      "label": "Nobel de médecine pour les gènes de l'horloge biologique",
+      "body": "Jeffrey Hall, Michael Rosbash et Michael Young ont été récompensés pour avoir décrypté chez la mouche drosophile les mécanismes moléculaires de l'horloge circadienne, notamment le gène period. Des gènes équivalents existent chez l'humain : presque toutes nos cellules possèdent une horloge qui anticipe l'alternance du jour et de la nuit."
+    },
+    {
+      "type": "figure",
+      "value": "7 à 9 h",
+      "label": "Sommeil recommandé pour un adulte de 18 à 64 ans",
+      "body": "Ce sont les fourchettes de la National Sleep Foundation américaine (2015). Elles varient avec l'âge : 14 à 17 heures pour un nouveau-né, 9 à 11 heures entre 6 et 13 ans, 8 à 10 heures pour un adolescent, 7 à 8 heures après 65 ans. Les besoins individuels varient au sein de ces fourchettes."
+    },
+    {
+      "type": "text",
+      "title": "La dette de sommeil",
+      "body": "Dormir moins que ses besoins de façon répétée crée une **dette de sommeil**. Les études de privation, menées dès la fin du XIXe siècle, montrent ses effets sur l'attention, le temps de réaction et la mémoire.\n\nÀ long terme, les courtes durées de sommeil sont associées à davantage de problèmes de santé. L'Inserm cite par exemple un risque de diabète de type 2 accru de 28 % chez les personnes dormant moins de six heures. Attention : une association statistique ne prouve pas à elle seule que le manque de sommeil en est la cause, même si les mécanismes biologiques plausibles sont étudiés."
+    },
+    {
+      "type": "text",
+      "title": "Écrans : ce qui est établi",
+      "body": "En 2019, l'Anses a conclu qu'une exposition, même faible, à une lumière riche en bleu le soir ou la nuit **perturbe les rythmes biologiques et donc le sommeil**. Les écrans d'ordinateurs, de smartphones et de tablettes en sont des sources importantes ; les enfants et adolescents, dont le cristallin filtre moins bien la lumière bleue, sont plus sensibles.\n\nNuances : l'Anses estime que l'efficacité des lunettes « anti-lumière bleue » pour préserver les rythmes circadiens **n'est pas prouvée**. Et la lumière n'est pas le seul facteur : l'usage des écrans en soirée retarde aussi l'heure de l'endormissement."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "Selon le Baromètre de Santé publique France 2017, cité par l'Inserm, les adultes de 18 à 75 ans dorment en moyenne **6 h 42 en semaine** et 7 h 26 le week-end. Plus d'un tiers (36 %) dorment moins de six heures par nuit, et 28 % sont en dette de sommeil, c'est-à-dire qu'ils dorment au moins une heure de moins que leur besoin.\n\nL'insomnie touche 15 à 20 % des adultes. Côté soins, la médecine du sommeil est devenue une spécialité universitaire en 2017, et la France compte une centaine de centres du sommeil agréés. Environ 40 % des Français font la sieste au moins une fois par semaine."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Une nuit enchaîne 3 à 6 cycles mêlant sommeil lent (léger puis profond) et sommeil paradoxal, décrit par Michel Jouvet à Lyon en 1959.",
+        "Pendant le sommeil, l'hippocampe « rejoue » la journée et transfère les souvenirs vers le cortex ; le rôle de « nettoyage » du cerveau reste débattu.",
+        "L'horloge circadienne, réglée par la lumière et signalée par la mélatonine, est perturbée par la lumière bleue du soir ; un adulte a besoin de 7 à 9 heures de sommeil."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Qui a décrit et nommé le « sommeil paradoxal » en 1959, à Lyon ?",
+      "choices": ["Louis Pasteur", "Michel Jouvet", "Maiken Nedergaard", "Claude Bernard"],
+      "answer": 1,
+      "explain": "Michel Jouvet a observé chez le chat une phase associant relâchement musculaire total et cortex aussi actif qu'à l'éveil, d'où le qualificatif « paradoxal »."
+    },
+    {
+      "q": "Selon le modèle dominant, que se passe-t-il pour la mémoire pendant le sommeil ?",
+      "choices": ["Les souvenirs sont effacés pour libérer de la place", "Le cerveau cesse toute activité", "L'hippocampe rejoue les événements et transfère l'information vers le cortex", "Seuls les rêves sont mémorisés"],
+      "answer": 2,
+      "explain": "Pendant le sommeil lent, l'hippocampe réactive les traces de la journée et dialogue avec le cortex, où les souvenirs sont consolidés."
+    },
+    {
+      "q": "Quel est le rôle principal de la mélatonine dans le cycle veille-sommeil ?",
+      "choices": ["Signaler à l'organisme qu'il fait nuit", "Réveiller le cerveau le matin", "Nettoyer le cerveau de ses déchets", "Augmenter la durée du sommeil profond"],
+      "answer": 0,
+      "explain": "Sécrétée surtout la nuit par la glande pinéale sous le contrôle de l'horloge interne, la mélatonine est un « donneur de temps » ; la lumière vive peut la supprimer."
+    },
+    {
+      "q": "Que concluait l'Anses en 2019 sur la lumière bleue des écrans et le sommeil ?",
+      "choices": ["Elle n'a aucun effet démontré", "Elle n'affecte que les personnes âgées", "Les lunettes anti-lumière bleue suffisent à s'en protéger", "Même faible, une exposition le soir perturbe les rythmes biologiques et le sommeil"],
+      "answer": 3,
+      "explain": "L'Anses juge l'effet établi, surtout chez les jeunes, mais estime que l'efficacité des lunettes filtrantes sur les rythmes circadiens n'est pas prouvée."
+    }
+  ],
+  "sources": [
+    { "label": "Inserm — Dossier « Sommeil »", "url": "https://www.inserm.fr/dossier/sommeil/" },
+    { "label": "Académie nationale de médecine — Les progrès sur l'architecture du sommeil paradoxal depuis William Dement et Michel Jouvet", "url": "https://www.academie-medecine.fr/les-progres-sur-larchitecture-du-sommeil-paradoxal-depuis-william-dement-et-michel-jouvet/" },
+    { "label": "Collège de France — Nouvelle découverte sur la stabilisation de nos souvenirs pendant le sommeil (2019)", "url": "https://www.college-de-france.fr/fr/actualites/nouvelle-decouverte-sur-la-stabilisation-de-nos-souvenirs-pendant-le-sommeil" },
+    { "label": "Alzforum — Does sleep really speed clearance from the brain? (2024)", "url": "https://alzforum.org/news/research-news/does-sleep-really-speed-clearance-brain" },
+    { "label": "Académie nationale de médecine — La mélatonine, pour quoi faire ? (Y. Touitou, 2005)", "url": "https://www.academie-medecine.fr/la-melatonine-pour-quoi-faire/" },
+    { "label": "Anses — LED : les recommandations de l'Anses pour limiter l'exposition à la lumière bleue (2019)", "url": "https://www.anses.fr/fr/content/led-les-recommandations-de-lanses-pour-limiter-lexposition-la-lumiere-bleue" }
+  ],
+  "further": [
+    { "kind": "site", "label": "Institut national du sommeil et de la vigilance (INSV)", "url": "https://institut-sommeil-vigilance.org" }
+  ]
+}

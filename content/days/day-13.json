@@ -1,0 +1,119 @@
+{
+  "day": 13,
+  "domain": "Culture française",
+  "title": "Les AOP : quand la loi protège un terroir",
+  "subtitle": "Du vin frelaté au Comté, comment la France a inventé la protection juridique de l'origine",
+  "emoji": "🧀",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Un fromage protégé par une loi",
+      "body": "Le 26 juillet 1925, le Parlement français vote une loi entière pour un seul fromage : le Roquefort. Il devient la première appellation d'origine fromagère française. Un siècle plus tard, des centaines de vins, fromages et produits portent un nom que nul n'a le droit d'utiliser s'il ne respecte pas un cahier des charges précis."
+    },
+    {
+      "type": "text",
+      "title": "Tout commence par le vin",
+      "body": "À la fin du XIXe siècle, un minuscule puceron venu d'Amérique, le **phylloxéra**, ravage le vignoble français. La production s'effondre, puis repart grâce à des importations massives, notamment d'Algérie. Surproduction et **fraudes** (vins fabriqués avec des raisins secs, du sucre ou des colorants) font alors chuter les prix.\n\nPour réagir, la **loi du 1er août 1905** réprime les fraudes et pose le principe d'appellations définies par l'administration. La **loi du 6 mai 1919** permet ensuite aux producteurs de défendre collectivement leur appellation devant les tribunaux. Mais ces textes protègent un nom sans garantir la qualité, et les procès se multiplient."
+    },
+    {
+      "type": "figure",
+      "value": "1925",
+      "label": "Le Roquefort, première appellation d'origine fromagère française",
+      "body": "La loi du 26 juillet 1925 protège le nom « Roquefort » contre les nombreuses imitations qui se multipliaient en France et à l'étranger. Le fromage est fait de lait de brebis et affiné dans les caves creusées sous le village de Roquefort-sur-Soulzon (Aveyron), où se développe le Penicillium roqueforti. L'INAO a fêté ce centenaire en 2025."
+    },
+    {
+      "type": "text",
+      "title": "1935 : naissance de l'INAO",
+      "body": "Le tournant arrive avec le **décret-loi du 30 juillet 1935**. Il crée les **appellations d'origine contrôlées (AOC)** pour les vins et eaux-de-vie, et un Comité national chargé de les reconnaître : l'ancêtre de l'**INAO** (Institut national de l'origine et de la qualité).\n\nLa nouveauté tient en un mot : « contrôlée ». L'appellation ne protège plus seulement un nom, mais aussi des règles de production (cépages, rendements, degré d'alcool) et un lien avec un terroir. Et ce sont les producteurs eux-mêmes, avec l'administration, qui définissent ces règles. Les missions de l'INAO seront étendues à tous les produits agroalimentaires en 1990."
+    },
+    {
+      "type": "text",
+      "title": "AOC, AOP, IGP, Label Rouge",
+      "body": "**AOP** (appellation d'origine protégée) : signe européen, créé en 1992, pour un produit dont **toutes les étapes** de production ont lieu dans une aire géographique délimitée. Exemples : Comté, Picodon.\n\n**AOC** : même exigence, mais protection nationale ; c'est l'étape préalable à l'AOP, et la mention reste utilisée pour les vins (Champagne, Chablis).\n\n**IGP** (indication géographique protégée) : le lien au lieu est plus souple, **au moins une étape** doit s'y dérouler. Exemple : jambon de Bayonne.\n\n**Label Rouge** : label français qui atteste une **qualité supérieure**, sans exigence d'origine. Il peut se cumuler avec une IGP, mais pas avec une AOP."
+    },
+    {
+      "type": "text",
+      "title": "Le cahier des charges",
+      "body": "Chaque appellation repose sur un **cahier des charges** rédigé par les producteurs réunis en organisme de défense et de gestion, puis validé par l'INAO et homologué par l'État. Il fixe l'aire géographique, les races ou variétés autorisées, l'alimentation des animaux, les méthodes de fabrication, la durée d'affinage…\n\nLe respect de ces règles est vérifié par des **organismes de contrôle indépendants**, agréés par l'INAO. La DGCCRF (répression des fraudes) contrôle de son côté les produits en magasin, et l'INAO défend les noms protégés en France et à l'étranger. Un producteur qui sort des règles perd le droit d'utiliser le nom, même s'il est installé dans la zone."
+    },
+    {
+      "type": "figure",
+      "value": "51",
+      "label": "AOP laitières en France en 2024, dont 46 fromages",
+      "body": "Selon l'INAO et le CNAOL, la France comptait en 2024 51 AOP laitières : 46 fromages, 3 beurres et 2 crèmes. Les fromages AOP représentaient 202 503 tonnes commercialisées et 2,43 milliards d'euros de chiffre d'affaires. 76 % de ces tonnages étaient fabriqués au lait cru, et 28 fromages AOP l'imposent."
+    },
+    {
+      "type": "figure",
+      "value": "107",
+      "label": "AOP agroalimentaires en France (2023), sans compter les vins",
+      "body": "Fromages, mais aussi huiles, olives, volailles, fruits, légumes… L'INAO recensait 107 AOP agroalimentaires en 2023, auxquelles s'ajoutent plus de 360 AOC/AOP viticoles, des appellations pour les cidres et spiritueux, plus de 150 IGP agroalimentaires et 438 Label Rouge. La viticulture reste de loin le premier domaine des appellations."
+    },
+    {
+      "type": "text",
+      "title": "Le Comté, un modèle de filière",
+      "body": "AOC depuis **1958**, AOP depuis 1996, le Comté est le premier fromage AOP français en volume. Son cahier des charges est exigeant : **lait cru** de vaches **montbéliardes ou simmentales françaises** uniquement, au moins un hectare de prairie par vache, collecte du lait dans un cercle de **25 km de diamètre** autour de chaque fromagerie, **affinage d'au moins 4 mois** (120 jours), robot de traite interdit.\n\nLa filière est organisée en trois maillons : selon l'interprofession (2025), environ **2 325 fermes**, **139 fruitières** (fromageries, souvent coopératives) qui fabriquent les meules d'environ 40 kg, et des affineurs. Elle revendique plus de 14 000 emplois directs et indirects dans le massif du Jura."
+    },
+    {
+      "type": "figure",
+      "value": "65 251 t",
+      "label": "de Comté commercialisées en 2024",
+      "body": "Selon les chiffres clés INAO-CNAOL, le Comté représente à lui seul près d'un tiers des fromages AOP vendus en France, et 88 % des volumes de pâtes pressées cuites AOP. Ses ventes ont progressé de 4 % par rapport à 2023."
+    },
+    {
+      "type": "text",
+      "title": "Ce que vaut un nom",
+      "body": "Une étude publiée en avril 2020 par la Commission européenne estimait la valeur des ventes des produits sous indication géographique dans l'Union à **74,76 milliards d'euros en 2017**. En moyenne, un produit au nom protégé se vendait **deux fois plus cher** qu'un produit comparable sans certification.\n\nUne telle valeur attire les imitations. Selon l'EUIPO (office européen de la propriété intellectuelle), les produits portant atteinte à des indications géographiques représentaient environ **4,3 milliards d'euros en 2014**, soit 9 % du marché. Il s'agit surtout d'imitations ou d'évocations de noms, et de fausses indications d'origine."
+    },
+    {
+      "type": "france",
+      "title": "Et ailleurs ?",
+      "body": "Le système européen d'AOP et d'IGP, créé en 1992 pour les produits agroalimentaires, reprend la logique des appellations françaises : un nom, un lieu, des règles. Aujourd'hui, l'Italie, l'Espagne ou la Grèce protègent elles aussi leurs produits phares de cette manière.\n\nHors de l'Union, la protection dépend d'accords commerciaux : l'UE négocie la reconnaissance de listes de noms protégés avec ses partenaires. L'enjeu est important, car les produits européens sous indication géographique s'exportent largement ; selon la Commission, leurs trois premières destinations étaient en 2017 les États-Unis, la Chine et Singapour."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Les appellations d'origine sont nées en France pour lutter contre les fraudes viticoles après le phylloxéra, avec la loi de 1905 puis le décret-loi de 1935 qui crée les AOC et l'ancêtre de l'INAO.",
+        "Une AOP exige que toutes les étapes se déroulent dans une aire délimitée selon un cahier des charges contrôlé, alors qu'une IGP n'en exige qu'une et que le Label Rouge garantit une qualité sans origine.",
+        "Le Comté, premier fromage AOP en volume, montre qu'un nom protégé crée de la valeur pour tout un territoire, ce qui attire aussi les contrefaçons."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quel fromage est devenu en 1925 la première appellation d'origine fromagère française ?",
+      "choices": ["Le Comté", "Le Roquefort", "Le Camembert de Normandie", "Le Brie de Meaux"],
+      "answer": 1,
+      "explain": "La loi du 26 juillet 1925 protège le nom Roquefort, fromage au lait de brebis affiné dans les caves de Roquefort-sur-Soulzon."
+    },
+    {
+      "q": "Quelle est la différence principale entre une AOP et une IGP ?",
+      "choices": ["L'AOP est française, l'IGP est européenne", "L'IGP garantit une qualité supérieure, l'AOP seulement une origine", "L'AOP ne concerne que les vins", "L'AOP exige que toutes les étapes de production aient lieu dans la zone, l'IGP au moins une"],
+      "answer": 3,
+      "explain": "Les deux sont des signes européens ; l'AOP impose que toute la production se déroule dans l'aire délimitée, alors que l'IGP n'exige qu'une étape (production, transformation ou élaboration) dans la zone."
+    },
+    {
+      "q": "Quel organisme public, issu d'un comité créé en 1935, reconnaît et protège les appellations d'origine en France ?",
+      "choices": ["L'INAO", "L'INSEE", "FranceAgriMer", "L'Académie d'agriculture"],
+      "answer": 0,
+      "explain": "Le décret-loi du 30 juillet 1935 crée les AOC et un comité national qui deviendra l'INAO, aujourd'hui Institut national de l'origine et de la qualité."
+    },
+    {
+      "q": "Parmi ces règles, laquelle fait partie du cahier des charges de l'AOP Comté ?",
+      "choices": ["Lait pasteurisé obligatoire", "Affinage d'au moins deux semaines", "Lait cru de vaches montbéliardes ou simmentales françaises et affinage d'au moins 4 mois", "Fabrication autorisée partout en France"],
+      "answer": 2,
+      "explain": "Le Comté se fabrique uniquement au lait cru de ces deux races, dans les fruitières de la zone d'appellation, avec un affinage minimal de 120 jours."
+    }
+  ],
+  "sources": [
+    { "label": "INAO — 1905-1935 : les débuts des appellations d'origine, une réponse aux crises", "url": "https://www.inao.gouv.fr/en/history-1905-1935" },
+    { "label": "INAO — 100 ans de l'AOP Roquefort", "url": "https://www.inao.gouv.fr/en/odg-100-ans-aop-roquefort" },
+    { "label": "INAO / CNAOL — Chiffres clés 2024 des produits laitiers AOP et IGP (septembre 2025)", "url": "https://www.inao.gouv.fr/sites/default/files/2025-09/CNAOL_CHIFFRESCLES2024_VF.pdf" },
+    { "label": "Ministère de l'Agriculture — Bien connaître les signes de l'origine et de la qualité", "url": "https://agriculture.gouv.fr/bien-connaitre-les-produits-de-lorigine-et-de-la-qualite" },
+    { "label": "Institut national de la consommation — Le comté : les secrets d'un fromage jurassien", "url": "https://www.inc-conso.fr/content/le-comte-les-secrets-dun-fromage-jurassien" },
+    { "label": "Commission européenne (SEAE) — Geographical Indications: a European treasure worth €75 billion (2020)", "url": "https://www.eeas.europa.eu/delegations/china/geographical-indications-%E2%80%93-european-treasure-worth-%E2%82%AC75-billion_en" }
+  ],
+  "further": [
+    { "kind": "site", "label": "INAO — Exposition des 90 ans et chiffres clés des signes de qualité", "url": "https://www.inao.gouv.fr/expo-90ans/2-chiffres-cles" },
+    { "kind": "site", "label": "EUIPO — étude 2016 sur les atteintes aux indications géographiques (présentation par l'office croate de la propriété intellectuelle)", "url": "https://dziv.hr/en/news/euipo%e2%80%99s-study-on-the-infringement-of-protected-geographical-indications,455.html" }
+  ]
+}

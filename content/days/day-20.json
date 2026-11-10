@@ -1,0 +1,117 @@
+{
+  "day": 20,
+  "domain": "Technologie",
+  "title": "Les semi-conducteurs : la puce, nouveau pétrole",
+  "subtitle": "Du transistor de 1947 aux « Chips Acts » : pourquoi une poignée d'usines pèse sur la géopolitique mondiale",
+  "emoji": "💾",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Une machine à 380 millions",
+      "body": "Une machine néerlandaise vendue autour de 380 millions de dollars. Une entreprise taïwanaise qui réalise 70 % du chiffre d'affaires mondial de la fabrication de puces pour le compte d'autrui. Une pénurie qui a empêché la production de plus de 11 millions de voitures en 2021. Comment un minuscule morceau de silicium est-il devenu un enjeu de puissance ?"
+    },
+    {
+      "type": "text",
+      "title": "1947, le transistor",
+      "body": "Dans les années 1940, l'électronique repose sur des tubes à vide, gros, fragiles et gourmands en énergie. Les Bell Labs, laboratoires du géant américain du téléphone, cherchent un remplaçant dans les **semi-conducteurs**, des matériaux dont on peut contrôler la conductivité électrique.\n\nLe 16 décembre 1947, les physiciens John Bardeen et Walter Brattain obtiennent avec un petit bloc de germanium un effet d'amplification : c'est le premier **transistor**. Ils le présentent à leur direction le 23 décembre, et les Bell Labs l'annoncent publiquement le 30 juin 1948. Un transistor est un interrupteur commandé électriquement : combiné par milliards, il permet de calculer."
+    },
+    {
+      "type": "quote",
+      "quote": "Un magnifique cadeau de Noël.",
+      "author": "William Shockley, à propos de la démonstration du transistor de décembre 1947 (traduit de l'anglais)",
+      "body": "Shockley dirigeait le groupe de physique du solide des Bell Labs. Le compliment cache une rivalité : il n'avait pas participé directement à l'expérience de Bardeen et Brattain, et mit ensuite au point son propre modèle de transistor."
+    },
+    {
+      "type": "text",
+      "title": "Tout sur une seule puce",
+      "body": "Câbler des transistors un par un limite vite la complexité des circuits. En 1958, Jack Kilby, chez Texas Instruments, réalise un premier **circuit intégré** : plusieurs composants sur un même morceau de semi-conducteur. En 1959, Robert Noyce, chez Fairchild Semiconductor, propose une version en silicium où les connexions sont déposées directement à la surface, bien plus facile à produire en série.\n\nC'est l'acte de naissance de la **puce** moderne. Kilby reçoit le prix Nobel de physique en 2000 ; Noyce, mort en 1990, n'a pu le partager, le Nobel n'étant pas attribué à titre posthume."
+    },
+    {
+      "type": "figure",
+      "value": "× 2",
+      "label": "Doublement régulier du nombre de composants par puce (« loi de Moore »)",
+      "body": "En 1965, dans la revue Electronics, Gordon Moore, alors chez Fairchild, prédit que le nombre de composants par circuit doublera chaque année, jusqu'à 65 000 en 1975. En 1975, devenu cofondateur d'Intel, il ajuste : un doublement tous les deux ans. C'est une observation économique et industrielle, pas une loi physique."
+    },
+    {
+      "type": "text",
+      "title": "Moore s'essouffle",
+      "body": "Pendant un demi-siècle, graver plus fin a rendu les puces à la fois plus puissantes, plus économes et moins chères par transistor. Mais les motifs gravés s'approchent aujourd'hui de l'échelle de quelques dizaines d'atomes : les fuites de courant et la chaleur deviennent difficiles à maîtriser.\n\nSurtout, chaque nouvelle génération coûte plus cher. Les usines les plus avancées représentent des investissements de plusieurs dizaines de milliards, et les machines indispensables se comptent en centaines de millions. Résultat : seule une poignée d'entreprises dans le monde peut encore suivre la course à la finesse, ce qui concentre la production… et les risques."
+    },
+    {
+      "type": "text",
+      "title": "Une chaîne mondiale éclatée",
+      "body": "Fabriquer une puce mobilise plusieurs métiers, souvent dans des pays différents :\n\n- la **conception** : de nombreuses entreprises, comme Nvidia, dessinent leurs puces sans posséder d'usine (on parle de modèle « fabless ») ;\n- la **fonderie** : des usines fabriquent les puces pour le compte de ces clients ;\n- les **équipements** et les **matériaux** : machines de lithographie, plaquettes de silicium, produits chimiques ;\n- l'**assemblage** et le test.\n\nLe modèle de la fonderie pure a été inventé par **TSMC**, fondée en 1987 à Hsinchu, à Taïwan, par Morris Chang, un ingénieur passé par Texas Instruments, avec le soutien de l'État taïwanais."
+    },
+    {
+      "type": "figure",
+      "value": "70,2 %",
+      "label": "Part de TSMC dans le chiffre d'affaires mondial de la fonderie",
+      "body": "C'est la part mesurée par le cabinet TrendForce au deuxième trimestre 2025, un record. Le numéro deux, Samsung, n'en détient que 7,3 %. Les puces les plus avancées des smartphones, des ordinateurs et de l'intelligence artificielle sortent pour l'essentiel des usines de TSMC à Taïwan, une île revendiquée par la Chine."
+    },
+    {
+      "type": "text",
+      "title": "ASML et la lumière extrême",
+      "body": "Pour graver les motifs d'une puce, on projette de la lumière à travers un masque sur une plaquette de silicium : c'est la **lithographie**. Plus la longueur d'onde est courte, plus le motif peut être fin.\n\nLa technologie la plus avancée, l'**ultraviolet extrême (EUV)**, utilise une lumière de 13,5 nanomètres. Pour la produire, un laser frappe deux fois des gouttelettes d'étain en mouvement, jusqu'à 50 000 fois par seconde ; des miroirs remplacent les lentilles. Seule l'entreprise néerlandaise **ASML** a mené cette technologie jusqu'à la production. Sa dernière génération, dite High-NA, était annoncée en 2024 autour de 380 millions de dollars l'unité."
+    },
+    {
+      "type": "text",
+      "title": "2021, la grande pénurie",
+      "body": "Pendant la pandémie de Covid-19, la demande d'ordinateurs et d'électronique grand public explose, tandis que les constructeurs automobiles, anticipant une chute des ventes, réduisent leurs commandes de puces. Quand la demande de voitures repart, les fonderies tournent déjà à plein. Des incidents industriels aggravent la situation.\n\nSelon le cabinet AutoForecast Solutions, la pénurie a empêché la production de **plus de 11 millions de véhicules** dans le monde en 2021. Une voiture moderne contient en effet de nombreuses puces, souvent peu sophistiquées mais indispensables. La crise révèle à quel point l'économie dépend de quelques usines lointaines."
+    },
+    {
+      "type": "text",
+      "title": "Les « Chips Acts »",
+      "body": "La pénurie et les tensions autour de Taïwan poussent les puissances à relocaliser. Aux États-Unis, le **CHIPS and Science Act**, signé le 9 août 2022, prévoit 52,7 milliards de dollars sur cinq ans, dont 39 milliards d'aides à la production, plus un crédit d'impôt de 25 % sur les investissements dans les usines.\n\nL'Union européenne présente son **règlement sur les semi-conducteurs** en février 2022 ; il entre en vigueur le 21 septembre 2023. Objectif affiché : mobiliser 43 milliards d'euros de financements publics et privés et faire passer la part européenne de la production mondiale d'environ 10 % à 20 % en 2030, un objectif que beaucoup jugent ambitieux."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "La France compte deux acteurs de poids, tous deux près de Grenoble. **Soitec**, née en 1992 au CEA-Leti, fabrique à Bernin des plaquettes de « silicium sur isolant » (SOI) grâce à son procédé Smart Cut, utilisées notamment dans les smartphones et l'automobile.\n\n**STMicroelectronics** est née en 1987 du rapprochement de l'italien SGS Microelettronica et de Thomson Semiconducteurs ; le groupe franco-italien a son siège près de Genève et une grande usine à Crolles (Isère). En juillet 2022, ST et l'américain GlobalFoundries ont annoncé une nouvelle usine commune à Crolles, avec un fort soutien de l'État, présentée comme une contribution à l'objectif européen de 2030."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Du transistor (Bell Labs, 1947) au circuit intégré (1958-1959), la miniaturisation a suivi la « loi de Moore », qui ralentit aujourd'hui face aux limites physiques et aux coûts.",
+        "La chaîne de valeur est très concentrée : TSMC réalise environ 70 % du chiffre d'affaires mondial de la fonderie et ASML est seul à maîtriser la lithographie EUV.",
+        "La pénurie de 2021 a poussé les États-Unis (2022) et l'UE (2023) à adopter des « Chips Acts » pour relocaliser la production."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Où le premier transistor a-t-il été mis au point en 1947 ?",
+      "choices": ["Chez IBM", "Au CEA de Grenoble", "Aux Bell Labs, aux États-Unis", "Chez Texas Instruments"],
+      "answer": 2,
+      "explain": "John Bardeen et Walter Brattain y obtiennent en décembre 1947 le premier effet transistor sur un bloc de germanium."
+    },
+    {
+      "q": "Que prédisait Gordon Moore dans sa version révisée de 1975 de la « loi de Moore » ?",
+      "choices": ["Un doublement du nombre de composants par puce environ tous les deux ans", "Une division par deux du prix des ordinateurs chaque année", "La fin des transistors en 2000", "Le doublement de la vitesse d'internet chaque mois"],
+      "answer": 0,
+      "explain": "En 1965, Moore prévoyait un doublement annuel ; en 1975, il ramène le rythme à un doublement tous les deux ans."
+    },
+    {
+      "q": "Quelle entreprise est la seule à avoir industrialisé les machines de lithographie à ultraviolet extrême (EUV) ?",
+      "choices": ["TSMC (Taïwan)", "Intel (États-Unis)", "Soitec (France)", "ASML (Pays-Bas)"],
+      "answer": 3,
+      "explain": "ASML, entreprise néerlandaise, a mené seule l'EUV jusqu'à la production ; ses machines sont indispensables pour les puces les plus avancées."
+    },
+    {
+      "q": "Quel objectif le règlement européen sur les semi-conducteurs (Chips Act, 2023) fixe-t-il pour 2030 ?",
+      "choices": ["Interdire les importations de puces asiatiques", "Atteindre 20 % de la production mondiale de puces", "Racheter TSMC", "Produire 100 % des puces consommées en Europe"],
+      "answer": 1,
+      "explain": "L'UE veut passer d'environ 10 % à 20 % de la production mondiale en mobilisant 43 milliards d'euros de financements publics et privés."
+    }
+  ],
+  "sources": [
+    { "label": "Computer History Museum — 1947 : Invention of the Point-Contact Transistor", "url": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/" },
+    { "label": "Computer History Museum — 1965 : « Moore's Law » Predicts the Future of Integrated Circuits", "url": "https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/" },
+    { "label": "Evertiq (données TrendForce) — 2Q25 foundry revenue surges 14.6%, TSMC extends market dominance", "url": "https://evertiq.com/news/2025-09-02-2q25-foundry-revenue-surges-146-tsmc-extends-market-dominance" },
+    { "label": "ASML — EUV lithography systems", "url": "https://www.asml.com/en/products/euv-lithography-systems" },
+    { "label": "Commission européenne — Le règlement européen sur les semi-conducteurs", "url": "https://digital-strategy.ec.europa.eu/fr/policies/european-chips-act" },
+    { "label": "L'argus — Pénurie de puces : vers une sortie de crise en 2023 ? (2022)", "url": "https://www.largus.fr/pros/actualite-automobile/penurie-de-puces-vers-une-sortie-de-crise-en-2023-10842399.html" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Chip War: The Fight for the World's Most Critical Technology — Chris Miller (Scribner, 2022, en anglais)" }
+  ]
+}

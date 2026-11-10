@@ -1,0 +1,140 @@
+{
+  "day": 1,
+  "domain": "Agriculture",
+  "title": "Le blé, du champ à la baguette",
+  "subtitle": "Comment la première céréale de France nourrit le pays… et une partie du monde",
+  "emoji": "🌾",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Un hybride de 10 000 ans dans votre panier",
+      "body": "La baguette que vous achetez ce matin est faite d'une plante qui n'existait pas il y a une douzaine de millénaires. Le blé tendre est né d'un croisement accidentel entre un blé cultivé et une herbe sauvage, au Proche-Orient. Aujourd'hui, la France en récolte plus de 30 millions de tonnes par an."
+    },
+    {
+      "type": "text",
+      "title": "Né dans le Croissant fertile",
+      "body": "L'histoire du blé est une histoire d'hybridations. Selon l'INRAE, il y a environ **500 000 ans**, un premier croisement naturel entre deux graminées sauvages (*Triticum urartu* et une espèce proche d'*Aegilops speltoides*) donne des blés dits tétraploïdes, à quatre jeux de chromosomes.\n\nPuis, il y a environ **10 000 ans**, au moment où les premiers agriculteurs les domestiquent dans le Croissant fertile (du Levant au nord de l'Irak et à l'ouest de l'Iran), ces blés se croisent avec une autre herbe sauvage, *Aegilops tauschii*. Résultat : un blé à six jeux de chromosomes, le blé tendre."
+    },
+    {
+      "type": "text",
+      "title": "Blé tendre ou blé dur ?",
+      "body": "Ce sont deux espèces différentes, pas deux qualités du même blé.\n\nLe **blé dur** est un blé tétraploïde (quatre jeux de chromosomes). Son grain, vitreux, se fragmente en semoule : c'est la matière première des pâtes et du couscous. Il aime les climats chauds et secs, d'où sa culture surtout dans le sud de la France.\n\nLe **blé tendre** (ou froment) est hexaploïde. Son grain se broie en farine, et son gluten permet à la pâte de lever : c'est le blé du pain, des biscuits… mais aussi de l'alimentation animale. En France, il représente à lui seul environ la moitié de toutes les céréales récoltées, contre 2 % pour le blé dur."
+    },
+    {
+      "type": "text",
+      "title": "Un cycle qui passe l'hiver",
+      "body": "En France, l'essentiel du blé tendre est un **blé d'hiver** : semé en octobre-novembre, il germe, puis produit plusieurs tiges à partir d'un même pied (le tallage) avant de passer l'hiver.\n\nCe froid n'est pas un obstacle mais une nécessité. Une variété « hiver » a besoin de 45 à 60 jours de températures fraîches (idéalement 3 à 10 °C) pour devenir capable de fleurir : c'est la **vernalisation**. Sans elle, pas d'épi.\n\nAu printemps viennent la montaison (la tige s'allonge), l'épiaison, la floraison, puis le remplissage des grains. La moisson a lieu en juillet. La campagne commerciale court donc du 1er juillet au 30 juin."
+    },
+    {
+      "type": "figure",
+      "value": "31,8 Mt",
+      "label": "Production moyenne de blé tendre en France (2020-2024)",
+      "body": "Moyenne des campagnes 2020/21 à 2024/25 selon FranceAgriMer, sur environ 4,6 millions d'hectares. Mais la météo fait varier ce chiffre : la récolte 2024, noyée sous les pluies, est tombée à 25,6 Mt, l'une des plus faibles depuis des décennies, avant un rebond au-dessus de 32 Mt en 2025 selon les premières estimations."
+    },
+    {
+      "type": "text",
+      "title": "Où part le blé français ?",
+      "body": "La moitié nord du pays concentre la production : Hauts-de-France, Grand Est, Centre-Val de Loire et Normandie en fournissent 60 %.\n\nEnviron **la moitié de la récolte est exportée** : 15 Mt par an en moyenne sur 2020-2024, vers d'autres pays de l'UE et vers des pays tiers, surtout le Maghreb et l'Afrique subsaharienne.\n\nSur le marché intérieur, la meunerie (4,6 Mt) arrive au coude-à-coude avec les fabricants d'aliments pour le bétail (4,5 Mt). Le reste nourrit l'amidonnerie, la biscuiterie ou la production d'éthanol. Les importations, elles, ne pèsent qu'environ 1 % de la production."
+    },
+    {
+      "type": "figure",
+      "value": "1er",
+      "label": "La France, premier producteur et exportateur de blé tendre de l'UE",
+      "body": "Mais à l'échelle mondiale, elle n'est que 8e producteur, derrière la Chine, l'Inde, la Russie, les États-Unis, le Canada, l'Australie et le Pakistan, et 7e exportateur (classements FranceAgriMer, édition 2026). Chine et Inde produisent énormément mais consomment presque tout chez elles."
+    },
+    {
+      "type": "figure",
+      "value": "45,1 Mt",
+      "label": "Exportations moyennes de blé de la Russie (2020-2024)",
+      "body": "La Russie est de loin le premier exportateur mondial, devant le Canada (27,2 Mt), les États-Unis (22,7 Mt), l'Australie (22,0 Mt) et l'Ukraine (16,8 Mt), selon FranceAgriMer. Les blés de la mer Noire, bon marché, concurrencent directement le blé français sur ses débouchés traditionnels, comme l'Afrique du Nord."
+    },
+    {
+      "type": "text",
+      "title": "Le « Matif », thermomètre du blé",
+      "body": "Le prix du blé européen se forme largement sur le marché à terme d'Euronext à Paris, encore souvent appelé « Matif ». On y échange des contrats de **blé de meunerie** portant sur 50 tonnes, cotés en euros par tonne, pour des livraisons futures. Agriculteurs, coopératives, meuniers et négociants s'en servent pour se couvrir contre les variations de prix.\n\nCe prix réagit à tout : météo, récoltes, géopolitique. Après l'invasion de l'Ukraine en février 2022, il s'est envolé. Le **16 mai 2022**, après l'annonce d'un embargo indien sur les exportations, le blé a clôturé à **438,25 €/t**, un record historique sur Euronext."
+    },
+    {
+      "type": "text",
+      "title": "Du grain à la baguette",
+      "body": "Au moulin, le grain est nettoyé puis broyé et tamisé pour séparer l'amande (qui donne la farine blanche) de l'enveloppe (le son).\n\nPour le pain, la loi fixe des règles précises. Le décret du 13 septembre 1993 réserve l'appellation **« pain de tradition française »** à un pain fait uniquement de farine de blé, d'eau potable et de sel, fermenté à la levure et/ou au levain, **sans aucun additif et jamais surgelé** pendant sa fabrication. Seules de petites quantités de farine de fèves, de soja ou de malt de blé sont tolérées.\n\nUne « baguette » ordinaire, elle, peut contenir des additifs autorisés."
+    },
+    {
+      "type": "quote",
+      "quote": "La baguette est le type de pain le plus apprécié et consommé en France tout au long de l'année.",
+      "author": "UNESCO, fiche « Les savoir-faire artisanaux et la culture de la baguette de pain » (2022)",
+      "body": "Le 30 novembre 2022, l'UNESCO a inscrit ces savoir-faire sur la Liste représentative du patrimoine culturel immatériel de l'humanité. C'est le geste et la culture qui sont protégés (pétrissage, façonnage, coup de lame), pas un produit."
+    },
+    {
+      "type": "france",
+      "title": "Et ailleurs ?",
+      "body": "Le blé est une affaire mondiale. La Chine et l'Inde en sont les premiers producteurs, mais quasiment sans exporter. Le commerce, lui, est dominé par une poignée de pays : Russie, Canada, États-Unis, Australie, Ukraine… Pour de nombreux pays importateurs d'Afrique du Nord et du Moyen-Orient, le pain dépend donc directement de ces récoltes lointaines et des routes maritimes, comme l'a rappelé la flambée de 2022."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Le blé tendre est un hybride naturel apparu il y a environ 10 000 ans dans le Croissant fertile ; le blé dur, espèce distincte, sert aux pâtes et à la semoule.",
+        "La France est le premier producteur et exportateur de blé tendre de l'UE (environ 32 Mt par an), mais la Russie domine largement les exportations mondiales.",
+        "Le prix du blé européen se forme sur Euronext à Paris, et la baguette artisanale est inscrite au patrimoine immatériel de l'UNESCO depuis 2022."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quelle est la principale différence entre le blé tendre et le blé dur ?",
+      "choices": [
+        "Le blé dur est simplement du blé tendre récolté plus tard",
+        "Ce sont deux espèces distinctes : le blé tendre donne surtout de la farine pour le pain, le blé dur de la semoule pour les pâtes",
+        "Le blé tendre pousse uniquement dans le sud de la France",
+        "Le blé dur ne contient pas de gluten"
+      ],
+      "answer": 1,
+      "explain": "Le blé dur (tétraploïde) se fragmente en semoule, base des pâtes ; le blé tendre (hexaploïde) se broie en farine et sert au pain, aux biscuits et à l'alimentation animale."
+    },
+    {
+      "q": "Pourquoi le blé d'hiver est-il semé à l'automne en France ?",
+      "choices": [
+        "Pour éviter les oiseaux au printemps",
+        "Parce que la moisson doit avoir lieu en mars",
+        "Parce qu'il a besoin d'une période de froid (vernalisation) pour pouvoir fleurir et former ses épis",
+        "Parce que les engrais sont moins chers en automne"
+      ],
+      "answer": 2,
+      "explain": "Les variétés d'hiver ont besoin de plusieurs semaines de températures fraîches pour acquérir la capacité de fleurir : c'est la vernalisation. Sans elle, le blé n'épie pas."
+    },
+    {
+      "q": "Quel pays est de loin le premier exportateur mondial de blé (moyenne 2020-2024) ?",
+      "choices": [
+        "La Russie",
+        "La France",
+        "La Chine",
+        "L'Inde"
+      ],
+      "answer": 0,
+      "explain": "Selon FranceAgriMer, la Russie a exporté en moyenne 45,1 Mt par an, loin devant le Canada et les États-Unis. La Chine et l'Inde produisent beaucoup mais consomment presque tout."
+    },
+    {
+      "q": "Selon le décret de 1993, que ne peut PAS contenir un « pain de tradition française » ?",
+      "choices": [
+        "Du sel",
+        "Du levain",
+        "De l'eau potable",
+        "Des additifs"
+      ],
+      "answer": 3,
+      "explain": "Le pain de tradition française est fait de farine de blé, d'eau, de sel et de levure et/ou levain, sans aucun additif et sans surgélation pendant sa fabrication."
+    }
+  ],
+  "sources": [
+    { "label": "FranceAgriMer — Fiche filière blé tendre (édition janvier 2026)", "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/15_FICHE_FILIERE_BLE_TENDRE_2026.pdf" },
+    { "label": "INRAE — L'origine des blés modernes révélée (2020)", "url": "https://www.inrae.fr/actualites/lorigine-bles-modernes-revelee" },
+    { "label": "Arvalis — La vernalisation, un passage obligé pour fleurir", "url": "https://www.arvalis.fr/infos-techniques/la-vernalisation-un-passage-oblige-pour-fleurir" },
+    { "label": "Légifrance — Décret n° 93-1074 du 13 septembre 1993 (pain)", "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000727617" },
+    { "label": "UNESCO — Les savoir-faire artisanaux et la culture de la baguette de pain", "url": "https://ich.unesco.org/fr/RL/savoir-faire-artisanaux-et-culture-de-la-baguette-de-pain-01883" },
+    { "label": "Pleinchamp — 438,25 €/t : le prix du blé bat un record sur Euronext (2022)", "url": "https://www.pleinchamp.com/actualite/438-25-t-le-prix-du-ble-bat-un-record-sur-euronext" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Géopolitique du blé — Sébastien Abis (Armand Colin, 2023)" },
+    { "kind": "livre", "label": "Atlas de l'agriculture. Mieux nourrir le monde — Jean-Paul Charvet (Autrement)" },
+    { "kind": "site", "label": "FranceAgriMer — VisioNet, données de marché des céréales", "url": "https://visionet.franceagrimer.fr" }
+  ]
+}

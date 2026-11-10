@@ -1,0 +1,140 @@
+{
+  "day": 8,
+  "domain": "Sciences",
+  "title": "L'ADN et CRISPR : réécrire le code du vivant",
+  "subtitle": "De la double hélice aux ciseaux génétiques, soixante ans pour apprendre à lire puis à corriger le génome",
+  "emoji": "🧬",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Un outil volé aux bactéries",
+      "body": "L'un des outils les plus puissants de la biologie moderne n'a pas été inventé par l'homme : il a été emprunté à des bactéries, qui s'en servent depuis toujours pour se défendre contre les virus. Grâce à lui, modifier une lettre précise de l'ADN prend désormais quelques semaines."
+    },
+    {
+      "type": "text",
+      "title": "La molécule de l'hérédité",
+      "body": "L'ADN (acide désoxyribonucléique) est présent dans presque toutes nos cellules. C'est une longue molécule formée de deux brins enroulés l'un autour de l'autre : la **double hélice**.\n\nChaque brin est une suite de quatre « lettres », les bases A, T, G et C. Elles s'apparient toujours de la même façon : A avec T, G avec C. Conséquence décisive : si l'on connaît un brin, on connaît l'autre. C'est ce qui permet à la cellule de recopier fidèlement son ADN avant de se diviser."
+    },
+    {
+      "type": "figure",
+      "value": "25 avril 1953",
+      "label": "la double hélice paraît dans la revue Nature",
+      "body": "Ce jour-là, Nature publie trois articles sur la structure de l'ADN : celui de James Watson et Francis Crick (Cambridge), qui propose le modèle en double hélice, et deux articles de chercheurs du King's College de Londres, dont Rosalind Franklin et Maurice Wilkins, qui apportent les données expérimentales."
+    },
+    {
+      "type": "quote",
+      "quote": "Il ne nous a pas échappé que l'appariement spécifique que nous avons postulé suggère immédiatement un mécanisme possible de copie du matériel génétique.",
+      "author": "James Watson et Francis Crick, Nature, 25 avril 1953 (traduction)",
+      "body": "Avant-dernière phrase de leur article, d'une sobriété célèbre. En une ligne, ils annoncent que la structure de l'ADN explique comment l'hérédité se transmet."
+    },
+    {
+      "type": "text",
+      "title": "Rosalind Franklin, l'oubliée",
+      "body": "En 1952, au King's College, la physico-chimiste Rosalind Franklin et le doctorant Ray Gosling obtiennent par diffraction de rayons X la **« photo 51 »**, qui révèle la forme hélicoïdale de l'ADN. Début 1953, Maurice Wilkins montre ce cliché et des données de Franklin à Watson, ce qui aide décisivement le duo de Cambridge.\n\nEn 1962, le prix Nobel de médecine récompense Watson, Crick et Wilkins. Franklin est morte d'un cancer en 1958, à 37 ans ; le Nobel n'est pas décerné à titre posthume. Son rôle, longtemps minimisé, est aujourd'hui pleinement reconnu."
+    },
+    {
+      "type": "text",
+      "title": "Du gène à la protéine",
+      "body": "Un gène est un segment d'ADN qui contient la recette d'une protéine. La cellule ne lit pas directement l'ADN : elle en fait d'abord une copie de travail, l'ARN messager (c'est la **transcription**).\n\nCet ARN est ensuite lu par les ribosomes, trois lettres à la fois : chaque triplet, ou codon, correspond à un acide aminé. Les acides aminés s'enchaînent pour former la protéine (c'est la **traduction**). Une seule lettre changée peut suffire à rendre une protéine défaillante : c'est le cas de la drépanocytose."
+    },
+    {
+      "type": "figure",
+      "value": "3 milliards",
+      "label": "de lettres dans le génome humain",
+      "body": "Lancé en octobre 1990, le Projet génome humain, programme international, est déclaré achevé en avril 2003, avec plus de deux ans d'avance. Il restait toutefois des zones difficiles à lire : la première séquence vraiment complète, d'un bout à l'autre des chromosomes, n'a été publiée qu'en 2022."
+    },
+    {
+      "type": "text",
+      "title": "Une mémoire antivirale",
+      "body": "En 1992, à l'université d'Alicante, le microbiologiste espagnol **Francisco Mojica** remarque dans le génome de micro-organismes des marais salants d'étranges séquences répétées, séparées par des fragments uniques. Il proposera le nom de CRISPR pour les désigner.\n\nPendant dix ans, il cherche leur fonction. Il finit par constater que ces fragments correspondent à de l'ADN de virus : la bactérie garde en mémoire un morceau de ses agresseurs pour les reconnaître et les détruire lors d'une nouvelle attaque. C'est un système immunitaire acquis. Il publie cette hypothèse en 2005."
+    },
+    {
+      "type": "text",
+      "title": "Des ciseaux programmables",
+      "body": "En étudiant la bactérie *Streptococcus pyogenes*, la microbiologiste française **Emmanuelle Charpentier** identifie un petit ARN indispensable au système (publication en 2011). Elle s'associe alors à la biochimiste américaine Jennifer Doudna.\n\nEn 2012, elles montrent qu'on peut simplifier le système et le reprogrammer : la protéine Cas9, guidée par un ARN que l'on fabrique à la demande, coupe l'ADN exactement à l'endroit choisi. La cellule répare ensuite la coupure, ce qui permet d'inactiver un gène ou de le corriger. Un outil universel, bon marché et rapide."
+    },
+    {
+      "type": "figure",
+      "value": "2020",
+      "label": "Nobel de chimie pour Charpentier et Doudna",
+      "body": "Le 7 octobre 2020, l'Académie royale des sciences de Suède leur décerne le prix Nobel de chimie « pour le développement d'une méthode d'édition du génome ». C'est la première fois que deux femmes se partagent ce prix. Huit ans seulement séparent la découverte de la récompense, un délai très court."
+    },
+    {
+      "type": "text",
+      "title": "Soigner… et transgresser",
+      "body": "Fin 2023, le Royaume-Uni puis les États-Unis (le 8 décembre) autorisent le premier médicament fondé sur CRISPR, Casgevy, contre la drépanocytose. On prélève les cellules souches sanguines du patient, on les modifie pour relancer la production d'hémoglobine fœtale, puis on les réinjecte.\n\nMais l'outil peut aussi franchir des limites. En novembre 2018, le chercheur chinois **He Jiankui** annonce la naissance de jumelles dont il a modifié le génome à l'état d'embryon (gène CCR5, lié à l'infection par le VIH). Modification transmissible à la descendance, sans justification médicale : il est condamné en décembre 2019 à trois ans de prison."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "Emmanuelle Charpentier est née en 1968 à Juvisy-sur-Orge et a fait sa thèse à l'Institut Pasteur (1995), avant une carrière à l'étranger ; elle dirige aujourd'hui un institut Max-Planck à Berlin. La drépanocytose est, selon l'Inserm, la maladie génétique la plus fréquente en France. En 2024, la Haute Autorité de santé a admis Casgevy au remboursement, mais seulement comme traitement de recours pour des formes sévères chez les 12-35 ans. Côté agriculture, un règlement européen adopté en 2026 traitera, à partir de juillet 2028, certaines plantes issues de l'édition du génome comme des variétés conventionnelles, et non plus comme des OGM."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "L'ADN est une double hélice dont les bases s'apparient (A-T, G-C), structure publiée en 1953 grâce notamment aux données de Rosalind Franklin.",
+        "CRISPR est à l'origine un système immunitaire de bactéries, transformé en 2012 par Charpentier et Doudna en « ciseaux » capables de couper l'ADN à un endroit choisi.",
+        "L'outil soigne déjà (drépanocytose, depuis 2023) mais pose des questions éthiques majeures, comme l'a montré l'affaire des bébés modifiés de He Jiankui en 2018."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dans l'ADN, avec quelle base s'apparie toujours l'adénine (A) ?",
+      "choices": [
+        "La guanine (G)",
+        "La cytosine (C)",
+        "La thymine (T)",
+        "L'uracile (U)"
+      ],
+      "answer": 2,
+      "explain": "A s'apparie avec T et G avec C : ces paires complémentaires permettent de reconstituer un brin à partir de l'autre, donc de copier l'ADN."
+    },
+    {
+      "q": "Quel a été le rôle de Rosalind Franklin dans la découverte de la double hélice de l'ADN ?",
+      "choices": [
+        "Elle a obtenu des images par rayons X, dont la « photo 51 », décisives pour le modèle",
+        "Elle a reçu le prix Nobel 1962 avec Watson et Crick",
+        "Elle a découvert CRISPR chez les bactéries",
+        "Elle a dirigé le Projet génome humain"
+      ],
+      "answer": 0,
+      "explain": "Ses clichés de diffraction et ses données, montrés à Watson début 1953, ont aidé à établir la structure ; morte en 1958, elle n'a pas été associée au Nobel de 1962."
+    },
+    {
+      "q": "À l'origine, à quoi sert le système CRISPR chez les bactéries ?",
+      "choices": [
+        "À produire de l'énergie",
+        "À se défendre contre les virus en gardant la mémoire de leur ADN",
+        "À se déplacer",
+        "À fabriquer leur paroi"
+      ],
+      "answer": 1,
+      "explain": "Comme l'a compris Francisco Mojica, les bactéries conservent des fragments d'ADN viral qui leur permettent de reconnaître et de couper ces virus lors d'une nouvelle infection."
+    },
+    {
+      "q": "Pour quelle raison He Jiankui a-t-il été condamné en Chine en 2019 ?",
+      "choices": [
+        "Pour avoir plagié les travaux de Doudna",
+        "Pour avoir commercialisé un traitement contre la drépanocytose",
+        "Pour avoir cloné un être humain",
+        "Pour avoir modifié génétiquement des embryons ayant donné naissance à des bébés"
+      ],
+      "answer": 3,
+      "explain": "Il a modifié le gène CCR5 d'embryons, dont sont nées des jumelles annoncées en novembre 2018 : une modification transmissible à la descendance, interdite et sans justification médicale."
+    }
+  ],
+  "sources": [
+    { "label": "King's College London — The discovery of the structure of DNA", "url": "https://www.kcl.ac.uk/news/the-discovery-of-the-structure-of-dna-4" },
+    { "label": "NHGRI (National Human Genome Research Institute) — Human Genome Project", "url": "https://www.genome.gov/human-genome-project" },
+    { "label": "EMBO — Francis Mojica, fascinated by CRISPR for three decades", "url": "https://www.embo.org/people/fascinated-by-crispr-for-three-decades/" },
+    { "label": "Académie royale des sciences de Suède — Prix Nobel de chimie 2020 : les ciseaux génétiques", "url": "https://www.kva.se/en/news/nobelpriset-i-kemi-2020-2/" },
+    { "label": "Haute Autorité de santé — Casgevy (exagamglogène autotemcel), drépanocytose sévère", "url": "https://www.has-sante.fr/jcms/p_3541918" },
+    { "label": "MIT Technology Review — He Jiankui sentenced to three years in prison for CRISPR babies (2019)", "url": "https://www.technologyreview.com/s/614997/he-jiankui-sentenced-to-three-years-in-prison-for-crispr-babies/" }
+  ],
+  "further": [
+    { "kind": "site", "label": "Inserm — Dossier drépanocytose", "url": "https://www.inserm.fr/dossier/drepanocytose/" },
+    { "kind": "site", "label": "EFSA — New genomic techniques (règlement européen 2026 sur les plantes issues de l'édition du génome)", "url": "https://www.efsa.europa.eu/en/topics/new-genomic-techniques" },
+    { "kind": "livre", "label": "La Double Hélice — James D. Watson (1968), récit personnel et controversé de la découverte" }
+  ]
+}

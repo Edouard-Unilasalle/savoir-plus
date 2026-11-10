@@ -1,0 +1,139 @@
+{
+  "day": 7,
+  "domain": "Villes",
+  "title": "Haussmann : comment Paris a été éventré et réinventé",
+  "subtitle": "Dix-sept ans de chantiers qui ont donné à la capitale le visage qu'elle a encore aujourd'hui",
+  "emoji": "🏙️",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "La ville qu'on croit éternelle",
+      "body": "Les boulevards rectilignes, les façades crème alignées, les grands parcs : ce Paris « de carte postale » n'a pas grandi tout seul. L'essentiel a été tracé en moins de vingt ans, au prix de quartiers entiers rasés, sous l'autorité d'un seul homme, le préfet Haussmann."
+    },
+    {
+      "type": "text",
+      "title": "Paris avant Haussmann",
+      "body": "Au milieu du XIXe siècle, le centre de Paris garde un tissu largement hérité du Moyen Âge : ruelles étroites et sombres, maisons entassées, cours sans lumière. La population a fortement augmenté avec l'exode rural, et les plus pauvres s'entassent au cœur de la ville.\n\nL'eau potable manque, les eaux usées s'écoulent souvent à ciel ouvert. **Circuler est difficile**, respirer aussi. Les épidémies frappent d'autant plus durement les quartiers populaires : les médecins de l'époque établissent déjà le lien entre misère, insalubrité et mortalité."
+    },
+    {
+      "type": "figure",
+      "value": "18 400",
+      "label": "morts du choléra à Paris en 1832",
+      "body": "Première vague de choléra dans la capitale : du 26 mars au 30 septembre 1832, soit 189 jours, plus de 18 400 décès selon la commission chargée d'en faire le bilan. L'épidémie revient en 1849. Ce traumatisme nourrit l'idée qu'il faut aérer la ville, l'assainir et lui donner de l'eau propre."
+    },
+    {
+      "type": "text",
+      "title": "Un empereur, un préfet",
+      "body": "Napoléon III, qui a vécu en exil à Londres, veut moderniser Paris. Avant même d'avoir son homme, il a dessiné un plan colorié des rues à ouvrir en priorité.\n\nLe 23 juin 1853, il nomme **Georges Eugène Haussmann** préfet de la Seine. Haussmann n'est ni architecte ni ingénieur : c'est un administrateur redoutable et surtout un financier. Il reconnaîtra lui-même que le tracé des nouvelles rues était dessiné par l'architecte Eugène Deschamps. Son talent est de faire exécuter, et payer, un programme gigantesque."
+    },
+    {
+      "type": "text",
+      "title": "Percer, aligner, relier",
+      "body": "La méthode tient en un mot : la **percée**. On trace de larges voies rectilignes à travers le vieux tissu urbain, en expropriant et en démolissant tout ce qui se trouve sur le passage. Ces axes relient les gares, les places et les grands monuments, et laissent entrer l'air et la lumière.\n\nLe long de ces voies, des terrains neufs prennent de la valeur. C'est le cœur du système : la plus-value créée par les nouvelles rues doit servir à rembourser les emprunts. Haussmann appelle cela les « dépenses productives »."
+    },
+    {
+      "type": "text",
+      "title": "L'immeuble haussmannien",
+      "body": "Le règlement de 1859 lie pour la première fois la hauteur des immeubles à la largeur de la rue : sur les voies de plus de 20 mètres, la façade peut atteindre 20 mètres. Il fixe ainsi le **gabarit classique** : un rez-de-chaussée, cinq étages principaux et un comble.\n\nCe n'est pas Haussmann qui invente la distribution intérieure (salons sur rue, cuisine et service sur cour) : elle vient des hôtels particuliers aristocratiques et s'était déjà diffusée. Mais l'uniformité des règles crée ces perspectives continues qui font l'identité de Paris."
+    },
+    {
+      "type": "text",
+      "title": "Sous la ville, l'eau",
+      "body": "Haussmann s'entoure d'ingénieurs qu'il a connus en province. **Eugène Belgrand** fait venir à Paris de l'eau de source, captée dans les vallées de la Dhuis et de la Vanne et acheminée par aqueducs, et construit un réseau moderne d'égouts. Dès l'Exposition universelle de 1867, on les fait visiter au public.\n\nAdolphe Alphand, lui, crée les espaces verts : les bois de Boulogne et de Vincennes, les parcs Monceau, des Buttes-Chaumont et Montsouris, et une vingtaine de squares. Paris devient une ville où l'on se promène."
+    },
+    {
+      "type": "figure",
+      "value": "×2",
+      "label": "la superficie de Paris lors de l'annexion de 1860",
+      "body": "Au 1er janvier 1860, Paris absorbe les communes situées entre le mur des Fermiers généraux et l'enceinte de Thiers (Belleville, Montmartre, Passy, La Villette…). La ville passe de 3 288 à 7 088 hectares et de 12 à 20 arrondissements : à peu de chose près, ses limites actuelles."
+    },
+    {
+      "type": "figure",
+      "value": "2,5 milliards",
+      "label": "de francs : coût estimé des grands travaux",
+      "body": "La charge totale est évaluée à environ 2,5 milliards de francs, l'équivalent d'une année de budget de l'État. Pour la financer, Haussmann emprunte, mais aussi de façon déguisée : des « bons de délégation » font des entreprises concessionnaires des prêteurs cachés de la Ville, ce qui masque l'ampleur réelle de l'endettement."
+    },
+    {
+      "type": "quote",
+      "quote": "Nos affaires sont conduites par un dissipateur, et nous plaidons en interdiction.",
+      "author": "Jules Ferry, Les Comptes fantastiques d'Haussmann (1868)",
+      "body": "Le jeune député républicain réunit en brochure ses articles du journal Le Temps. Le titre joue sur les Contes fantastiques d'Hoffmann. Fragilisé par ces révélations et par l'opposition politique, Haussmann est renvoyé par Napoléon III début janvier 1870."
+    },
+    {
+      "type": "text",
+      "title": "Barricades et expulsions ?",
+      "body": "Deux critiques reviennent souvent. La première : les boulevards auraient été conçus pour faire charger la troupe contre les insurgés. Pour l'historien de l'architecture Pierre Pinon, ce motif militaire n'est démontré que pour deux cas, dont le boulevard Richard-Lenoir.\n\nLa seconde : les ouvriers auraient été chassés vers la périphérie par la hausse des loyers. Les travaux ont bien démoli d'innombrables logements populaires, mais des études récentes nuancent : des artisans sont restés au centre près de leur clientèle, et les nouveaux quartiers périphériques se sont **surtout remplis de provinciaux**. Le débat reste ouvert."
+    },
+    {
+      "type": "france",
+      "title": "Et ailleurs ?",
+      "body": "Paris n'est pas un cas isolé. À Lyon, à partir de mars 1853, le préfet Claude-Marius Vaïsse lance des travaux comparables : percement de la rue Impériale (aujourd'hui rue de la République) à travers la presqu'île, nouveaux équipements, parc de la Tête d'Or. Et, comme à Paris, les démolitions suscitent des résistances : en 1898, Lyon crée une commission chargée de sauver la mémoire du vieux Lyon."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "De 1853 à 1870, le préfet Haussmann, au service de Napoléon III, a percé de grands axes et imposé un gabarit d'immeuble qui fait encore l'identité de Paris.",
+        "Les travaux ont aussi été sanitaires : eau de source et égouts avec Belgrand, parcs et squares avec Alphand, après les grandes épidémies de choléra.",
+        "Financés par des emprunts en partie dissimulés, dénoncés par Jules Ferry, ils ont détruit le vieux Paris et restent débattus, notamment sur leurs effets sociaux."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quelle était la fonction officielle d'Haussmann pendant les grands travaux de Paris ?",
+      "choices": [
+        "Préfet de la Seine",
+        "Architecte en chef de Napoléon III",
+        "Ministre des Travaux publics",
+        "Maire de Paris"
+      ],
+      "answer": 0,
+      "explain": "Haussmann est nommé préfet de la Seine le 23 juin 1853 ; c'était un administrateur et un financier, pas un architecte."
+    },
+    {
+      "q": "Selon le règlement parisien de 1859, de quoi dépend la hauteur maximale d'un immeuble ?",
+      "choices": [
+        "Du nombre d'habitants prévus",
+        "De la fortune du propriétaire",
+        "De la largeur de la rue",
+        "De la distance à Notre-Dame"
+      ],
+      "answer": 2,
+      "explain": "Le règlement de 1859 lie la hauteur à la largeur de la voie : sur une rue de plus de 20 mètres, la façade peut atteindre 20 mètres, d'où le gabarit à cinq étages."
+    },
+    {
+      "q": "Quel ingénieur a doté Paris d'eau de source et d'un réseau moderne d'égouts sous le Second Empire ?",
+      "choices": [
+        "Adolphe Alphand",
+        "Gustave Eiffel",
+        "Eugène Deschamps",
+        "Eugène Belgrand"
+      ],
+      "answer": 3,
+      "explain": "Eugène Belgrand a capté les eaux de la Dhuis et de la Vanne et construit les égouts ; Alphand s'occupait des parcs et promenades."
+    },
+    {
+      "q": "Que dénonçait Jules Ferry dans « Les Comptes fantastiques d'Haussmann » (1868) ?",
+      "choices": [
+        "La destruction de Notre-Dame",
+        "Le financement opaque des travaux par des emprunts déguisés",
+        "L'annexion des communes de banlieue",
+        "La construction de l'opéra Garnier"
+      ],
+      "answer": 1,
+      "explain": "Ferry attaquait la gestion financière d'Haussmann, qui recourait notamment aux « bons de délégation », une forme d'emprunt dissimulé."
+    }
+  ],
+  "sources": [
+    { "label": "Encyclopædia Universalis — Haussmann : la part personnelle d'Haussmann dans les grands travaux", "url": "https://www.universalis.fr/encyclopedie/georges-eugene-haussmann/3-la-part-personnelle-de-haussmann-dans-les-grands-travaux/" },
+    { "label": "Encyclopædia Universalis (Pierre Pinon) — Haussmann : le mythe Haussmann", "url": "https://www.universalis.fr/encyclopedie/georges-eugene-haussmann/5-le-mythe-haussmann/" },
+    { "label": "Fondation Napoléon — Les Comptes fantastiques d'Haussmann, de Jules Ferry : commentaire et extraits", "url": "https://www.napoleon.org/enseignants/documents/document-les-comptes-fantastiques-dhaussmann-de-jules-ferry-commentaire-et-extraits/" },
+    { "label": "Fondation Napoléon — Napoléon III remettant au baron Haussmann le décret d'annexion des communes limitrophes", "url": "https://www.napoleon.org/histoire-des-2-empires/tableaux/napoleon-iii-remettant-au-baron-haussmann-le-decret-dannexion-des-communes-limitrophes-16-fevrier-1859/" },
+    { "label": "ENAP (ministère de la Justice) — L'épidémie de choléra à Paris en 1832", "url": "https://www.enap.justice.fr/histoire/lepidemie-de-cholera-paris-en-1832" },
+    { "label": "OpenEdition, Livraisons d'histoire de l'architecture — Anne Richard-Bazire, « Les immeubles » (2018)", "url": "https://journals.openedition.org/lha/1036" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Atlas du Paris haussmannien — Pierre Pinon (Parigramme, 2002)" },
+    { "kind": "site", "label": "Musées Gadagne (Lyon) — fiche « Nouvel urbanisme », les travaux du préfet Vaïsse", "url": "https://www.gadagne-lyon.fr/sites/gadagne/files/medias/documents/2020-11/MHL-Gadagne_FicheTheme_19e-NouvelUrbanisme.pdf" }
+  ]
+}

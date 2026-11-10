@@ -1,0 +1,153 @@
+{
+  "generated": "2026-11-10T17:51:00.051Z",
+  "count": 21,
+  "days": [
+    {
+      "day": 1,
+      "domain": "Agriculture",
+      "title": "Le blé, du champ à la baguette",
+      "subtitle": "Comment la première céréale de France nourrit le pays… et une partie du monde",
+      "emoji": "🌾"
+    },
+    {
+      "day": 2,
+      "domain": "Économie",
+      "title": "L'inflation : d'où elle vient, qui elle frappe",
+      "subtitle": "Mesure, causes, grandes crises et rôle de la Banque centrale européenne",
+      "emoji": "📈"
+    },
+    {
+      "day": 3,
+      "domain": "Philosophie",
+      "title": "Le stoïcisme : distinguer ce qui dépend de nous",
+      "subtitle": "Une philosophie antique de la liberté intérieure, d'Athènes aux thérapies d'aujourd'hui",
+      "emoji": "🏛️"
+    },
+    {
+      "day": 4,
+      "domain": "Supply chain",
+      "title": "Le conteneur, la boîte qui a mondialisé le monde",
+      "subtitle": "Comment une simple caisse en acier normalisée a fait s'effondrer le coût du transport",
+      "emoji": "📦"
+    },
+    {
+      "day": 5,
+      "domain": "Droit",
+      "title": "Comment naît une loi en France",
+      "subtitle": "Du projet au Journal officiel : navette, commission mixte paritaire, 49.3 et Conseil constitutionnel",
+      "emoji": "⚖️"
+    },
+    {
+      "day": 6,
+      "domain": "Art",
+      "title": "L'impressionnisme, la révolution de la lumière",
+      "subtitle": "Comment une bande de peintres refusés a inventé l'art moderne en exposant sans jury",
+      "emoji": "🎨"
+    },
+    {
+      "day": 7,
+      "domain": "Villes",
+      "title": "Haussmann : comment Paris a été éventré et réinventé",
+      "subtitle": "Dix-sept ans de chantiers qui ont donné à la capitale le visage qu'elle a encore aujourd'hui",
+      "emoji": "🏙️"
+    },
+    {
+      "day": 8,
+      "domain": "Sciences",
+      "title": "L'ADN et CRISPR : réécrire le code du vivant",
+      "subtitle": "De la double hélice aux ciseaux génétiques, soixante ans pour apprendre à lire puis à corriger le génome",
+      "emoji": "🧬"
+    },
+    {
+      "day": 9,
+      "domain": "Finance",
+      "title": "Les intérêts composés, ou comment le temps fait l'argent",
+      "subtitle": "Le mécanisme mathématique qui fait grossir une épargne… ou une dette",
+      "emoji": "💶"
+    },
+    {
+      "day": 10,
+      "domain": "Livres",
+      "title": "Les Misérables : le roman-monde de Victor Hugo",
+      "subtitle": "Un forçat, un policier, une mère, une enfant et un gamin de Paris : l'épopée de la misère au XIXe siècle",
+      "emoji": "📚"
+    },
+    {
+      "day": 11,
+      "domain": "Géopolitique",
+      "title": "Les détroits, goulets d'étranglement du monde",
+      "subtitle": "Ormuz, Malacca, Suez, Panama… ces passages étroits par où transite l'économie mondiale",
+      "emoji": "🌍"
+    },
+    {
+      "day": 12,
+      "domain": "Histoire",
+      "title": "La peste noire : la pandémie qui a refait l'Europe",
+      "subtitle": "D'Asie centrale à Marseille, comment un bacille a bouleversé la société médiévale",
+      "emoji": "🐀"
+    },
+    {
+      "day": 13,
+      "domain": "Culture française",
+      "title": "Les AOP : quand la loi protège un terroir",
+      "subtitle": "Du vin frelaté au Comté, comment la France a inventé la protection juridique de l'origine",
+      "emoji": "🧀"
+    },
+    {
+      "day": 14,
+      "domain": "Anecdotes",
+      "title": "Inventé par accident : quand l'erreur devient génie",
+      "subtitle": "Pénicilline, micro-ondes, Post-it, Velcro… démêler le hasard, le mythe et le travail",
+      "emoji": "💡"
+    },
+    {
+      "day": 15,
+      "domain": "Psychologie",
+      "title": "Les biais cognitifs : comment le cerveau nous trompe",
+      "subtitle": "Raccourcis mentaux, erreurs prévisibles… et ce que la science sait vraiment",
+      "emoji": "🧠"
+    },
+    {
+      "day": 16,
+      "domain": "Culture du monde",
+      "title": "Le Japon d'Edo, un pays (presque) fermé",
+      "subtitle": "Comment un pays « fermé » a inventé une culture urbaine qui a bouleversé l'art européen",
+      "emoji": "🗾"
+    },
+    {
+      "day": 17,
+      "domain": "Environnement",
+      "title": "Le sol, un écosystème sous nos pieds",
+      "subtitle": "Une ressource vivante, lente à se former et rapide à perdre",
+      "emoji": "🪱"
+    },
+    {
+      "day": 18,
+      "domain": "Économie",
+      "title": "La PAC : comment l'Europe finance son agriculture",
+      "subtitle": "Des prix garantis aux éco-régimes, soixante ans d'une politique au cœur de la construction européenne",
+      "emoji": "🇪🇺"
+    },
+    {
+      "day": 19,
+      "domain": "Santé",
+      "title": "Le sommeil : pourquoi on dort (et ce qu'il fait à la mémoire)",
+      "subtitle": "Cycles, horloge interne, mémoire : ce que la science sait, et ce qu'elle débat encore",
+      "emoji": "😴"
+    },
+    {
+      "day": 20,
+      "domain": "Technologie",
+      "title": "Les semi-conducteurs : la puce, nouveau pétrole",
+      "subtitle": "Du transistor de 1947 aux « Chips Acts » : pourquoi une poignée d'usines pèse sur la géopolitique mondiale",
+      "emoji": "💾"
+    },
+    {
+      "day": 21,
+      "domain": "Art",
+      "title": "Les cathédrales gothiques, une révolution technique",
+      "subtitle": "Comment les bâtisseurs du Moyen Âge ont fait entrer la lumière dans la pierre",
+      "emoji": "⛪"
+    }
+  ]
+}

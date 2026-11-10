@@ -1,0 +1,118 @@
+{
+  "day": 21,
+  "domain": "Art",
+  "title": "Les cathédrales gothiques, une révolution technique",
+  "subtitle": "Comment les bâtisseurs du Moyen Âge ont fait entrer la lumière dans la pierre",
+  "emoji": "⛪",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Quinze centimètres de pierre",
+      "body": "Dans le chœur de Notre-Dame de Paris, les voûtes de pierre ne mesurent qu'une quinzaine de centimètres d'épaisseur, suspendues à 33 mètres de haut. Elles tiennent depuis plus de huit siècles. Sans calcul de structure ni béton armé, comment les bâtisseurs gothiques ont-ils pu élever si haut des murs percés de lumière ?"
+    },
+    {
+      "type": "text",
+      "title": "Saint-Denis, l'acte de naissance",
+      "body": "Tout commence près de Paris, à l'abbaye de Saint-Denis. Son abbé, **Suger** (1081-1151), conseiller des rois Louis VI et Louis VII, décide de reconstruire l'église abbatiale. La façade est dédiée le 9 juin 1140 ; le 14 juillet 1140, on pose la première pierre du nouveau chevet, la partie située derrière l'autel.\n\nLe **11 juin 1144**, ce chevet est consacré en présence de Louis VII, d'Aliénor d'Aquitaine et de nombreux évêques. Inspiré d'expériences voisines comme à Sens, il combine voûtes d'ogives, colonnes élancées et grandes verrières. La basilique est considérée comme l'un des berceaux de l'art gothique."
+    },
+    {
+      "type": "quote",
+      "quote": "Brille ce qui est brillamment relié à des parties brillantes de lumière.",
+      "author": "Abbé Suger, vers sur le nouveau chevet de Saint-Denis (XIIe siècle, traduit du latin)",
+      "body": "Pour Suger, la lumière qui traverse les vitraux élève l'esprit vers Dieu. Cette théologie de la lumière donne un sens au défi technique : ouvrir les murs autant que possible."
+    },
+    {
+      "type": "text",
+      "title": "Arc brisé et croisée d'ogives",
+      "body": "Deux outils changent tout. L'**arc brisé**, formé de deux arcs de cercle qui se rejoignent en pointe, pousse moins vers l'extérieur qu'un arc en plein cintre roman et permet de varier la hauteur des voûtes indépendamment de leur largeur.\n\nLa **croisée d'ogives** consiste à lancer deux arcs en diagonale qui se croisent au sommet de chaque travée. Ces nervures forment une ossature : le poids de la voûte est concentré sur quatre points d'appui, les piliers. Les murs entre les piliers n'ont plus à tout porter, et les remplissages de pierre entre les nervures peuvent être très minces."
+    },
+    {
+      "type": "text",
+      "title": "L'arc-boutant",
+      "body": "Une voûte ne fait pas que peser vers le bas : elle **pousse vers l'extérieur** les murs qui la portent. Plus elle est haute, plus la poussée est dangereuse.\n\nLa solution gothique est l'**arc-boutant** : un arc extérieur qui va chercher cette poussée en haut du mur et la transmet à un massif de maçonnerie, la culée, posé à distance. Comme le résume le ministère de la Culture, les arcs-boutants « doivent contrebalancer la poussée exercée par les voûtes ». Après l'incendie de Notre-Dame en 2019, 28 cintres en bois ont dû être posés sous les arcs-boutants, privés du poids de la charpente et de la voûte effondrée."
+    },
+    {
+      "type": "figure",
+      "value": "48 m",
+      "label": "Hauteur sous voûte du chœur de Beauvais, record gothique",
+      "body": "Commencée en 1225, la cathédrale de Beauvais pousse l'audace à l'extrême. En 1284, une partie des voûtes du chœur s'effondre ; on double ensuite les supports. En 1573, la tour de la croisée, haute de plus de 150 mètres, s'écroule à son tour. La nef ne sera jamais construite."
+    },
+    {
+      "type": "text",
+      "title": "Des murs de lumière",
+      "body": "Libérés de leur rôle porteur, les murs se creusent de **vitraux** : des morceaux de verre coloré assemblés dans un réseau de plomb, peints de motifs et de figures. Ils racontent la Bible et la vie des saints aux fidèles, dans une lumière colorée qui change avec les heures.\n\nÀ Saint-Denis, les premières verrières commandées par Suger sont posées avant 1144. À **Chartres**, l'ensemble de vitraux des XIIe et XIIIe siècles, dans un état de conservation remarquable, est l'un des plus célèbres du monde. Les grandes roses, ces fenêtres circulaires, deviennent la signature des façades et des transepts."
+    },
+    {
+      "type": "text",
+      "title": "Le chantier, une affaire de générations",
+      "body": "Une cathédrale se construit sur des décennies. À **Reims**, la première pierre est posée le 6 mai 1211 ; le chœur est consacré trente ans plus tard et le gros œuvre achevé vers 1275. Plusieurs maîtres d'œuvre se succèdent, de Jean d'Orbais à Bernard de Soissons.\n\nSur place travaillent carriers, tailleurs de pierre, maçons, charpentiers, forgerons, couvreurs, verriers. L'archéologie révèle leur savoir-faire : à Notre-Dame de Paris, des agrafes de fer renforcent le haut des murs, et les chênes de la charpente ont été taillés verts. Le financement repose sur l'évêque, le chapitre de chanoines et les dons des fidèles."
+    },
+    {
+      "type": "figure",
+      "value": "26 ans",
+      "label": "Durée de la reconstruction de Chartres après l'incendie de 1194",
+      "body": "Commencée en partie dès 1145, la cathédrale de Chartres est reconstruite en vingt-six ans après l'incendie de 1194. Cette rapidité exceptionnelle explique son unité de style. Pour l'Unesco, qui l'a inscrite au patrimoine mondial en 1979, elle est « le monument par excellence de l'art gothique français »."
+    },
+    {
+      "type": "text",
+      "title": "Reims et Amiens",
+      "body": "La cathédrale de **Reims** est celle des sacres : vingt-cinq sacres royaux s'y sont déroulés. Sa statuaire, comme le Couronnement de la Vierge du portail central, a acquis une célébrité universelle. Elle est inscrite au patrimoine mondial depuis 1991, avec l'abbaye Saint-Remi et le palais du Tau.\n\n**Amiens**, élevée principalement entre 1220 et 1288, illustre la maîtrise du gothique classique. Trois maîtres d'œuvre se succèdent : Robert de Luzarches, puis Thomas et Renaud de Cormont. Sa nef s'élève à 42,30 mètres sous voûte, pour 145 mètres de longueur intérieure. Elle est inscrite au patrimoine mondial depuis 1981."
+    },
+    {
+      "type": "text",
+      "title": "Notre-Dame, de 1163 à 2024",
+      "body": "Le chantier de **Notre-Dame de Paris** débute vers 1160 sous l'évêque Maurice de Sully ; la tradition retient 1163 pour la première pierre. Le chœur est presque achevé en 1177 et le maître-autel consacré en 1182. La voûte culmine à 33 mètres.\n\nLe **15 avril 2019**, un incendie détruit la charpente médiévale et la flèche dessinée au XIXe siècle par Viollet-le-Duc, qui s'effondre. Plus de 500 personnes travaillent pendant cinq ans à la restauration, financée par les dons d'environ 340 000 donateurs. La cathédrale rouvre les **7 et 8 décembre 2024**, avec une flèche reconstruite à l'identique."
+    },
+    {
+      "type": "france",
+      "title": "Et ailleurs ?",
+      "body": "Né dans le Bassin parisien, le gothique se diffuse dans toute l'Europe : cathédrales de Cantorbéry, Burgos, Cologne… Au Moyen Âge, on l'appelle d'ailleurs souvent « art français ».\n\nLe mot **« gothique »** est une insulte de la Renaissance. Dans ses Vies des artistes (1550), le peintre et historien italien Giorgio Vasari méprise cette architecture médiévale qu'il juge barbare et contraire aux modèles antiques ; il l'attribue aux Goths, ces peuples germaniques associés à la chute de Rome. L'étiquette péjorative est restée, alors que les Goths n'y sont pour rien. Il faudra attendre les romantiques, à la fin du XVIIIe et au XIXe siècle, pour que le gothique soit réhabilité."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "L'art gothique naît vers 1140 à Saint-Denis, sous l'abbé Suger, avec une théologie de la lumière.",
+        "Arc brisé, croisée d'ogives et arc-boutant concentrent et reportent les poussées, ce qui permet d'élever les voûtes et d'ouvrir les murs aux vitraux.",
+        "Le mot « gothique », péjoratif à la Renaissance (Vasari), désigne des chefs-d'œuvre comme Chartres, Reims, Amiens et Notre-Dame, rouverte en décembre 2024."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quel abbé est associé à la naissance de l'art gothique à Saint-Denis, vers 1140 ?",
+      "choices": ["Bernard de Clairvaux", "Suger", "Maurice de Sully", "Viollet-le-Duc"],
+      "answer": 1,
+      "explain": "L'abbé Suger fait reconstruire l'abbatiale de Saint-Denis ; le chevet, consacré en 1144, est considéré comme l'un des berceaux du gothique."
+    },
+    {
+      "q": "Dans une cathédrale gothique, à quoi sert l'arc-boutant ?",
+      "choices": ["À décorer la façade", "À évacuer l'eau de pluie", "À soutenir les cloches", "À contrebalancer la poussée des voûtes vers l'extérieur"],
+      "answer": 3,
+      "explain": "L'arc-boutant reprend en haut du mur la poussée latérale des voûtes et la reporte sur une culée extérieure."
+    },
+    {
+      "q": "Pourquoi la croisée d'ogives permet-elle d'ouvrir les murs des cathédrales gothiques à de grands vitraux ?",
+      "choices": ["Elle concentre le poids de la voûte sur quelques piliers", "Elle rend la voûte plus lourde", "Elle supprime le besoin de toiture", "Elle est faite en bois"],
+      "answer": 0,
+      "explain": "Les nervures diagonales forment une ossature qui reporte la charge sur quatre points d'appui : les murs entre les piliers peuvent être percés."
+    },
+    {
+      "q": "D'où vient le mot « gothique » pour désigner l'architecture des cathédrales ?",
+      "choices": ["Du nom de son inventeur, Gautier", "Des Goths, qui auraient construit les premières cathédrales", "D'un jugement péjoratif d'auteurs de la Renaissance comme Vasari", "D'une ville d'Allemagne"],
+      "answer": 2,
+      "explain": "À la Renaissance, Vasari juge cet art « barbare » et l'attribue aux Goths ; les Goths n'y sont pour rien, et le gothique était souvent appelé « art français »."
+    }
+  ],
+  "sources": [
+    { "label": "Basilique cathédrale de Saint-Denis (Centre des monuments nationaux) — Histoire du monument", "url": "https://www.saint-denis-basilique.fr/decouvrir/histoire-du-monument" },
+    { "label": "Basilique cathédrale de Saint-Denis (Centre des monuments nationaux) — Les vitraux, symboles du divin", "url": "https://www.saint-denis-basilique.fr/decouvrir/les-vitraux-symboles-du-divin" },
+    { "label": "Encyclopædia Universalis — Suger : l'architecture gothique, art d'harmonie et de synthèse", "url": "https://www.universalis.fr/encyclopedie/suger/2-l-architecture-gothique-art-d-harmonie-et-de-synthese/" },
+    { "label": "Unesco — Cathédrale de Chartres", "url": "https://whc.unesco.org/fr/list/81/" },
+    { "label": "Unesco — Cathédrale d'Amiens", "url": "https://whc.unesco.org/fr/list/162/" },
+    { "label": "Ministère de la Culture — Spécial Notre-Dame de Paris (3/6) : un chantier hors normes", "url": "https://www.culture.gouv.fr/actualites/special-notre-dame-de-paris-3-6-un-chantier-hors-normes" }
+  ],
+  "further": [
+    { "kind": "site", "label": "Unesco — Cathédrale Notre-Dame, ancienne abbaye Saint-Remi et palais du Tau, Reims", "url": "https://whc.unesco.org/fr/list/601/" },
+    { "kind": "site", "label": "Ministère de la Culture — Spécial Notre-Dame de Paris (5/6) : la science à l'œuvre", "url": "https://www.culture.gouv.fr/actualites/special-notre-dame-de-paris-5-6-la-science-a-l-aeuvre" }
+  ]
+}

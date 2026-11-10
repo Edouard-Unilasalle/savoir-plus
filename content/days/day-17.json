@@ -1,0 +1,120 @@
+{
+  "day": 17,
+  "domain": "Environnement",
+  "title": "Le sol, un écosystème sous nos pieds",
+  "subtitle": "Une ressource vivante, lente à se former et rapide à perdre",
+  "emoji": "🪱",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Plus vivant qu'une forêt ?",
+      "body": "Sous un mètre carré de prairie française vivent en moyenne plus de 400 vers de terre. Dans un seul gramme de terre, environ un milliard de bactéries. Le sol n'est pas un simple support inerte : c'est probablement l'habitat le plus riche en espèces de la planète, et il se reconstitue avec une lenteur vertigineuse."
+    },
+    {
+      "type": "text",
+      "title": "Qu'est-ce qu'un sol ?",
+      "body": "Un sol naît de la **pédogenèse** : la lente altération d'une roche, dite « roche mère », sous l'effet du climat (pluie, gel, chaleur), de l'activité des êtres vivants et, depuis quelques millénaires, de l'activité humaine.\n\nLe résultat est un milieu complexe, organisé en couches superposées appelées **horizons**. On y trouve des particules minérales (sables, limons, argiles), de la matière organique issue des végétaux et des animaux morts, de l'eau, de l'air… et une foule d'organismes. C'est de cet assemblage que dépendent la fertilité, la filtration de l'eau et le stockage du carbone."
+    },
+    {
+      "type": "quote",
+      "quote": "Il peut falloir jusqu'à mille ans pour former un seul centimètre de sol. Et pourtant, tout cela peut être perdu en quelques minutes.",
+      "author": "José Graziano da Silva, directeur général de la FAO, discours au Conseil de la FAO (décembre 2012, traduit de l'anglais)",
+      "body": "« Jusqu'à » est important : la vitesse de formation varie selon le climat et la roche. Mais à l'échelle d'une vie humaine, un sol perdu ne se reconstitue pas. La FAO le qualifie de ressource non renouvelable."
+    },
+    {
+      "type": "figure",
+      "value": "59 %",
+      "label": "Part estimée des espèces de la Terre vivant dans le sol",
+      "body": "C'est l'estimation d'une synthèse publiée en 2023 dans la revue PNAS par Mark Anthony, Franz Bender et Marcel van der Heijden, avec une marge d'incertitude de ± 15 points. Environ 90 % des champignons et 85 % des plantes en dépendent. C'est à peu près le double des estimations antérieures, et les auteurs jugent le chiffre probablement sous-estimé."
+    },
+    {
+      "type": "figure",
+      "value": "1 milliard",
+      "label": "Bactéries dans un gramme de sol, pour environ un million d'espèces",
+      "body": "Ces ordres de grandeur, issus des travaux de l'INRAE, sont repris par le ministère de la Transition écologique. La vie microbienne varie selon les usages : mesurée par la quantité d'ADN, elle atteint en moyenne 81 µg par gramme de sol dans les prairies, contre 27 µg dans les vignes et vergers."
+    },
+    {
+      "type": "text",
+      "title": "Darwin, l'homme des vers",
+      "body": "Le dernier livre de Charles Darwin, publié en **1881**, ne parle ni d'évolution ni de singes, mais de vers de terre : *La Formation de la terre végétale par l'action des vers*. Pendant des décennies, il a mesuré comment ces animaux avalent la terre, la rejettent en surface et enfouissent peu à peu pierres et vestiges.\n\nSon intuition est confirmée : en creusant leurs galeries, les vers **aèrent**, **mélangent** et **drainent** le sol, et accélèrent la décomposition des feuilles mortes. En France métropolitaine, on en compte en moyenne 260 par m², avec de fortes différences : 421 en prairie, 223 en grandes cultures, 163 dans les vignes."
+    },
+    {
+      "type": "text",
+      "title": "Un coffre-fort à carbone",
+      "body": "Les plantes captent le CO₂ de l'air par la photosynthèse. Quand leurs racines, feuilles et résidus se décomposent, une partie de ce carbone est transformée par les organismes du sol en **matière organique** stable, l'humus.\n\nÀ l'échelle mondiale, les sols contiennent **deux à trois fois plus de carbone que l'atmosphère**. Ceux de France métropolitaine (hors Corse) en stockent 6,91 milliards de tonnes. Les stocks dépendent fortement de l'usage : moins de 34 tonnes par hectare dans les vignobles, environ 60 dans les grandes plaines cultivées, plus de 80 sous prairies et forêts. Retourner une prairie en culture déstocke donc du carbone."
+    },
+    {
+      "type": "figure",
+      "value": "4 ‰",
+      "label": "Hausse annuelle du carbone des sols visée par l'initiative « 4 pour 1000 »",
+      "body": "Lancée par la France le 1er décembre 2015 lors de la COP21, l'initiative part d'un calcul : si le carbone des 30 à 40 premiers centimètres des sols augmentait de 0,4 % par an, la hausse annuelle du CO₂ dans l'atmosphère serait considérablement réduite. Ses promoteurs la présentent comme une orientation, pas comme un objectif contraignant pour chaque pays."
+    },
+    {
+      "type": "text",
+      "title": "Érosion et tassement",
+      "body": "Un sol nu est un sol vulnérable. La pluie détache les particules, le ruissellement les emporte : en France, les sols perdent en moyenne **1,5 tonne de terre par hectare et par an** à cause du ruissellement. Couvrir le sol en hiver limite ce phénomène ; la part des grandes cultures laissées nues en hiver est passée de 14 % en 2017 à 9 % en 2021.\n\nLe **tassement** est plus discret. Le passage répété d'engins lourds, surtout sur sol humide, écrase les pores où circulent l'air, l'eau et les racines. Un sol tassé s'infiltre mal, s'asphyxie et favorise à son tour le ruissellement."
+    },
+    {
+      "type": "figure",
+      "value": "24 000 ha",
+      "label": "Espaces naturels, agricoles et forestiers consommés chaque année en France",
+      "body": "C'est la moyenne annuelle de la décennie 2011-2021 selon le ministère de la Transition écologique. Surprise : 61 % de cette consommation a lieu dans des territoires sans forte pression immobilière. Un sol recouvert de bitume perd l'essentiel de ses fonctions biologiques."
+    },
+    {
+      "type": "text",
+      "title": "Cultiver sans épuiser",
+      "body": "L'**agriculture de conservation des sols** repose, selon la FAO, sur trois principes appliqués ensemble :\n\n- **perturber le moins possible le sol** : semis direct, sans labour ;\n- **le couvrir en permanence** par des résidus de culture ou des plantes de couverture (au moins 30 % de couverture) ;\n- **diversifier les cultures**, avec une rotation d'au moins trois espèces.\n\nL'objectif est de protéger la vie du sol, de limiter l'érosion et d'augmenter la matière organique. Ces pratiques ont aussi leurs difficultés : sans labour, la gestion des mauvaises herbes est plus délicate, et la transition demande plusieurs années d'apprentissage."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "En 2022-2024, environ **8,3 % du territoire** est artificialisé. Pour freiner le phénomène, la loi Climat et résilience d'**août 2021** fixe un cap : atteindre le **« zéro artificialisation nette » (ZAN) en 2050**, avec une étape intermédiaire, diviser par deux la consommation d'espaces naturels, agricoles et forestiers sur 2021-2031 par rapport à 2011-2021.\n\n« Nette » signifie que toute nouvelle artificialisation devra être compensée par la renaturation d'une surface équivalente. Jugé difficile à appliquer par de nombreux élus locaux, le dispositif a été ajusté par une loi du 20 juillet 2023, qui garantit notamment une surface minimale aux communes, et reste l'objet de débats."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Le sol se forme très lentement (jusqu'à mille ans par centimètre selon la FAO) et abrite probablement plus de la moitié des espèces de la planète.",
+        "Il stocke deux à trois fois plus de carbone que l'atmosphère, d'où l'initiative « 4 pour 1000 » lancée par la France en 2015.",
+        "Érosion, tassement et artificialisation (24 000 ha par an en France sur 2011-2021) le menacent ; la loi de 2021 vise le zéro artificialisation nette en 2050."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Selon la FAO, combien de temps peut-il falloir pour former un centimètre de sol ?",
+      "choices": ["Environ un an", "Une dizaine d'années", "Jusqu'à mille ans", "Un million d'années"],
+      "answer": 2,
+      "explain": "La FAO rappelle qu'il peut falloir jusqu'à mille ans pour former un centimètre de sol, ce qui en fait une ressource non renouvelable à l'échelle humaine."
+    },
+    {
+      "q": "Sur quel sujet porte le dernier livre de Charles Darwin, publié en 1881 ?",
+      "choices": ["Le rôle des vers de terre dans la formation du sol", "Les pinsons des Galápagos", "L'origine de l'être humain", "Les récifs coralliens"],
+      "answer": 0,
+      "explain": "Darwin y montre que les vers de terre brassent, aèrent et renouvellent la terre végétale, en enfouissant progressivement objets et vestiges."
+    },
+    {
+      "q": "Que vise l'initiative « 4 pour 1000 », lancée par la France lors de la COP21 en 2015 ?",
+      "choices": ["Réduire de 4 ‰ par an l'usage des engrais", "Augmenter chaque année de 0,4 % le stock de carbone des sols", "Planter 4 000 arbres par commune", "Limiter l'artificialisation à 4 ‰ du territoire"],
+      "answer": 1,
+      "explain": "L'idée est qu'une hausse annuelle de 4 ‰ du carbone stocké dans les sols réduirait considérablement la hausse annuelle du CO₂ atmosphérique."
+    },
+    {
+      "q": "En France, que prévoit l'objectif « zéro artificialisation nette » (ZAN) de la loi Climat et résilience de 2021 ?",
+      "choices": ["L'interdiction immédiate de toute construction neuve", "La fin de l'agriculture intensive en 2030", "Que toute artificialisation soit compensée par une renaturation équivalente d'ici 2050", "Le doublement des surfaces forestières"],
+      "answer": 2,
+      "explain": "Le ZAN vise 2050, avec une étape : diviser par deux la consommation d'espaces naturels, agricoles et forestiers sur 2021-2031 par rapport à 2011-2021."
+    }
+  ],
+  "sources": [
+    { "label": "FAO — Discours du directeur général « Securing healthy soils » (Conseil de la FAO, 2012)", "url": "https://www.fao.org/fileadmin/user_upload/FAODG/docs/2012-12-05-securing-healthy-soils-145th-session-FAO-council-DG-speech.pdf" },
+    { "label": "Ministère de la Transition écologique (SDES) — Les sols en France : état des connaissances en 2025", "url": "https://www.statistiques.developpement-durable.gouv.fr/les-sols-en-france-etat-des-connaissances-en-2025" },
+    { "label": "Anthony, Bender & van der Heijden — Enumerating soil biodiversity (PNAS, 2023)", "url": "https://research-portal.uu.nl/en/publications/enumerating-soil-biodiversity/" },
+    { "label": "Initiative internationale « 4 pour 1000 » — Découvrir l'initiative", "url": "https://4p1000.org/decouvrir" },
+    { "label": "Ministère de la Transition écologique — Artificialisation des sols", "url": "https://www.ecologie.gouv.fr/politiques-publiques/artificialisation-sols" },
+    { "label": "FAO — Les principes de l'agriculture de conservation", "url": "https://www.fao.org/conservation-agriculture/overview/conservation-agriculture-principles/fr/" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "L'Origine du monde. Une histoire naturelle du sol à l'intention de ceux qui le piétinent — Marc-André Selosse (Actes Sud, 2021)" },
+    { "kind": "site", "label": "Gis Sol — Groupement d'intérêt scientifique sur les sols", "url": "https://www.gissol.fr" }
+  ]
+}

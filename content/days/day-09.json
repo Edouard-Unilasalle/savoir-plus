@@ -1,0 +1,131 @@
+{
+  "day": 9,
+  "domain": "Finance",
+  "title": "Les intérêts composés, ou comment le temps fait l'argent",
+  "subtitle": "Le mécanisme mathématique qui fait grossir une épargne… ou une dette",
+  "emoji": "💶",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "25 000 ou 43 000 € ?",
+      "body": "Placez 10 000 € à 5 % par an pendant 30 ans. Si l'on ne vous verse que des intérêts sur la somme de départ, vous finissez avec 25 000 €. Si les intérêts produisent à leur tour des intérêts, vous obtenez plus de 43 000 €. Même taux, même durée : la différence tient à un seul mécanisme."
+    },
+    {
+      "type": "text",
+      "title": "L'intérêt simple",
+      "body": "Un intérêt est le prix payé pour l'usage de l'argent pendant un temps donné. Le prêteur renonce à dépenser ; l'emprunteur paie pour disposer de la somme tout de suite.\n\nAvec l'**intérêt simple**, on calcule chaque année les intérêts sur le capital de départ uniquement. 10 000 € à 5 % rapportent 500 € par an, toujours 500 €. Au bout de 30 ans : 10 000 + 30 × 500 = 25 000 €. La croissance est linéaire, comme une droite sur un graphique."
+    },
+    {
+      "type": "text",
+      "title": "Les intérêts des intérêts",
+      "body": "Avec l'**intérêt composé**, les intérêts de chaque période sont ajoutés au capital (on dit qu'ils sont « capitalisés ») et rapportent à leur tour des intérêts.\n\nAnnée 1 : 10 000 € × 1,05 = 10 500 €. Année 2 : 10 500 € × 1,05 = 11 025 €, soit 525 € d'intérêts au lieu de 500. L'écart semble minuscule, mais il se reproduit et s'amplifie chaque année. La formule : capital final = capital initial × (1 + taux) puissance nombre d'années. La croissance est exponentielle : la courbe s'incurve vers le haut."
+    },
+    {
+      "type": "figure",
+      "value": "43 219 €",
+      "label": "10 000 € placés à 5 % composés pendant 30 ans",
+      "body": "10 000 × 1,05³⁰ ≈ 43 219 €, contre 25 000 € en intérêt simple. Au bout de 10 ans, l'écart n'est que d'environ 1 300 € (16 289 € contre 15 000 €) ; au bout de 30 ans, il dépasse 18 000 €. L'essentiel du gain arrive à la fin : c'est pourquoi la durée compte autant que le taux."
+    },
+    {
+      "type": "text",
+      "title": "La règle de 72",
+      "body": "Une astuce de calcul mental permet d'estimer le temps nécessaire pour **doubler un capital** : on divise 72 par le taux annuel en pourcentage.\n\nÀ 5 %, 72 / 5 = 14,4 ans (le calcul exact donne 14,2 ans). À 2 %, 36 ans (35 ans en réalité). À 8 %, 9 ans. L'approximation est très bonne pour des taux de quelques pour cent et se dégrade pour des taux élevés. Elle marche dans les deux sens : avec une inflation de 3 %, les prix doublent en 24 ans environ."
+    },
+    {
+      "type": "quote",
+      "quote": "L'attribution à Einstein est sans aucun doute apocryphe.",
+      "author": "Fred Shapiro, éditeur du Yale Book of Quotations (Freakonomics, 2009, traduction)",
+      "body": "On prête souvent à Einstein l'idée que les intérêts composés seraient « la huitième merveille du monde ». Aucune trace chez lui : la plus ancienne mention repérée est un article du New York Times de 1983, près de trente ans après sa mort, qui rapporte l'anecdote au conditionnel."
+    },
+    {
+      "type": "text",
+      "title": "Le temps, premier ingrédient",
+      "body": "Prenons un exemple théorique : 100 € épargnés chaque mois à un taux constant de 5 % par an, intérêts capitalisés chaque mois.\n\nSur 30 ans, on a versé 36 000 € et l'on obtient environ 83 000 €. Sur 40 ans, on a versé 48 000 € et l'on obtient environ **152 000 €**. Dix ans de plus, 12 000 € de versements supplémentaires, et le résultat a presque doublé. Commencer tôt compte davantage que verser beaucoup. Attention : dans la réalité, les taux varient, et un rendement élevé s'accompagne généralement d'un risque élevé."
+    },
+    {
+      "type": "text",
+      "title": "L'inflation, l'érosion silencieuse",
+      "body": "Un taux d'intérêt affiché est un taux **nominal**. Ce qui compte pour votre pouvoir d'achat est le taux **réel** : en première approximation, taux nominal moins inflation.\n\nEn 2023, le Livret A rapportait 3 % (à partir du 1er février), alors que l'inflation moyenne annuelle atteignait 4,9 % selon l'Insee. Les épargnants voyaient leur solde augmenter, mais leur pouvoir d'achat reculait d'environ 1,8 %. L'inflation se compose elle aussi : elle joue contre l'argent qui dort."
+    },
+    {
+      "type": "figure",
+      "value": "23,52 %",
+      "label": "taux d'usure des petits crédits conso (≤ 3 000 €), avril 2026",
+      "body": "Le taux d'usure est le taux maximal légal qu'un prêteur peut pratiquer ; la Banque de France le calcule chaque trimestre. Au 1er trimestre 2026, le taux effectif moyen des crédits à la consommation de 3 000 € ou moins était de 17,64 %. Ce sont typiquement les taux des crédits renouvelables."
+    },
+    {
+      "type": "text",
+      "title": "Quand l'effet joue contre vous",
+      "body": "Les intérêts composés fonctionnent exactement de la même manière pour une dette. Une dette de 2 000 € à 20 % par an que l'on ne rembourse pas devient 2 400 € au bout d'un an, puis 2 880 € l'année suivante : elle **double en moins de quatre ans** (la règle de 72 donne 3,6 ans).\n\nC'est le piège classique du crédit renouvelable : en ne remboursant que de petites mensualités, on paie surtout des intérêts, et le capital dû baisse très lentement. Rembourser une dette chère est souvent l'« investissement » le plus rentable qui soit."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "Le Livret A est un taux réglementé : la Banque de France le calcule selon une formule légale fondée sur l'inflation et les taux de marché à court terme, puis le ministre de l'Économie décide. Depuis le 1er août 2026, il rapporte 1,7 %, au-dessus de l'inflation moyenne du premier semestre 2026 (1,52 %). Les intérêts sont calculés par quinzaine et capitalisés chaque 31 décembre, exonérés d'impôt, sur un plafond de 22 950 €. À 1,7 %, la règle de 72 donne un doublement en 42 ans environ."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Avec les intérêts composés, les intérêts produisent eux-mêmes des intérêts : la croissance est exponentielle et l'essentiel du gain vient avec la durée.",
+        "La règle de 72 (72 divisé par le taux) donne une estimation rapide du temps nécessaire pour doubler une somme, ou une dette.",
+        "Ce qui compte est le rendement réel, après inflation, et le même mécanisme rend très coûteuses les dettes à taux élevé comme le crédit renouvelable."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quelle est la différence entre intérêt simple et intérêt composé ?",
+      "choices": [
+        "L'intérêt composé est toujours calculé à un taux plus élevé",
+        "Avec l'intérêt composé, les intérêts déjà gagnés rapportent eux aussi des intérêts",
+        "L'intérêt simple n'existe que pour les dettes",
+        "L'intérêt composé est versé une seule fois à la fin"
+      ],
+      "answer": 1,
+      "explain": "En intérêt simple, on calcule les intérêts sur le seul capital de départ ; en intérêt composé, les intérêts sont ajoutés au capital et produisent à leur tour des intérêts."
+    },
+    {
+      "q": "Selon la règle de 72, en combien de temps environ un capital placé à 6 % par an double-t-il ?",
+      "choices": [
+        "6 ans",
+        "18 ans",
+        "72 ans",
+        "12 ans"
+      ],
+      "answer": 3,
+      "explain": "72 / 6 = 12 ans. Le calcul exact donne environ 11,9 ans : l'approximation est très bonne pour des taux de quelques pour cent."
+    },
+    {
+      "q": "Un placement rapporte 3 % par an alors que l'inflation est de 4,9 %. Que devient le pouvoir d'achat de l'épargne ?",
+      "choices": [
+        "Il diminue d'environ 1,8 % par an",
+        "Il augmente de 3 % par an",
+        "Il augmente de 7,9 % par an",
+        "Il reste stable"
+      ],
+      "answer": 0,
+      "explain": "Le rendement réel est approximativement le taux nominal moins l'inflation : 3 − 4,9 ≈ −1,9 point (−1,8 % avec le calcul exact). C'était la situation du Livret A en 2023."
+    },
+    {
+      "q": "Pourquoi la phrase « Les intérêts composés sont la huitième merveille du monde » pose-t-elle problème ?",
+      "choices": [
+        "Elle est de Warren Buffett, pas d'Einstein",
+        "Elle figure dans un article scientifique d'Einstein de 1905",
+        "Son attribution à Einstein n'est appuyée par aucune source : elle est jugée apocryphe",
+        "Elle a été prononcée par un ministre français des Finances"
+      ],
+      "answer": 2,
+      "explain": "Les spécialistes des citations n'en trouvent aucune trace chez Einstein ; la plus ancienne mention connue date de 1983, près de trente ans après sa mort."
+    }
+  ],
+  "sources": [
+    { "label": "Service-public.fr — Livret A : taux, plafond, calcul des intérêts", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365" },
+    { "label": "Banque de France — Communiqué du 15 juillet 2026 sur le taux du Livret A et du LEP", "url": "https://www.banque-france.fr/system/files/2026-07/CP-Livret-A-LEP-Juillet-2026.pdf" },
+    { "label": "Banque de France — Taux d'usure 2026-T2", "url": "https://www.banque-france.fr/en/node/1206930" },
+    { "label": "Insee — En 2023, léger ralentissement des prix à la consommation en moyenne annuelle (janvier 2024)", "url": "https://www.insee.fr/fr/statistiques/7750173" },
+    { "label": "Freakonomics (Fred Shapiro) — Quotes Uncovered: The Universe and Stupidity (2009)", "url": "https://freakonomics.com/2009/05/quotes-uncovered-the-universe-and-stupidity" }
+  ],
+  "further": [
+    { "kind": "site", "label": "La finance pour tous (Institut pour l'éducation financière du public)", "url": "https://www.lafinancepourtous.com" }
+  ]
+}

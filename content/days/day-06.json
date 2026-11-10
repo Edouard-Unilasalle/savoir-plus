@@ -1,0 +1,139 @@
+{
+  "day": 6,
+  "domain": "Art",
+  "title": "L'impressionnisme, la révolution de la lumière",
+  "subtitle": "Comment une bande de peintres refusés a inventé l'art moderne en exposant sans jury",
+  "emoji": "🎨",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Une insulte devenue étendard",
+      "body": "En avril 1874, un critique se moque d'un petit tableau de Monet représentant un port au petit matin. Il invente pour l'occasion un mot méprisant : « impressionnistes ». Ce sobriquet est devenu le nom du mouvement le plus populaire de l'histoire de la peinture."
+    },
+    {
+      "type": "text",
+      "title": "Le Salon, juge suprême",
+      "body": "Au XIXe siècle, un peintre français qui veut faire carrière doit passer par le **Salon**, la grande exposition officielle organisée à Paris. Un jury, dominé par les académiciens, choisit les œuvres admises. Être accepté, c'est obtenir de la visibilité, des commandes, des acheteurs ; être refusé, c'est rester invisible.\n\nLe jury privilégie la peinture d'histoire, les sujets mythologiques ou religieux et une facture lisse, où l'on ne voit pas la trace du pinceau. Les scènes de la vie moderne peintes à touches rapides passent mal."
+    },
+    {
+      "type": "text",
+      "title": "1863 : le Salon des refusés",
+      "body": "En 1863, le jury se montre si sévère que les protestations remontent jusqu'à l'empereur. Napoléon III décide d'exposer les œuvres écartées dans une annexe du palais de l'Industrie : c'est le **Salon des refusés**.\n\nLe public s'y presse, souvent pour rire. La toile qui fait scandale est celle d'Édouard Manet, exposée sous le titre *Le Bain* et connue aujourd'hui comme *Le Déjeuner sur l'herbe* (musée d'Orsay) : une femme nue, bien réelle et contemporaine, assise à côté de deux hommes habillés. Le nu était admis pour une déesse, pas pour une Parisienne."
+    },
+    {
+      "type": "quote",
+      "quote": "Voulant laisser le public juge de la légitimité des réclamations",
+      "author": "Napoléon III, justification officielle du Salon des refusés (1863)",
+      "body": "Formule de l'annonce publiée au Moniteur universel en avril 1863. L'empereur ne défend pas les refusés : il s'en remet au public, qui rira beaucoup. Mais l'idée est lancée qu'un jury officiel peut se tromper."
+    },
+    {
+      "type": "figure",
+      "value": "15 avril 1874",
+      "label": "Ouverture de la première exposition « impressionniste »",
+      "body": "Lassés des refus, Monet, Renoir, Degas, Pissarro, Morisot, Sisley, Cézanne et d'autres s'organisent en société et exposent eux-mêmes, sans jury ni marchand. Une trentaine d'artistes et environ 165 œuvres, du 15 avril au 15 mai, au 35 boulevard des Capucines, dans les anciens ateliers du photographe Nadar."
+    },
+    {
+      "type": "text",
+      "title": "D'où vient le mot",
+      "body": "Monet y présente une vue du port du Havre peinte à l'aube, vers novembre 1872, depuis une fenêtre d'hôtel. Pour le catalogue, il l'intitule *Impression, soleil levant*.\n\nLe 25 avril 1874, dans le journal satirique *Le Charivari*, le critique **Louis Leroy** publie un article moqueur intitulé « L'exposition des impressionnistes ». Pour lui, ces toiles ne sont que des ébauches. Le critique Jules Castagnary reprend peu après le terme dans un sens positif, et les peintres finissent par l'adopter. Le tableau est aujourd'hui au musée Marmottan Monet, à Paris."
+    },
+    {
+      "type": "text",
+      "title": "Peindre dehors, peindre vite",
+      "body": "Le cœur de l'impressionnisme est une question : comment rendre ce que l'œil perçoit à un instant donné ? La lumière change, l'eau scintille, la fumée d'un train se dissout. Les impressionnistes travaillent souvent **en plein air**, par touches juxtaposées de couleurs claires, sans contours nets.\n\nUne innovation technique les aide : le tube de peinture souple en métal, breveté en 1841 par le peintre américain John Goffe Rand. La couleur se transporte facilement. Mais les historiens nuancent : on peignait déjà sur le motif avant, et le chevalet portable a compté autant."
+    },
+    {
+      "type": "text",
+      "title": "Une bande, des styles",
+      "body": "Le groupe n'a rien d'une école unifiée. **Monet** traque la lumière jusqu'à peindre le même motif à différentes heures (les *Meules*, la *Cathédrale de Rouen*). Renoir peint la joie des guinguettes et des corps. Pissarro, plus âgé que Monet ou Renoir, peint la campagne et sert de mentor aux plus jeunes.\n\nDegas, lui, travaille surtout en atelier et préfère les danseuses, les courses et le cadrage inattendu. **Berthe Morisot**, grande figure féminine du groupe, expose à toutes les expositions sauf une : celle de 1879, peu après la naissance de sa fille Julie."
+    },
+    {
+      "type": "figure",
+      "value": "8",
+      "label": "expositions du groupe entre 1874 et 1886",
+      "body": "Après 1874, le groupe expose en 1876, 1877, 1879, 1880, 1881, 1882 et 1886. La composition change à chaque fois : en 1879, Renoir, Sisley et Cézanne retournent au Salon officiel, tandis que l'Américaine Mary Cassatt rejoint le groupe à l'invitation de Degas."
+    },
+    {
+      "type": "text",
+      "title": "Le marchand qui a tout misé",
+      "body": "Le succès commercial ne vient pas des critiques mais d'un marchand : **Paul Durand-Ruel**. Réfugié à Londres pendant la guerre de 1870, il y rencontre Monet et Pissarro, exilés eux aussi, et commence à leur acheter des toiles.\n\nIl achète en masse, organise des expositions, soutient ses peintres même lorsqu'il frôle la ruine. L'exposition de 1874 est d'ailleurs un échec financier : le catalogue se vend à 322 exemplaires et plusieurs exposants, comme Degas et Morisot, ne vendent rien. Il faudra vingt ans pour que le marché suive."
+    },
+    {
+      "type": "figure",
+      "value": "110,7 M$",
+      "label": "prix d'une « Meule » de Monet aux enchères en 2019",
+      "body": "En mai 2019, chez Sotheby's à New York, un tableau de la série des *Meules* (1890) de Monet est vendu 110,7 millions de dollars, frais compris. C'est la première œuvre impressionniste à dépasser 100 millions de dollars aux enchères. Les « ébauches » raillées en 1874 sont devenues des actifs de luxe."
+    },
+    {
+      "type": "france",
+      "title": "Et ailleurs ?",
+      "body": "L'impressionnisme est français, mais son triomphe passe par l'Amérique. En avril 1886, Durand-Ruel expose environ 300 tableaux impressionnistes à New York. Il n'en vend qu'une cinquantaine, mais la presse salue l'événement et de grands collectionneurs américains s'y intéressent. En 1888, il ouvre une galerie à New York. C'est pourquoi tant de chefs-d'œuvre impressionnistes se trouvent aujourd'hui dans les musées américains."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Face au Salon officiel et à son jury, les impressionnistes ont organisé dès 1874 leurs propres expositions, sans jury ni marchand.",
+        "Le mot « impressionnistes » vient d'un article moqueur de Louis Leroy sur Impression, soleil levant de Monet, en avril 1874.",
+        "Peinture de la lumière et de l'instant, souvent en plein air, l'impressionnisme a été imposé au public grâce au marchand Paul Durand-Ruel."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quel tableau a donné son nom à l'impressionnisme ?",
+      "choices": [
+        "Le Déjeuner sur l'herbe de Manet",
+        "Impression, soleil levant de Monet",
+        "Le Bal du moulin de la Galette de Renoir",
+        "La Classe de danse de Degas"
+      ],
+      "answer": 1,
+      "explain": "Le critique Louis Leroy a tiré le mot « impressionnistes » du titre de la vue du Havre exposée par Monet en 1874, pour s'en moquer dans Le Charivari."
+    },
+    {
+      "q": "Qu'était le Salon des refusés de 1863 ?",
+      "choices": [
+        "Une exposition privée organisée par Monet",
+        "Le premier musée consacré à l'art moderne",
+        "Une exposition voulue par Napoléon III pour montrer les œuvres écartées par le jury du Salon officiel",
+        "Une vente aux enchères de tableaux invendus"
+      ],
+      "answer": 2,
+      "explain": "Face aux protestations contre la sévérité du jury, Napoléon III a laissé « le public juge » en exposant les œuvres refusées ; Le Déjeuner sur l'herbe de Manet y fit scandale."
+    },
+    {
+      "q": "Qu'est-ce qui distinguait la première exposition impressionniste de 1874 du Salon officiel ?",
+      "choices": [
+        "Elle était réservée aux peintres étrangers",
+        "Les artistes y exposaient eux-mêmes, sans jury de sélection",
+        "Elle se tenait au Louvre",
+        "Elle n'exposait que des sculptures"
+      ],
+      "answer": 1,
+      "explain": "Les artistes se sont constitués en société et ont choisi eux-mêmes leurs œuvres, exposées chez Nadar, boulevard des Capucines, sans jury ni marchand."
+    },
+    {
+      "q": "Quel rôle a joué Paul Durand-Ruel dans l'histoire de l'impressionnisme ?",
+      "choices": [
+        "Il a inventé le tube de peinture",
+        "Il était le critique qui a inventé le mot « impressionniste »",
+        "Il présidait le jury du Salon officiel",
+        "Il était le marchand qui a acheté, exposé et vendu les impressionnistes, jusqu'à New York"
+      ],
+      "answer": 3,
+      "explain": "Durand-Ruel a soutenu financièrement Monet, Pissarro et les autres et organisé en 1886 une grande exposition à New York qui leur a ouvert le marché américain."
+    }
+  ],
+  "sources": [
+    { "label": "Ministère de la Culture — 1874, première exposition impressionniste", "url": "https://www.culture.gouv.fr/fr/Thematiques/Musees/Les-musees-en-France/Les-collections-des-musees-de-France/Decouvrir-les-collections/Les-huit-expositions-impressionnistes-1874-1886/1874-Premiere-exposition" },
+    { "label": "Ministère de la Culture — 1879, quatrième exposition impressionniste", "url": "https://www.culture.gouv.fr/Thematiques/musees/Les-musees-en-France/Les-collections-des-musees-de-France/Decouvrir-les-collections/Les-huit-expositions-impressionnistes-1874-1886/1879-quatrieme-exposition" },
+    { "label": "Musée Marmottan Monet — Notice d'Impression, soleil levant", "url": "https://www.marmottan.fr/notice/4014" },
+    { "label": "Encyclopædia Universalis — Salons (histoire de l'art)", "url": "https://www.universalis.fr/encyclopedie/salons-histoire-de-l-art/2-l-epoque-contemporaine-liberte-ou-selection/" },
+    { "label": "Encyclopædia Universalis — Paul Durand-Ruel, un marchand d'art passionné", "url": "https://www.universalis.fr/encyclopedie/paul-durand-ruel/2-un-marchand-d-art-passionne/" },
+    { "label": "CBS News — Monet's « Meules » sells for record $110.7 million (2019)", "url": "https://www.cbsnews.com/news/claude-monets-meules-sells-record-110-7-million" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Paris 1874. Inventer l'impressionnisme — catalogue d'exposition, musée d'Orsay (2024)" },
+    { "kind": "site", "label": "Musée Marmottan Monet — collection Monet en ligne", "url": "https://www.marmottan.fr" }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "day": 12,
+  "domain": "Histoire",
+  "title": "La peste noire : la pandémie qui a refait l'Europe",
+  "subtitle": "D'Asie centrale à Marseille, comment un bacille a bouleversé la société médiévale",
+  "emoji": "🐀",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Un tiers, la moitié… ou davantage ?",
+      "body": "Entre 1347 et 1352, une maladie venue d'Asie traverse l'Europe en quelques années. Selon les estimations, elle tue entre 30 et 60 % de la population du continent. Sept siècles plus tard, les historiens et les généticiens discutent encore de son origine, de son bilan et de ses conséquences. Voici ce que l'on sait, et ce que l'on ignore."
+    },
+    {
+      "type": "text",
+      "title": "Née en Asie centrale",
+      "body": "Près du lac Issyk-Koul, dans l'actuel Kirghizistan, des pierres tombales en syriaque datées de **1338-1339** mentionnent des morts de « pestilence ». En 2022, une équipe internationale (universités de Tübingen, Stirling et Institut Max-Planck) a extrait de l'ADN de squelettes de ces cimetières : il s'agissait bien de la bactérie de la peste.\n\nMieux, cette souche se situe juste au point de départ de la grande diversification des souches médiévales. Publiée dans *Nature*, l'étude conclut que la peste noire est très probablement partie de cette région du Tian Shan, où des rongeurs sauvages hébergent encore aujourd'hui des souches proches."
+    },
+    {
+      "type": "text",
+      "title": "Caffa, entre récit et légende",
+      "body": "Le récit le plus célèbre se déroule à **Caffa** (aujourd'hui Féodossia, en Crimée), comptoir génois assiégé en 1346 par l'armée mongole de Djanibek. Selon le notaire italien Gabriele de' Mussi, les assiégeants, frappés par la peste, auraient catapulté des cadavres dans la ville, et des Génois en fuite auraient ensuite apporté le mal en Méditerranée.\n\nMais de' Mussi n'était **pas témoin** des faits : il écrit de seconde main, vers 1348. Le microbiologiste Mark Wheelis juge l'épisode plausible, mais souligne que la peste a quitté la Crimée sur de nombreux navires et par les routes caravanières : Caffa ne fut au mieux qu'une source parmi d'autres."
+    },
+    {
+      "type": "figure",
+      "value": "1347",
+      "label": "La peste atteint Messine, puis Marseille",
+      "body": "Arrivée par des navires en Sicile, à Messine, à l'automne 1347, la peste touche Marseille en novembre de la même année. Elle remonte ensuite les routes commerciales : Avignon, alors siège de la papauté, en janvier 1348, puis Paris en août 1348. En moins de cinq ans, presque toute l'Europe est touchée."
+    },
+    {
+      "type": "text",
+      "title": "Un bacille, une puce, un rat",
+      "body": "Il faut attendre cinq siècles et demi pour identifier le coupable. Envoyé par l'Institut Pasteur à Hong Kong, où sévit une épidémie, **Alexandre Yersin** y arrive le 5 juin 1894 et isole le bacille le **20 juin 1894**, en concurrence avec l'équipe japonaise de Kitasato Shibasaburō. La bactérie porte aujourd'hui son nom : *Yersinia pestis*.\n\nEn 1898, à Karachi, un autre pasteurien, **Paul-Louis Simond**, met en évidence le rôle de la puce du rat dans la transmission. On distingue la peste bubonique, transmise par piqûre de puce, et la peste pulmonaire, qui se transmet d'humain à humain par les gouttelettes respiratoires et est encore plus redoutable."
+    },
+    {
+      "type": "figure",
+      "value": "30 à 60 %",
+      "label": "de la population européenne serait morte entre 1347 et 1352",
+      "body": "Cette fourchette très large reflète l'incertitude : il n'existait pas de recensements, et les chroniqueurs médiévaux exagéraient souvent les chiffres. Les historiens extrapolent à partir de registres fiscaux, paroissiaux ou seigneuriaux, forcément partiels. L'ordre de grandeur le plus cité, entre un tiers et la moitié des Européens, reste une estimation."
+    },
+    {
+      "type": "text",
+      "title": "Un bilan très inégal",
+      "body": "Une étude publiée en 2022 dans *Nature Ecology & Evolution* a pris le problème autrement : en analysant les **pollens** conservés dans les sédiments de 261 sites de 19 pays européens, elle a mesuré si les champs avaient été abandonnés (recul des céréales, retour de la forêt) après 1347.\n\nRésultat : la Scandinavie, la France, le sud-ouest de l'Allemagne, la Grèce et le centre de l'Italie montrent un net recul agricole, cohérent avec une forte mortalité. Mais une bonne partie de l'Europe centrale et orientale, ainsi que l'Irlande et la péninsule Ibérique, montrent une continuité, voire une croissance. La peste noire a ravagé certaines régions sans frapper partout avec la même violence."
+    },
+    {
+      "type": "quote",
+      "quote": "Et moi, Agnolo di Tura, dit le Gros, j'ai enterré mes cinq enfants de mes propres mains.",
+      "author": "Agnolo di Tura, chroniqueur de Sienne, 1348 (traduction)",
+      "body": "Ce chroniqueur siennois a laissé l'un des témoignages les plus poignants de l'épidémie. Sa femme et ses enfants sont morts en 1348 ; il a survécu et s'est remarié."
+    },
+    {
+      "type": "text",
+      "title": "Isoler pour se protéger",
+      "body": "Faute de comprendre la contagion, les villes inventent des mesures empiriques. Le **27 juillet 1377**, le Grand Conseil de **Raguse** (aujourd'hui Dubrovnik, en Croatie) décide que les voyageurs venant de zones infectées passeront **un mois** sur l'îlot de Mrkan ou à Cavtat avant d'entrer en ville. Ceux qui leur apportent de la nourriture sans autorisation sont eux-mêmes isolés.\n\nC'est l'une des premières mesures d'isolement organisées connues. La durée de **quarante jours**, adoptée ensuite dans d'autres ports, a donné son nom à la « quarantaine ». Ces mesures n'ont pas empêché le retour de la maladie, mais elles ont durablement inspiré la santé publique."
+    },
+    {
+      "type": "text",
+      "title": "Chercher des coupables",
+      "body": "La peur se retourne aussi contre des boucs émissaires. Accusés d'empoisonner les puits, des Juifs sont massacrés dès **avril 1348 à Toulon**, puis dans de nombreuses villes de Provence, de Catalogne, de Suisse et d'Allemagne.\n\nÀ **Strasbourg**, le **14 février 1349**, des centaines de Juifs sont brûlés vifs (un chroniqueur avance le chiffre de 2 000, sans doute exagéré), alors que l'épidémie n'a pas encore atteint la ville. Le pape **Clément VI** publie pourtant en 1348 des bulles qui les défendent, en faisant remarquer que la peste tue aussi des Juifs, et frappe également des régions où il n'y en a pas."
+    },
+    {
+      "type": "text",
+      "title": "Moins de bras, meilleurs salaires",
+      "body": "Avec moins de travailleurs, la main-d'œuvre devient rare. En Angleterre, Édouard III réagit par une ordonnance (1349) puis le **Statut des travailleurs (1351)**, qui plafonne les salaires à leur niveau d'avant la peste. Mal appliquée, cette loi n'empêche pas le salaire agricole anglais de doubler à peu près entre 1350 et 1450 et nourrit la révolte paysanne de 1381.\n\nLa peste a-t-elle mis fin au servage ? Le débat reste ouvert. En Europe de l'Ouest, il recule ; à l'Est, les seigneurs le renforcent au contraire (« second servage »). Pour l'historien Robert Brenner, ce n'est donc pas la démographie seule, mais le rapport de force entre seigneurs et paysans qui a fait la différence."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "La peste entre par **Marseille** en novembre 1347, atteint Avignon, siège de la papauté, en janvier 1348 et Paris en août 1348. Elle frappe un royaume déjà engagé dans la guerre de Cent Ans.\n\nLes estimations, fragiles, suggèrent que la population du royaume serait passée d'environ 17 millions d'habitants vers 1340 à environ 10 millions vers 1440, sous l'effet combiné des retours réguliers de la peste, des guerres et des famines. Le niveau de la fin du XIIIe siècle ne sera retrouvé qu'au XVIIe siècle. C'est enfin un chercheur de l'Institut Pasteur, Alexandre Yersin, qui identifiera le bacille en 1894."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Partie d'Asie centrale vers 1338, la peste noire atteint l'Europe par la mer en 1347 et tue sans doute entre un tiers et la moitié de ses habitants, avec de fortes inégalités régionales.",
+        "Son agent, Yersinia pestis, n'est identifié qu'en 1894 par Alexandre Yersin, et le rôle de la puce du rat en 1898 par Paul-Louis Simond.",
+        "La pandémie a suscité des mesures d'isolement précoces, des persécutions antijuives et une pénurie de main-d'œuvre dont les effets sur les salaires et le servage restent débattus."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Qui a identifié en 1894, à Hong Kong, le bacille responsable de la peste ?",
+      "choices": ["Louis Pasteur", "Robert Koch", "Alexandre Yersin", "Paul-Louis Simond"],
+      "answer": 2,
+      "explain": "Envoyé par l'Institut Pasteur, Alexandre Yersin isole le bacille en juin 1894 ; il porte aujourd'hui son nom, Yersinia pestis. Simond démontrera en 1898 le rôle de la puce du rat."
+    },
+    {
+      "q": "Pourquoi la mortalité de la peste noire en Europe est-elle estimée dans une fourchette aussi large (30 à 60 %) ?",
+      "choices": ["Parce qu'il n'existait pas de recensement et que les sources, partielles, montrent un impact très variable selon les régions", "Parce que les registres médiévaux ont tous été détruits par la Révolution française", "Parce que la peste n'a touché que les villes", "Parce que les historiens refusent de publier des chiffres précis"],
+      "answer": 0,
+      "explain": "Les historiens extrapolent à partir de sources fiscales ou paroissiales incomplètes, et des études récentes (comme l'analyse des pollens en 2022) montrent que certaines régions ont été bien plus touchées que d'autres."
+    },
+    {
+      "q": "Quelle mesure la ville de Raguse (Dubrovnik) adopte-t-elle en 1377 contre la peste ?",
+      "choices": ["Elle brûle tous les navires venant d'Orient", "Elle interdit tout commerce maritime pendant dix ans", "Elle déplace toute sa population sur une île", "Elle impose un mois d'isolement aux voyageurs venant de zones infectées"],
+      "answer": 3,
+      "explain": "Le 27 juillet 1377, le Grand Conseil de Raguse impose aux arrivants un mois d'isolement sur l'îlot de Mrkan ou à Cavtat ; la durée de quarante jours, adoptée plus tard ailleurs, a donné le mot « quarantaine »."
+    },
+    {
+      "q": "Pourquoi le roi d'Angleterre adopte-t-il en 1351 le Statut des travailleurs, après la peste noire ?",
+      "choices": ["Pour obliger les paysans à quitter les villes contaminées", "Pour plafonner les salaires, qui augmentaient du fait de la pénurie de main-d'œuvre", "Pour abolir officiellement le servage", "Pour financer la construction d'hôpitaux"],
+      "answer": 1,
+      "explain": "La mortalité avait rendu les bras rares ; le Statut fixe les salaires au niveau d'avant l'épidémie. Mal appliqué, il n'empêche pas leur hausse et nourrit la révolte paysanne de 1381."
+    }
+  ],
+  "sources": [
+    { "label": "Institut Pasteur — Alexandre Yersin, explorateur d'Indochine et de la biologie", "url": "https://www.pasteur.fr/fr/institut-pasteur/notre-histoire/alexandre-yersin-explorateur-indochine-biologie" },
+    { "label": "Université de Tübingen — Origins of the Black Death identified (Nature, juin 2022)", "url": "https://uni-tuebingen.de/en/university/news-and-publications/press-release/origins-of-the-black-death-identified/" },
+    { "label": "CDC, Emerging Infectious Diseases — Wheelis, Biological Warfare at the 1346 Siege of Caffa (2002)", "url": "https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article" },
+    { "label": "Université de Reading — Black Death mortality (étude des pollens, Nature Ecology & Evolution, 2022)", "url": "https://www.reading.ac.uk/news/2022/Research-News/Black-Death-mortality" },
+    { "label": "Medievalists.net — The Medieval Origins of Quarantine (décret de Raguse, 1377)", "url": "https://www.medievalists.net/2020/03/medieval-origins-quarantine/" },
+    { "label": "Wikipédia (point de départ) — Peste noire", "url": "https://fr.wikipedia.org/wiki/Peste_noire" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Les Hommes et la peste en France et dans les pays européens et méditerranéens — Jean-Noël Biraben (Mouton, 1975-1976)" },
+    { "kind": "site", "label": "Institut Pasteur — Paul-Louis Simond, voyageur et chercheur (le rôle de la puce), page « Notre histoire » du site pasteur.fr" }
+  ]
+}

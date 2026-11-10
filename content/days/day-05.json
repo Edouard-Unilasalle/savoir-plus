@@ -1,0 +1,139 @@
+{
+  "day": 5,
+  "domain": "Droit",
+  "title": "Comment naît une loi en France",
+  "subtitle": "Du projet au Journal officiel : navette, commission mixte paritaire, 49.3 et Conseil constitutionnel",
+  "emoji": "⚖️",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Qui écrit vraiment les lois ?",
+      "body": "On dit que « le Parlement vote la loi ». Pourtant, pendant des décennies, environ 80 % des lois françaises sont nées d'un texte du Gouvernement. Entre l'idée et le Journal officiel, un texte peut passer par le Conseil d'État, deux assemblées, une commission de 14 parlementaires et le Conseil constitutionnel. Suivons son parcours."
+    },
+    {
+      "type": "quote",
+      "quote": "La loi est l'expression de la volonté générale.",
+      "author": "Déclaration des droits de l'homme et du citoyen, article 6 (1789)",
+      "body": "Ce principe hérité de la Révolution fait toujours partie de notre bloc de constitutionnalité. La Constitution de 1958 précise qui peut proposer une loi, comment elle est discutée et votée, et comment elle est contrôlée."
+    },
+    {
+      "type": "text",
+      "title": "Projet ou proposition ?",
+      "body": "Selon l'article 39 de la Constitution, l'initiative des lois appartient **concurremment au Premier ministre et aux parlementaires**.\n\nUn texte venu du Gouvernement s'appelle un **projet de loi**. Un texte déposé par un député ou un sénateur est une **proposition de loi**.\n\nLe projet est déposé au bureau de l'Assemblée nationale ou du Sénat. Certains textes ont une porte d'entrée imposée : les lois de finances et de financement de la Sécurité sociale passent d'abord à l'Assemblée, ceux qui concernent surtout l'organisation des collectivités territoriales d'abord au Sénat. Les parlementaires, eux, ne peuvent pas proposer de créer une charge publique ou de réduire les ressources publiques (article 40)."
+    },
+    {
+      "type": "text",
+      "title": "Le filtre du Conseil d'État",
+      "body": "Avant d'être adopté en Conseil des ministres, tout projet de loi est obligatoirement soumis pour avis au **Conseil d'État**. Celui-ci vérifie la forme et le fond : conformité à la Constitution, aux traités internationaux et au droit européen, qualité de la rédaction.\n\nSon avis ne lie pas le Gouvernement, mais l'ignorer fragilise juridiquement le texte. Depuis mars 2015, ces avis sont rendus publics.\n\nDepuis la loi organique du 15 avril 2009, la plupart des projets doivent aussi être accompagnés d'une **étude d'impact** : conséquences économiques, sociales, environnementales, financières. Les propositions de loi peuvent, elles, être soumises au Conseil d'État par le président d'une assemblée."
+    },
+    {
+      "type": "figure",
+      "value": "Plus de 45 %",
+      "label": "Part des lois issues de propositions parlementaires (2017-2022)",
+      "body": "Jusqu'en 2007, environ 80 % des lois (hors traités) provenaient de projets du Gouvernement. Depuis la révision constitutionnelle de 2008, qui partage l'ordre du jour entre Gouvernement et Parlement, la part des propositions de loi est passée à plus de 30 % (2007-2012), puis à plus de 45 % sous la XVe législature (2017-2022), selon l'Assemblée nationale."
+    },
+    {
+      "type": "text",
+      "title": "Commission, séance, navette",
+      "body": "Le texte est d'abord examiné par une **commission** (8 commissions permanentes à l'Assemblée, 7 au Sénat). Depuis 2008, c'est le texte adopté par la commission qui est discuté en séance, et non plus le texte initial, sauf exceptions comme les lois de finances. Sauf procédure accélérée, au moins six semaines séparent le dépôt de la discussion en séance.\n\nEn séance publique, on débat, on amende et on vote article par article. Puis le texte part dans l'autre assemblée : c'est la **navette**. Il fait des allers-retours jusqu'à ce que les deux chambres adoptent exactement le même texte. Seuls les articles encore en désaccord restent en discussion."
+    },
+    {
+      "type": "figure",
+      "value": "7 + 7",
+      "label": "Députés et sénateurs réunis en commission mixte paritaire (CMP)",
+      "body": "Si le désaccord persiste après deux lectures dans chaque assemblée (une seule en procédure accélérée), le Premier ministre peut convoquer une CMP de 7 députés et 7 sénateurs, chargée de trouver un compromis. Son texte ne peut ensuite être amendé qu'avec l'accord du Gouvernement."
+    },
+    {
+      "type": "text",
+      "title": "Le dernier mot à l'Assemblée",
+      "body": "Si la CMP échoue, ou si son texte est rejeté, le Gouvernement peut demander à l'Assemblée nationale de **statuer définitivement** (article 45). Après une nouvelle lecture dans chaque chambre, les députés procèdent à une « lecture définitive » : ils retiennent soit le texte de la CMP, soit leur propre dernier texte, éventuellement enrichi d'amendements du Sénat.\n\nCette prééminence s'explique : l'Assemblée est élue au suffrage universel direct et le Gouvernement est responsable devant elle.\n\nExceptions notables : pour une loi constitutionnelle ou une loi organique relative au Sénat, les deux chambres doivent être d'accord. Le Sénat dispose alors d'un véritable veto."
+    },
+    {
+      "type": "text",
+      "title": "Le 49.3, adopter sans vote",
+      "body": "L'article 49, alinéa 3, permet au Premier ministre, après délibération du Conseil des ministres, d'**engager la responsabilité du Gouvernement** sur un texte. Celui-ci est alors considéré comme adopté sans vote, sauf si une motion de censure, déposée dans les 24 heures, est votée par la majorité absolue des députés, ce qui renverse le Gouvernement.\n\nLongtemps utilisable sans limite, l'outil a été encadré par la révision de 2008 : il reste illimité pour les projets de loi de finances et de financement de la Sécurité sociale, mais n'est plus possible que pour **un seul autre texte par session**. Il reste très critiqué comme un contournement du débat parlementaire."
+    },
+    {
+      "type": "text",
+      "title": "Le contrôle du Conseil constitutionnel",
+      "body": "Avant sa promulgation, une loi peut être déférée au **Conseil constitutionnel**, qui vérifie sa conformité à la Constitution (article 61). Peuvent le saisir le Président de la République, le Premier ministre, les présidents des deux assemblées et, depuis la révision de 1974, **60 députés ou 60 sénateurs** : l'opposition s'en sert très souvent. Le Conseil a un mois pour statuer. Le contrôle est obligatoire pour les lois organiques.\n\nDepuis le 1er mars 2010, tout justiciable peut aussi contester une loi **déjà en vigueur** par une **question prioritaire de constitutionnalité** (QPC), créée par la révision de 2008. Filtrée par le Conseil d'État ou la Cour de cassation, elle peut aboutir à l'abrogation de la disposition."
+    },
+    {
+      "type": "figure",
+      "value": "15 jours",
+      "label": "Délai donné au Président de la République pour promulguer une loi",
+      "body": "Le Président promulgue la loi par décret, ou peut demander au Parlement une nouvelle délibération. La loi est ensuite publiée au Journal officiel, consultable gratuitement sur Légifrance. Sauf date prévue par le texte, elle entre en vigueur le lendemain de sa publication (article 1er du Code civil), mais certaines dispositions attendent leurs décrets d'application."
+    },
+    {
+      "type": "france",
+      "title": "Et ailleurs ?",
+      "body": "Chaque démocratie organise différemment la fabrique de la loi. Aux États-Unis, le Président peut opposer son veto à une loi votée par le Congrès, qui ne peut passer outre qu'à la majorité des deux tiers dans chaque chambre. Au Royaume-Uni, la souveraineté du Parlement empêche les juges d'annuler une loi. Avec la QPC, la France a rejoint en 2010 les pays où un simple citoyen peut faire contrôler une loi en vigueur."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Une loi naît d'un projet (Gouvernement, après avis du Conseil d'État) ou d'une proposition (parlementaires), puis fait la navette entre Assemblée et Sénat jusqu'à un texte identique.",
+        "En cas de désaccord, une commission mixte paritaire (7 députés, 7 sénateurs) cherche un compromis, et l'Assemblée nationale peut avoir le dernier mot ; le 49.3 est limité depuis 2008.",
+        "Le Conseil constitutionnel contrôle la loi avant promulgation (saisine possible par 60 parlementaires) et après, via la QPC depuis 2010 ; la loi est publiée au Journal officiel et sur Légifrance."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dans la procédure législative française, quelle est la différence entre un projet et une proposition de loi ?",
+      "choices": [
+        "Le projet émane du Gouvernement, la proposition d'un parlementaire",
+        "Le projet est adopté, la proposition est rejetée",
+        "Le projet concerne le budget, la proposition tout le reste",
+        "Il n'y a aucune différence"
+      ],
+      "answer": 0,
+      "explain": "L'article 39 de la Constitution partage l'initiative : projets de loi du Premier ministre (après avis du Conseil d'État), propositions de loi des députés et sénateurs."
+    },
+    {
+      "q": "Que se passe-t-il quand l'Assemblée nationale et le Sénat ne parviennent pas à s'accorder sur un texte de loi ordinaire ?",
+      "choices": [
+        "Le texte est automatiquement abandonné",
+        "Le Président de la République tranche par décret",
+        "Une commission mixte paritaire est réunie, et le Gouvernement peut ensuite donner le dernier mot à l'Assemblée",
+        "Un référendum est obligatoire"
+      ],
+      "answer": 2,
+      "explain": "La CMP (7 députés, 7 sénateurs) cherche un compromis ; en cas d'échec, l'Assemblée nationale peut statuer définitivement (article 45)."
+    },
+    {
+      "q": "Depuis la révision constitutionnelle de 2008, comment l'usage de l'article 49.3 est-il limité ?",
+      "choices": [
+        "Il est totalement interdit",
+        "Il est réservé aux lois constitutionnelles",
+        "Il nécessite l'accord du Sénat",
+        "Illimité pour les lois de finances et de financement de la Sécurité sociale, il ne vaut que pour un seul autre texte par session"
+      ],
+      "answer": 3,
+      "explain": "La révision de 2008 a restreint le 49.3 aux textes budgétaires et sociaux, plus un autre texte par session parlementaire."
+    },
+    {
+      "q": "Qu'est-ce que la question prioritaire de constitutionnalité (QPC), en vigueur depuis 2010 ?",
+      "choices": [
+        "Une question posée au Gouvernement chaque mardi",
+        "La possibilité pour un justiciable de contester une loi déjà en vigueur devant le Conseil constitutionnel",
+        "Un vote du Sénat sur les lois urgentes",
+        "Un avis obligatoire du Conseil d'État"
+      ],
+      "answer": 1,
+      "explain": "Lors d'un procès, une partie peut soutenir qu'une loi porte atteinte aux droits garantis par la Constitution ; filtrée par le Conseil d'État ou la Cour de cassation, la question peut aboutir à son abrogation."
+    }
+  ],
+  "sources": [
+    { "label": "Conseil constitutionnel — Texte intégral de la Constitution du 4 octobre 1958", "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur" },
+    { "label": "Assemblée nationale — Fiche de synthèse : la procédure législative", "url": "https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/travail-legislatif/la-procedure-legislative" },
+    { "label": "Assemblée nationale — Fiche de synthèse : l'initiative gouvernementale", "url": "https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/travail-legislatif/l-initiative-gouvernementale" },
+    { "label": "Conseil constitutionnel — La question prioritaire de constitutionnalité", "url": "https://www.conseil-constitutionnel.fr/la-question-prioritaire-de-constitutionnalite" },
+    { "label": "Conseil constitutionnel — Les révisions constitutionnelles", "url": "https://www.conseil-constitutionnel.fr/la-constitution/les-revisions-constitutionnelles" },
+    { "label": "Légifrance — Code civil, article 1er (entrée en vigueur des lois)", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419280" }
+  ],
+  "further": [
+    { "kind": "site", "label": "vie-publique.fr — Fiches « Institutions » sur le Parlement et la loi", "url": "https://www.vie-publique.fr" },
+    { "kind": "site", "label": "Légifrance — Dossiers législatifs (suivre un texte étape par étape)", "url": "https://www.legifrance.gouv.fr" }
+  ]
+}

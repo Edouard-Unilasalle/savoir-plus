@@ -1,0 +1,140 @@
+{
+  "day": 3,
+  "domain": "Philosophie",
+  "title": "Le stoïcisme : distinguer ce qui dépend de nous",
+  "subtitle": "Une philosophie antique de la liberté intérieure, d'Athènes aux thérapies d'aujourd'hui",
+  "emoji": "🏛️",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Stoïque, vraiment ?",
+      "body": "Aujourd'hui, « stoïque » veut dire impassible, qui serre les dents sans rien montrer. Pourtant, les stoïciens antiques ne prônaient pas l'insensibilité. Leur idée centrale tient en une phrase d'un ancien esclave : certaines choses dépendent de nous, d'autres non. Deux mille ans plus tard, des psychothérapeutes s'en réclament encore."
+    },
+    {
+      "type": "text",
+      "title": "Une école sous un portique",
+      "body": "Vers 300 avant notre ère, **Zénon de Citium**, venu de Chypre, enseigne à Athènes sous un portique décoré de peintures, la *Stoa poikilè*, sur l'agora. Ses disciples en tirent leur nom : les stoïciens, « ceux du Portique ».\n\nLeur philosophie forme un système en trois parties : la logique (bien raisonner), la physique (comprendre le monde, gouverné par une raison) et l'éthique (bien vivre). Le but de la vie est de **vivre en accord avec la nature**, c'est-à-dire avec la raison. Pour eux, seule la vertu est un bien ; santé, richesse ou réputation sont « indifférentes », même si certaines sont préférables."
+    },
+    {
+      "type": "figure",
+      "value": "≈ 300 av. J.-C.",
+      "label": "Fondation de l'école stoïcienne à Athènes par Zénon",
+      "body": "L'école restera active pendant des siècles. Après les fondateurs grecs (Zénon, Cléanthe, Chrysippe), dont les œuvres sont presque entièrement perdues, ce sont surtout trois auteurs de l'époque romaine, dont les textes nous sont parvenus, qui ont façonné l'image du stoïcisme."
+    },
+    {
+      "type": "text",
+      "title": "Un esclave, un ministre, un empereur",
+      "body": "**Épictète** (né dans les années 50, mort vers 135), originaire de Hiérapolis en Asie Mineure, est l'esclave d'Épaphrodite, un administrateur de la cour de Néron, avant d'être affranchi. Chassé de Rome sous Domitien, il fonde une école à Nicopolis, en Grèce. Il n'écrit rien : son élève Arrien rédige les *Entretiens* et leur abrégé, le *Manuel*.\n\n**Sénèque** (vers 1 av. J.-C. – 65), né à Cordoue, est précepteur puis conseiller de Néron, qui le contraint au suicide en 65.\n\n**Marc Aurèle**, empereur de 161 à 180, écrit en grec des notes intitulées *À lui-même*, nos *Pensées*, en partie pendant ses campagnes sur le Danube."
+    },
+    {
+      "type": "quote",
+      "quote": "Des choses les unes dépendent de nous, les autres ne dépendent pas de nous.",
+      "author": "Épictète, Manuel, chapitre I (trad. Charles Thurot, 1889)",
+      "body": "C'est la première phrase du Manuel, et le cœur de toute la pratique stoïcienne."
+    },
+    {
+      "type": "text",
+      "title": "La dichotomie du contrôle",
+      "body": "Selon Épictète, **dépendent de nous** nos jugements, nos désirs, nos aversions, nos intentions : bref, ce qui relève de notre propre activité intérieure. **Ne dépendent pas de nous** notre corps, nos biens, notre réputation, nos fonctions, et les choix des autres.\n\nL'erreur, dit-il, est de s'attacher à ce qui ne dépend pas de nous comme si c'était notre bien : on se condamne alors à l'angoisse et à la frustration. Concentrer ses efforts sur ce qui est en notre pouvoir, c'est devenir libre, même enchaîné.\n\nAttention au contresens : ce n'est pas de la résignation. Le stoïcien agit, mais il fait de son mieux sans faire dépendre sa sérénité du résultat."
+    },
+    {
+      "type": "quote",
+      "quote": "Ce qui trouble les hommes, ce ne sont pas les choses, ce sont les jugements qu'ils portent sur les choses.",
+      "author": "Épictète, Manuel, chapitre V (trad. Charles Thurot, 1889)",
+      "body": "La mort n'est pas terrible en elle-même, poursuit Épictète ; c'est l'opinion que nous en avons qui l'est. Cette phrase deviendra, vingt siècles plus tard, la devise des thérapies cognitives."
+    },
+    {
+      "type": "text",
+      "title": "Les passions, des jugements erronés",
+      "body": "Pour les stoïciens, les passions (peur, colère, désir effréné, chagrin) ne sont pas des forces étrangères à la raison : ce sont des **jugements erronés**, qui accordent une valeur excessive à des choses indifférentes, comme l'argent ou l'opinion d'autrui.\n\nLe sage vise l'*apatheia*, l'absence de passions. Mais cela ne signifie pas l'absence de toute émotion : il connaît des « bonnes affections » (*eupatheiai*), comme la joie raisonnable ou la prudence face à un vrai danger.\n\nD'où l'idée qu'on peut agir sur ses émotions en examinant et en corrigeant ses jugements, plutôt qu'en les étouffant."
+    },
+    {
+      "type": "text",
+      "title": "S'entraîner tous les jours",
+      "body": "Le stoïcisme se pratique comme un entraînement.\n\n**Anticiper les coups durs** : après l'incendie qui a détruit Lyon, Sénèque écrit à Lucilius (lettre 91) qu'il faut se préparer à tout ce qui est possible, pour ne pas être écrasé par la surprise. On parle aujourd'hui de *premeditatio malorum*, une étiquette latine en bonne partie moderne.\n\n**Se préparer le matin** : Marc Aurèle commence le livre II des *Pensées* en se rappelant qu'il croisera dans la journée des fâcheux, des ingrats, des insolents, et qu'il ne doit pas s'en laisser troubler.\n\n**Écrire et s'examiner** : les *Pensées* elles-mêmes sont ces exercices quotidiens, non un journal intime."
+    },
+    {
+      "type": "figure",
+      "value": "1979",
+      "label": "Beck relie la thérapie cognitive aux philosophes stoïciens",
+      "body": "Dans leur manuel sur la dépression (1979), Aaron Beck et ses collègues écrivent que les origines philosophiques de la thérapie cognitive remontent aux stoïciens. Dès 1962, le psychologue Albert Ellis citait la phrase d'Épictète sur les jugements pour fonder sa propre thérapie."
+    },
+    {
+      "type": "text",
+      "title": "Un héritage, pas une recette",
+      "body": "Les thérapies cognitives et comportementales (TCC) partagent avec le stoïcisme une intuition : nos émotions dépendent en partie de nos interprétations, que l'on peut apprendre à examiner.\n\nMais les différences sont réelles. Les TCC sont des méthodes cliniques évaluées scientifiquement, qui visent à réduire une souffrance. Le stoïcisme est une philosophie complète, avec une physique et une théologie (un cosmos rationnel, un destin), dont le but n'est pas d'aller mieux mais de devenir vertueux.\n\nLe succès actuel du « stoïcisme » dans le développement personnel en retient souvent la seule endurance, en oubliant la justice et le souci des autres, essentiels chez Marc Aurèle."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "Montaigne s'est nourri de Sénèque : son essai « Que philosopher, c'est apprendre à mourir » (Essais, I, 20) en reprend bien des idées, avant que l'auteur ne prenne ses distances dans le livre III. Au XXe siècle, Pierre Hadot, professeur au Collège de France de 1982 à 1990, a relu les philosophies antiques comme des « exercices spirituels », une manière de vivre plutôt qu'une théorie."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Fondé à Athènes vers 300 av. J.-C. par Zénon, le stoïcisme nous est surtout connu par Épictète, Sénèque et Marc Aurèle.",
+        "Son principe clé : distinguer ce qui dépend de nous (nos jugements, nos choix) de ce qui n'en dépend pas, et y placer nos efforts.",
+        "Les thérapies cognitives se réclament de cette idée que nos jugements façonnent nos émotions, sans que le stoïcisme se réduise à une technique de bien-être."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "D'où vient le nom « stoïcisme » ?",
+      "choices": [
+        "Du nom de son fondateur, Stoïkos",
+        "Du portique peint (stoa) d'Athènes où enseignait Zénon",
+        "D'un mot grec signifiant « impassible »",
+        "De la ville de Stagire, en Macédoine"
+      ],
+      "answer": 1,
+      "explain": "Zénon de Citium enseignait sous la Stoa poikilè, le « portique peint » de l'agora d'Athènes ; ses disciples furent appelés « ceux du Portique »."
+    },
+    {
+      "q": "Selon Épictète, lequel de ces éléments « dépend de nous » ?",
+      "choices": [
+        "Notre réputation",
+        "Notre santé",
+        "Le jugement que nous portons sur un événement",
+        "La décision d'un supérieur hiérarchique"
+      ],
+      "answer": 2,
+      "explain": "Pour Épictète, seuls nos jugements, désirs, aversions et intentions dépendent de nous ; le corps, les biens, la réputation et les choix d'autrui n'en dépendent pas."
+    },
+    {
+      "q": "Pour les stoïciens, que sont les passions comme la peur ou la colère ?",
+      "choices": [
+        "Des jugements erronés qui surestiment la valeur de choses indifférentes",
+        "Des forces divines qu'il faut accepter",
+        "Des signes de vertu",
+        "Des réactions purement physiques sans lien avec la pensée"
+      ],
+      "answer": 0,
+      "explain": "Les stoïciens voient dans les passions des jugements faux ; on peut donc les transformer en corrigeant ses jugements. Le sage garde néanmoins de « bonnes affections »."
+    },
+    {
+      "q": "Quel lien unit le stoïcisme aux thérapies cognitives modernes ?",
+      "choices": [
+        "Les TCC ont été inventées par Marc Aurèle",
+        "Aucun : c'est une légende du développement personnel",
+        "Les TCC reprennent toute la physique stoïcienne",
+        "Ellis et Beck citent les stoïciens, notamment Épictète, parmi leurs sources d'inspiration"
+      ],
+      "answer": 3,
+      "explain": "Albert Ellis citait Épictète dès 1962, et Beck et ses collègues (1979) situent les origines philosophiques de la thérapie cognitive chez les stoïciens, sans que les deux se confondent."
+    }
+  ],
+  "sources": [
+    { "label": "Stanford Encyclopedia of Philosophy — Stoicism", "url": "https://plato.stanford.edu/entries/stoicism/" },
+    { "label": "Stanford Encyclopedia of Philosophy — Epictetus", "url": "https://plato.stanford.edu/entries/epictetus/" },
+    { "label": "Wikisource — Manuel d'Épictète (trad. Thurot, 1889)", "url": "https://fr.wikisource.org/wiki/Manuel_d%E2%80%99%C3%89pict%C3%A8te_(trad._Thurot)/Manuel" },
+    { "label": "Encyclopædia Universalis — Marc Aurèle, les Pensées", "url": "https://www.universalis.fr/encyclopedie/marc-aurele/2-les-pensees/" },
+    { "label": "Wikisource — Sénèque, Lettres à Lucilius, lettre 91", "url": "https://fr.wikisource.org/wiki/Lettres_%C3%A0_Lucilius/Lettre_91" },
+    { "label": "D. Robertson & T. Codd — Stoic Philosophy as a Cognitive-Behavioral Therapy", "url": "https://donaldrobertson.name/?p=82688145" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "La Citadelle intérieure. Introduction aux Pensées de Marc Aurèle — Pierre Hadot (Fayard, 1992)" },
+    { "kind": "livre", "label": "Exercices spirituels et philosophie antique — Pierre Hadot (1981)" },
+    { "kind": "livre", "label": "Manuel — Épictète (nombreuses éditions, texte court et accessible)" }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "day": 4,
+  "domain": "Supply chain",
+  "title": "Le conteneur, la boîte qui a mondialisé le monde",
+  "subtitle": "Comment une simple caisse en acier normalisée a fait s'effondrer le coût du transport",
+  "emoji": "📦",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Une boîte en acier",
+      "body": "Votre téléphone, votre jean, votre machine à café ont presque tous voyagé dans la même chose : une boîte en acier de 20 ou 40 pieds de long. Cette invention sans aucune haute technologie a sans doute davantage changé le commerce mondial que bien des révolutions industrielles. Elle a 70 ans."
+    },
+    {
+      "type": "text",
+      "title": "Avant la boîte",
+      "body": "Jusqu'aux années 1950, on charge les navires comme on l'a toujours fait : **en vrac**, colis par colis. Sacs, caisses, fûts et ballots sont hissés un à un par des équipes de dockers, puis arrimés à la main dans les cales. Un cargo peut passer des jours à quai, et une bonne part du coût du transport se joue dans le port, pas en mer. Les vols et la casse sont fréquents.\n\nL'idée de caisses standard n'est pas totalement neuve, mais elle reste marginale. C'est un entrepreneur américain du transport routier, **Malcom McLean**, qui va en faire un système complet : navire, camion et quai pensés autour de la même boîte."
+    },
+    {
+      "type": "figure",
+      "value": "26 avril 1956",
+      "label": "Départ de l'Ideal-X, premier voyage de conteneurs de McLean",
+      "body": "Ce pétrolier reconverti quitte Newark (New Jersey) pour Houston (Texas) avec 58 conteneurs de 35 pieds sur son pont, en plus de sa cargaison de pétrole. Il arrive cinq jours plus tard. À Houston, 58 camions attendent pour emporter les boîtes directement vers leurs destinataires."
+    },
+    {
+      "type": "figure",
+      "value": "0,16 $",
+      "label": "Coût de chargement par tonne de l'Ideal-X, contre 5,83 $ (1956)",
+      "body": "Selon les calculs de McLean, charger un cargo moyen de façon classique coûtait 5,83 dollars la tonne en 1956 ; avec ses conteneurs, moins de 16 cents. Une division par plus de 30, qui reste une estimation d'époque, mais qui donne l'ordre de grandeur de la révolution."
+    },
+    {
+      "type": "text",
+      "title": "Une boîte, une norme",
+      "body": "Au début, chaque compagnie a ses propres boîtes : 35 pieds chez McLean, d'autres tailles ailleurs. Impossible de les échanger. À la fin des années 1960, une normalisation internationale s'impose, notamment dans le cadre de l'ISO : **8 pieds de large, des longueurs de 20 et 40 pieds** et des pièces de coin standard permettant de saisir et d'empiler n'importe quelle boîte.\n\nC'est la clé : le même conteneur passe d'un navire à un train ou à un camion sans être ouvert. On parle de transport **intermodal**.\n\nL'unité de mesure devient l'**EVP**, « équivalent vingt pieds » (TEU en anglais) : un conteneur de 40 pieds compte pour 2 EVP."
+    },
+    {
+      "type": "text",
+      "title": "Comment la boîte a tout changé",
+      "body": "En réduisant le temps à quai et la main-d'œuvre, le conteneur fait **chuter le coût du transport** maritime. Fabriquer à l'autre bout du monde devient rentable, même pour des produits bon marché.\n\nLes conséquences sont immenses. Les entreprises fragmentent leur production entre plusieurs pays : c'est l'essor des chaînes de valeur mondiales et de l'Asie comme « usine du monde ». Les ports historiques en centre-ville, trop étroits, déclinent au profit de terminaux géants en eau profonde. Le métier de docker est bouleversé.\n\nLe conteneur a aussi rendu possible la logistique en flux tendus : on transporte plus souvent, en plus petites quantités, avec moins de stocks."
+    },
+    {
+      "type": "text",
+      "title": "Les géants des mers",
+      "body": "Le transport de conteneurs est dominé par quelques armateurs. Selon le classement Alphaliner de 2026, l'italo-suisse **MSC** est numéro un mondial, devant le danois **Maersk** et le français **CMA CGM**. Ces trois groupes contrôlent à eux seuls près de la moitié de la capacité mondiale.\n\nLes navires ont suivi : l'Ideal-X portait 58 boîtes, le MSC Irina, livré en 2023, peut transporter **24 346 EVP** sur près de 400 mètres de long. Des économies d'échelle spectaculaires… mais qui exigent des ports capables d'accueillir ces mastodontes."
+    },
+    {
+      "type": "figure",
+      "value": "51,5 M EVP",
+      "label": "Conteneurs traités par le port de Shanghai en 2024",
+      "body": "Premier port à dépasser les 50 millions d'EVP en un an, Shanghai est le premier port à conteneurs du monde depuis plus de dix ans. Les grands ports mondiaux sont aujourd'hui majoritairement asiatiques, reflet du déplacement de la production manufacturière."
+    },
+    {
+      "type": "text",
+      "title": "Ever Given : six jours de blocage",
+      "body": "Le 23 mars 2021, le porte-conteneurs **Ever Given**, long de 400 mètres, s'échoue en travers du canal de Suez par vents violents et tempête de sable. Le passage entre l'Europe et l'Asie est coupé.\n\nIl faut six jours de dragage et de remorquage pour le dégager, le 29 mars. Selon l'Autorité du canal, plus de 400 navires se sont retrouvés bloqués en attente, et l'Égypte a perdu des millions de dollars de péages par jour.\n\nL'image de ce géant coincé est devenue le symbole de la fragilité d'un système optimisé à l'extrême, sans marge de sécurité."
+    },
+    {
+      "type": "text",
+      "title": "Un système sous tension",
+      "body": "D'autres chocs ont suivi. Pendant la pandémie de Covid-19, ports saturés, conteneurs mal répartis et demande en forte hausse ont fait exploser les taux de fret et les délais.\n\nPuis, fin 2023, les attaques des rebelles houthis contre des navires en mer Rouge ont poussé les compagnies à contourner l'Afrique par le cap de Bonne-Espérance. Début 2024, selon la CNUCED, les passages par le canal de Suez avaient chuté de **42 %** par rapport à leur pic, et ceux de porte-conteneurs de **67 %**.\n\nQuelques détroits et canaux concentrent une part énorme du commerce : une crise locale devient vite mondiale."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "La France compte un géant du secteur : CMA CGM, fondé en 1978 à Marseille par Jacques Saadé et dirigé par son fils Rodolphe, troisième armateur mondial. Le groupe revendique environ 700 navires et une présence dans plus de 180 pays. Côté ports, HAROPA PORT (Le Havre, Rouen, Paris) a atteint un record de 3,1 millions d'EVP en 2024, loin derrière Rotterdam ou Anvers."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "En 1956, Malcom McLean lance le conteneur maritime moderne avec l'Ideal-X, divisant par plus de 30 le coût de chargement selon ses estimations.",
+        "La normalisation (20 et 40 pieds, mesurés en EVP) permet de passer du navire au train ou au camion sans ouvrir la boîte, ce qui a rendu la mondialisation de la production rentable.",
+        "Le système, dominé par MSC, Maersk et le français CMA CGM, reste vulnérable aux goulets d'étranglement, comme l'ont montré l'Ever Given en 2021 et la crise de la mer Rouge."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Qui est considéré comme le père du conteneur maritime moderne ?",
+      "choices": [
+        "Henry Ford",
+        "Malcom McLean",
+        "Jacques Saadé",
+        "Ferdinand de Lesseps"
+      ],
+      "answer": 1,
+      "explain": "Le transporteur routier américain Malcom McLean a lancé en 1956 l'Ideal-X, premier voyage de son système de conteneurs, entre Newark et Houston."
+    },
+    {
+      "q": "Dans le transport maritime, que signifie l'unité « EVP » (ou TEU) ?",
+      "choices": [
+        "Un conteneur de 40 pieds",
+        "Une tonne de marchandises",
+        "L'équivalent d'un conteneur de 20 pieds",
+        "Un navire de taille moyenne"
+      ],
+      "answer": 2,
+      "explain": "L'EVP, « équivalent vingt pieds », est l'unité de mesure des capacités : un conteneur de 40 pieds compte pour 2 EVP."
+    },
+    {
+      "q": "Pourquoi la normalisation des conteneurs a-t-elle été décisive ?",
+      "choices": [
+        "Elle permettait de passer d'un navire à un train ou un camion sans ouvrir la boîte",
+        "Elle rendait les conteneurs étanches",
+        "Elle a supprimé les droits de douane",
+        "Elle obligeait tous les navires à mesurer 400 mètres"
+      ],
+      "answer": 0,
+      "explain": "Des dimensions et des pièces de coin communes permettent à toutes les grues, tous les navires, trains et camions de manipuler n'importe quelle boîte : c'est le transport intermodal."
+    },
+    {
+      "q": "Qu'a illustré l'échouage de l'Ever Given dans le canal de Suez en mars 2021 ?",
+      "choices": [
+        "La fin du transport par conteneurs",
+        "La supériorité du canal de Panama",
+        "Une baisse durable des prix du fret",
+        "La vulnérabilité des chaînes logistiques à quelques points de passage"
+      ],
+      "answer": 3,
+      "explain": "Pendant six jours, des centaines de navires ont été bloqués : quelques canaux et détroits concentrent une part énorme du commerce mondial."
+    }
+  ],
+  "sources": [
+    { "label": "The Geography of Transport Systems — First Containership, Ideal-X, 1956", "url": "https://transportgeography.org/contents/chapter1/the-setting-of-global-transportation-systems/idealx-first-containeriship-1956/" },
+    { "label": "The Geography of Transport Systems — Intermodal Transportation and Containerization", "url": "https://transportgeography.org/contents/chapter5/intermodal-transportation-containerization/" },
+    { "label": "ONU Info — Le blocage du canal de Suez (26 mars 2021)", "url": "https://news.un.org/fr/story/2021/03/1092772" },
+    { "label": "CNUCED — Unprecedented shipping disruptions raise risk to global trade (2024)", "url": "https://unctad.org/news/unprecedented-shipping-disruptions-raise-risk-global-trade-unctad-warns" },
+    { "label": "HAROPA PORT — Bilan des trafics 2024", "url": "https://www.haropaport.com/en/news/2024-new-model-growth-increase-traffic-and-industrial-projects" },
+    { "label": "CMA CGM — Chiffres clés du groupe", "url": "https://www.cmacgm-group.com/fr/group-and-vision/key-figures" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "The Box — Marc Levinson (Princeton University Press, 2006 ; trad. française Max Milo, 2011)" },
+    { "kind": "site", "label": "The Geography of Transport Systems — Jean-Paul Rodrigue (manuel en ligne)", "url": "https://transportgeography.org" }
+  ]
+}

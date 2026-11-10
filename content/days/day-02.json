@@ -1,0 +1,139 @@
+{
+  "day": 2,
+  "domain": "Économie",
+  "title": "L'inflation : d'où elle vient, qui elle frappe",
+  "subtitle": "Mesure, causes, grandes crises et rôle de la Banque centrale européenne",
+  "emoji": "📈",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Le retour d'un vieux fantôme",
+      "body": "De 2002 à 2021, la hausse des prix en France n'a dépassé 2 % par an que quatre fois. Puis, en 2022, elle bondit à 5,2 %, un niveau inédit depuis le milieu des années 1980. Pourquoi les prix s'emballent-ils soudain, et qui paie l'addition ?"
+    },
+    {
+      "type": "text",
+      "title": "Définir et mesurer",
+      "body": "Pour l'Insee, l'inflation est **la hausse générale des prix des biens et des services**. Elle signifie qu'avec un euro, on achète moins qu'avant.\n\nPour la mesurer, l'Insee suit chaque mois l'indice des prix à la consommation (IPC) : les prix d'un panier de biens et services, pondérés selon leur poids dans les dépenses des ménages. Le panier est revu chaque année, et les prix sont corrigés des changements de qualité (un smartphone plus puissant n'est pas « le même » produit). Des dizaines de millions de prix proviennent des données de caisse des supermarchés.\n\nPour comparer les pays européens, on utilise une version harmonisée : l'IPCH."
+    },
+    {
+      "type": "figure",
+      "value": "+5,2 %",
+      "label": "Inflation moyenne en France en 2022 (Insee)",
+      "body": "Après +1,6 % en 2021 et +0,5 % en 2020. En 2022, les prix de l'énergie ont bondi de 23,1 % et ceux de l'alimentation de 6,8 %. L'inflation est restée forte en 2023 (+4,9 %), avant de redescendre à +2,0 % en 2024 et +0,9 % en 2025."
+    },
+    {
+      "type": "text",
+      "title": "Quatre moteurs de la hausse",
+      "body": "Les économistes distinguent plusieurs causes, souvent mêlées.\n\n**L'inflation par la demande** : quand les ménages et les entreprises veulent acheter plus que ce que l'économie peut produire, les prix montent.\n\n**L'inflation par les coûts** : une flambée du pétrole, du gaz ou des matières premières renchérit la production, que les entreprises répercutent.\n\n**La monnaie** : si la quantité de monnaie croît bien plus vite que la production, chaque euro perd de sa valeur.\n\n**Les anticipations** : si tout le monde s'attend à une hausse, les salariés réclament des augmentations et les entreprises relèvent leurs prix par avance. C'est la redoutée boucle prix-salaires."
+    },
+    {
+      "type": "quote",
+      "quote": "L'inflation est toujours et partout un phénomène monétaire.",
+      "author": "Milton Friedman, The Counter-Revolution in Monetary Theory (1970)",
+      "body": "La formule du chef de file des monétaristes est célèbre, mais débattue : la plupart des économistes admettent aujourd'hui que les chocs d'offre (énergie, pénuries) peuvent aussi déclencher l'inflation, la monnaie déterminant surtout si elle s'installe dans la durée."
+    },
+    {
+      "type": "text",
+      "title": "1923 : quand une monnaie meurt",
+      "body": "L'Allemagne de Weimar offre l'exemple extrême d'**hyperinflation**. L'État a financé la guerre de 1914-1918 surtout par l'emprunt ; la masse monétaire a quintuplé pendant le conflit. Puis viennent la dette, les réparations exigées par les Alliés et, en janvier 1923, l'occupation de la Ruhr par les troupes françaises et belges.\n\nPour soutenir la grève de « résistance passive » dans la Ruhr, le gouvernement fait tourner la planche à billets de la Reichsbank. Les prix s'envolent au point que les billets perdent leur valeur en quelques heures. La crise ne cesse qu'avec une réforme monétaire et l'introduction du **Rentenmark**, le 15 novembre 1923."
+    },
+    {
+      "type": "figure",
+      "value": "4 200 milliards",
+      "label": "Marks-papier pour un dollar lors de la réforme de novembre 1923",
+      "body": "La réforme fixe la conversion à 4,2 billions (4 200 milliards) de marks-papier pour un dollar, soit 4,20 Rentenmarks : un Rentenmark vaut donc mille milliards d'anciens marks. Les économies de la classe moyenne sont anéanties, un traumatisme durable dans la mémoire allemande."
+    },
+    {
+      "type": "text",
+      "title": "Années 1970 : la stagflation",
+      "body": "Les chocs pétroliers de 1973-1974 et de 1979 font exploser le prix de l'énergie. Dans les pays occidentaux, l'inflation dépasse souvent 10 % par an, alors même que la croissance ralentit et que le chômage monte : c'est la **stagflation**, que les économistes jugeaient improbable.\n\nEn France, selon l'Insee, les prix ont augmenté en moyenne de 10,1 % par an de l'après-guerre au milieu des années 1980. Les salaires étant souvent indexés sur les prix, chaque hausse en entraînait une autre.\n\nLa sortie passe par des politiques monétaires très restrictives, comme celle de la Réserve fédérale américaine à partir de 1979, et en France par la désindexation des salaires au début des années 1980."
+    },
+    {
+      "type": "text",
+      "title": "2022 : le choc de l'énergie",
+      "body": "La poussée de 2021-2023 combine plusieurs moteurs : forte reprise après le Covid, pénuries dans les chaînes d'approvisionnement, puis flambée du gaz, du pétrole et des céréales après l'invasion de l'Ukraine en février 2022. Dans la zone euro, l'inflation atteint **10,6 % sur un an en octobre 2022**, un record depuis la création de l'euro.\n\nLa Banque centrale européenne (BCE) réagit : le 21 juillet 2022, elle relève ses taux directeurs de 0,5 point, sa première hausse depuis 2011. Au total, dix hausses consécutives portent son taux de dépôt de -0,5 % à 4 % en septembre 2023. Objectif : renchérir le crédit pour freiner la demande et ancrer les anticipations."
+    },
+    {
+      "type": "figure",
+      "value": "2 %",
+      "label": "La cible d'inflation de la BCE, à moyen terme",
+      "body": "Depuis juillet 2021, la cible est « symétrique » : une inflation trop basse est aussi indésirable qu'une inflation trop haute. Pourquoi pas 0 % ? Selon la Banque de France, une légère inflation offre une marge de sécurité contre la déflation, compense les biais de mesure et laisse aux taux d'intérêt une marge pour baisser en cas de crise."
+    },
+    {
+      "type": "text",
+      "title": "Gagnants et perdants",
+      "body": "L'inflation n'est pas neutre : elle redistribue.\n\nElle **allège les dettes** à taux fixe : un emprunteur rembourse la même somme, mais en euros qui valent moins. Les ménages endettés pour leur logement et les États endettés en profitent si leurs revenus suivent les prix.\n\nElle **pénalise les créanciers et les revenus fixes** : épargne à taux fixe mal rémunérée, obligations, loyers ou pensions non indexés, salaires qui augmentent moins vite que les prix.\n\nEnfin, sa composition compte : quand l'alimentation et l'énergie flambent, les ménages qui y consacrent une grande part de leur budget subissent une inflation plus forte que la moyenne."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "La France protège en partie les plus bas salaires : le Smic est indexé sur l'inflation mesurée pour les 20 % de ménages les plus modestes, et il est revalorisé automatiquement en cours d'année si les prix augmentent d'au moins 2 % depuis sa dernière hausse. Selon l'Insee, en avril 2023, l'alimentation (+15,1 % sur un an) était devenue le principal facteur d'écart d'inflation entre ménages modestes et aisés."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "L'inflation est la hausse générale des prix ; en France, l'Insee la mesure avec l'indice des prix à la consommation (IPC).",
+        "Elle peut venir de la demande, des coûts (énergie), de la création monétaire et des anticipations, et peut aller jusqu'à l'hyperinflation comme en Allemagne en 1923.",
+        "La BCE vise 2 % à moyen terme et monte ses taux pour freiner les prix ; l'inflation favorise les emprunteurs et pénalise les revenus fixes et l'épargne mal rémunérée."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quel indicateur l'Insee utilise-t-il principalement pour mesurer l'inflation en France ?",
+      "choices": [
+        "Le produit intérieur brut (PIB)",
+        "Le taux de chômage",
+        "L'indice des prix à la consommation (IPC)",
+        "Le CAC 40"
+      ],
+      "answer": 2,
+      "explain": "L'IPC suit l'évolution des prix d'un panier de biens et services représentatif de la consommation des ménages, à qualité constante."
+    },
+    {
+      "q": "Quelle est la cible d'inflation de la Banque centrale européenne depuis 2021 ?",
+      "choices": [
+        "2 % à moyen terme, de façon symétrique",
+        "0 % chaque année",
+        "Moins de 5 % en permanence",
+        "Elle n'a pas de cible chiffrée"
+      ],
+      "answer": 0,
+      "explain": "Depuis le 8 juillet 2021, la BCE vise 2 % à moyen terme ; une inflation trop basse est jugée aussi indésirable qu'une inflation trop haute."
+    },
+    {
+      "q": "En matière d'inflation, que s'est-il passé en Allemagne en 1923 ?",
+      "choices": [
+        "Une déflation provoquée par l'étalon-or",
+        "Une hyperinflation, stoppée par la création du Rentenmark en novembre",
+        "L'adoption de l'euro",
+        "Une inflation modérée de 5 % par an"
+      ],
+      "answer": 1,
+      "explain": "Financement monétaire du déficit et occupation de la Ruhr ont provoqué une hyperinflation ; la réforme de novembre 1923 a fixé 1 dollar à 4 200 milliards de marks-papier."
+    },
+    {
+      "q": "Face à une inflation durable, qui est généralement avantagé ?",
+      "choices": [
+        "Un retraité dont la pension n'est pas indexée",
+        "Un épargnant placé à taux fixe bas",
+        "Un salarié dont le salaire est gelé",
+        "Un ménage qui rembourse un crédit immobilier à taux fixe"
+      ],
+      "answer": 3,
+      "explain": "Les mensualités d'un crédit à taux fixe ne bougent pas, mais elles pèsent de moins en moins lourd si les revenus suivent les prix : la dette réelle diminue."
+    }
+  ],
+  "sources": [
+    { "label": "Insee — L'essentiel sur… l'inflation", "url": "https://www.insee.fr/fr/statistiques/4268033" },
+    { "label": "Insee — Indice des prix à la consommation, résultats annuels 2022", "url": "https://www.insee.fr/fr/statistiques/6688595" },
+    { "label": "Banque de France — La BCE adopte une cible d'inflation claire et symétrique de 2 %", "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-bce-adopte-une-cible-dinflation-claire-et-symetrique-de-2" },
+    { "label": "BCE — Décisions de politique monétaire du 21 juillet 2022", "url": "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.fr.html" },
+    { "label": "Deutsches Historisches Museum (LeMO) — Inflation 1923", "url": "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/inflation" },
+    { "label": "Insee — Note de conjoncture juin 2023 : inflation par catégorie de ménages", "url": "https://www.insee.fr/fr/statistiques/fichier/7634629/ndc-juin-2023-ipc-categorie-menages.pdf" }
+  ],
+  "further": [
+    { "kind": "site", "label": "Banque de France — ABC de l'économie (fiches pédagogiques)", "url": "https://www.banque-france.fr/fr/abc-de-leconomie" },
+    { "kind": "site", "label": "La finance pour tous (Institut pour l'éducation financière du public)", "url": "https://www.lafinancepourtous.com" }
+  ]
+}

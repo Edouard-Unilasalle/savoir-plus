@@ -1,0 +1,118 @@
+{
+  "day": 14,
+  "domain": "Anecdotes",
+  "title": "Inventé par accident : quand l'erreur devient génie",
+  "subtitle": "Pénicilline, micro-ondes, Post-it, Velcro… démêler le hasard, le mythe et le travail",
+  "emoji": "💡",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Le hasard fait-il les inventeurs ?",
+      "body": "Une boîte de culture oubliée, une barre chocolatée qui fond, une colle qui ne colle pas… Les grandes découvertes « par accident » font de belles histoires. Mais à y regarder de près, le hasard n'y joue jamais seul : il faut quelqu'un pour le remarquer, et souvent des années de travail pour en faire quelque chose."
+    },
+    {
+      "type": "text",
+      "title": "Sérendipité, un mot de 1754",
+      "body": "Le mot vient de l'anglais *serendipity*, inventé par l'écrivain **Horace Walpole** dans une lettre du **28 janvier 1754** à son ami Horace Mann. Il s'inspire d'un conte, *Les Trois Princes de Serendip* (l'ancien nom du Sri Lanka), dont les héros font sans cesse des découvertes, « par accident et sagacité », de choses qu'ils ne cherchaient pas.\n\nLes deux ingrédients comptent. Louis Pasteur l'a résumé dans son discours d'installation à la faculté des sciences de Lille, le 7 décembre 1854 : **« Dans les champs de l'observation, le hasard ne favorise que les esprits préparés. »**"
+    },
+    {
+      "type": "figure",
+      "value": "1928",
+      "label": "Alexander Fleming remarque une moisissure qui tue des bactéries",
+      "body": "En septembre 1928, de retour de vacances, le bactériologiste écossais découvre dans son laboratoire londonien qu'une moisissure (Penicillium) a contaminé une culture de staphylocoques et empêché leur croissance autour d'elle. Il nomme la substance « pénicilline ». Mais il ne parvient pas à la purifier et y travaillera peu ensuite."
+    },
+    {
+      "type": "text",
+      "title": "De la boîte au médicament",
+      "body": "Le hasard de Fleming aurait pu rester une curiosité. C'est une équipe d'Oxford qui en fait un médicament entre **1938 et 1941** : **Howard Florey** dirige le projet, **Ernst Chain** extrait et purifie la substance, **Norman Heatley** invente des procédés pour la produire avec des moyens de fortune en pleine guerre.\n\nLe **12 février 1941**, un policier d'Oxford, Albert Alexander, est le premier patient traité. Il s'améliore, puis meurt quand le stock s'épuise. La production de masse vient ensuite des États-Unis. En **1945**, le prix Nobel de médecine récompense Fleming, Florey et Chain ; Heatley n'y figure pas. Pendant longtemps, le grand public n'a retenu que Fleming."
+    },
+    {
+      "type": "quote",
+      "quote": "Sans Fleming, pas de Chain ; sans Chain, pas de Florey ; sans Florey, pas de Heatley ; sans Heatley, pas de pénicilline.",
+      "author": "Henry Harris, pathologiste à l'université d'Oxford (traduction)",
+      "body": "Une façon de rappeler qu'une découverte scientifique est presque toujours une chaîne de contributions, bien au-delà du « coup de chance » initial."
+    },
+    {
+      "type": "text",
+      "title": "La barre chocolatée de Percy Spencer",
+      "body": "Ingénieur chez l'industriel américain Raytheon, **Percy Spencer** travaille sur les **magnétrons**, les tubes qui produisent les micro-ondes des radars. Selon le récit le plus répandu, il remarque un jour que la barre chocolatée dans sa poche a fondu. Il approche alors des grains de maïs du magnétron : ils éclatent en pop-corn.\n\nRaytheon dépose un brevet le **8 octobre 1945**, accordé en 1950. Le premier four commercial, le « Radarange », sort en **1947** : environ 1,80 m de haut, quelque 340 kg, 3 000 dollars. Il faudra une vingtaine d'années avant un modèle domestique. À noter : l'anecdote du chocolat n'est confirmée par aucune source de première main."
+    },
+    {
+      "type": "text",
+      "title": "La colle qui ne collait pas",
+      "body": "En **1968**, chez 3M, le chimiste **Spencer Silver** cherche à mettre au point un adhésif très puissant. Il obtient l'inverse : une colle faible, faite de minuscules sphères, qui adhère légèrement et se retire sans arracher le papier. Pendant des années, personne ne sait quoi en faire, malgré les présentations de Silver à ses collègues.\n\nL'idée vient d'un autre ingénieur de 3M, **Art Fry**, qui chante dans une chorale : ses marque-pages tombent sans cesse de son recueil de cantiques. Une bande de cette colle les ferait tenir sans abîmer les pages. La direction hésite d'abord, craignant un produit jugé inutile, puis se laisse convaincre par l'engouement des salariés pour les échantillons."
+    },
+    {
+      "type": "figure",
+      "value": "12 ans",
+      "label": "entre la colle « ratée » (1968) et le Post-it (1980)",
+      "body": "Le Post-it n'est pas né en un jour : après l'idée d'Art Fry, il a fallu encore environ cinq ans pour mettre au point le produit et concevoir les machines pour le fabriquer. Lancé dans tous les États-Unis en 1980, il est devenu en deux ans un incontournable des bureaux."
+    },
+    {
+      "type": "text",
+      "title": "Goodyear et le poêle",
+      "body": "Le caoutchouc naturel devient collant à la chaleur et cassant au froid. L'Américain **Charles Goodyear** s'acharne pendant des années à le stabiliser. En **1839**, à Woburn (Massachusetts), un échantillon de caoutchouc mêlé de soufre entre par mégarde en contact avec un poêle brûlant : au lieu de fondre, il se transforme. C'est le principe de la **vulcanisation**, brevetée aux États-Unis en **1844**.\n\nMais Goodyear lui-même refusait qu'on parle d'accident. Dans son livre *Gum-Elastic* (1853), il écrit qu'il n'admet pas que sa découverte soit le fruit de « ce qu'on appelle communément le hasard », mais **« de l'application et de l'observation les plus soutenues »**. Criblé de dettes, il a connu plusieurs fois la prison."
+    },
+    {
+      "type": "text",
+      "title": "Velcro : copier la nature",
+      "body": "En **1941**, l'ingénieur suisse **Georges de Mestral** revient d'une partie de chasse avec son chien, couvert, comme ses vêtements, de fruits de **bardane** accrochés. Intrigué, il les observe au microscope : des milliers de minuscules crochets qui s'agrippent aux boucles du tissu et des poils.\n\nCe n'est pas vraiment un accident, mais une observation attentive, ancêtre de ce qu'on appelle aujourd'hui le **biomimétisme**. Et le plus dur reste à faire : reproduire les crochets en série. Il y faudra près de vingt ans, l'aide d'un partenaire lyonnais et le nylon. Brevetée au milieu des années 1950, l'invention prend le nom de Velcro, contraction de « velours » et « crochet »."
+    },
+    {
+      "type": "text",
+      "title": "Démêler mythe et réalité",
+      "body": "Ces récits ont des points communs. D'abord, l'« accident » survient presque toujours chez quelqu'un qui **cherchait déjà** dans le domaine : un bactériologiste, un ingénieur radar, un chimiste des adhésifs.\n\nEnsuite, l'histoire est souvent **simplifiée** après coup : un héros unique, un instant magique. On oublie l'équipe d'Oxford, les années de mise au point du Post-it ou du Velcro, et certaines anecdotes, comme la barre chocolatée, ne sont pas documentées.\n\nEnfin, le hasard ne produit rien sans **transformation** : il faut purifier, industrialiser, convaincre. Le vrai talent consiste moins à tomber sur une surprise qu'à comprendre ce qu'elle a d'intéressant."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "En 1896, le physicien **Henri Becquerel** cherche un lien entre la phosphorescence et les rayons X, découverts fin 1895 par l'Allemand Wilhelm Röntgen. Il expose au soleil des sels d'uranium posés sur une plaque photographique emballée. Le 26 février, le ciel parisien se couvre : il range le tout dans un tiroir.\n\nLe **1er mars 1896**, il développe malgré tout la plaque : elle est impressionnée. L'uranium émet donc un rayonnement **sans avoir besoin de lumière**. Son hypothèse de départ était fausse, mais son geste de vérification a ouvert la voie à la radioactivité. Il partage le prix Nobel de physique 1903 avec Pierre et Marie Curie."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "La sérendipité, mot forgé par Horace Walpole en 1754, désigne une découverte faite par hasard et par sagacité : l'observation compte autant que la chance.",
+        "Derrière chaque « accident » célèbre (pénicilline, micro-ondes, Post-it, vulcanisation) se cachent des chercheurs déjà au travail et souvent des années de mise au point.",
+        "Les récits populaires simplifient : ils oublient des équipes entières, comme celle d'Oxford pour la pénicilline, et colportent parfois des anecdotes invérifiables."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Qui a transformé la pénicilline découverte par Fleming en médicament utilisable, entre 1938 et 1941 ?",
+      "choices": ["Louis Pasteur et Émile Roux", "Alexander Fleming seul", "Une équipe d'Oxford menée par Howard Florey, avec Ernst Chain et Norman Heatley", "Le laboratoire de Raytheon"],
+      "answer": 2,
+      "explain": "Fleming n'avait pas réussi à purifier la substance ; l'équipe de Florey à Oxford l'a extraite, produite et testée sur l'humain en 1941. Florey et Chain ont partagé le Nobel 1945 avec Fleming."
+    },
+    {
+      "q": "Comment Charles Goodyear qualifiait-il lui-même sa découverte de la vulcanisation du caoutchouc ?",
+      "choices": ["Comme le fruit de l'application et de l'observation, et non d'un simple hasard", "Comme un pur accident dû à la chance", "Comme une idée volée à un concurrent anglais", "Comme une révélation reçue en rêve"],
+      "answer": 0,
+      "explain": "Dans « Gum-Elastic » (1853), Goodyear refuse qu'on parle d'accident et revendique « l'application et l'observation les plus soutenues », même si l'épisode du poêle a joué un rôle."
+    },
+    {
+      "q": "Qu'est-ce qui a inspiré à Georges de Mestral l'invention du Velcro ?",
+      "choices": ["Une colle ratée dans un laboratoire de chimie", "Un magnétron de radar", "Une moisissure dans une boîte de culture", "Les fruits de bardane accrochés aux poils de son chien"],
+      "answer": 3,
+      "explain": "En 1941, il observe au microscope les minuscules crochets des fruits de bardane : c'est une imitation de la nature plus qu'un accident, et il faudra près de vingt ans pour industrialiser l'idée."
+    },
+    {
+      "q": "Qui a inventé le mot « sérendipité » (serendipity), et quand ?",
+      "choices": ["Louis Pasteur, en 1854", "Horace Walpole, dans une lettre de 1754", "Alexander Fleming, en 1928", "Voltaire, dans Candide"],
+      "answer": 1,
+      "explain": "Horace Walpole forge le mot le 28 janvier 1754 dans une lettre à Horace Mann, en s'inspirant du conte des Trois Princes de Serendip."
+    }
+  ],
+  "sources": [
+    { "label": "Oxfordshire Blue Plaques — Penicillin: development 1938-1941 (Sir William Dunn School of Pathology)", "url": "https://www.oxonblueplaques.org.uk/plaques/penicillin_dunn.html" },
+    { "label": "Encyclopædia Universalis — Antoine Henri Becquerel (1852-1908)", "url": "https://www.universalis.fr/encyclopedie/antoine-henri-becquerel/" },
+    { "label": "Lemelson-MIT — Percy Spencer", "url": "https://lemelson.mit.edu/resources/percy-spencer" },
+    { "label": "Lemelson-MIT — Art Fry & Spencer Silver", "url": "https://lemelson.mit.edu/resources/art-fry-spencer-silver" },
+    { "label": "Internet Archive — Charles Goodyear, Gum-Elastic and its Varieties (1853), texte intégral", "url": "https://archive.org/stream/gumelasticitsva121853good/gumelasticitsva121853good_djvu.txt" },
+    { "label": "Velcro — histoire de l'invention de George de Mestral", "url": "https://www.velcro.com/?p=7429" }
+  ],
+  "further": [
+    { "kind": "site", "label": "JSTOR Daily — What Is Serendipity? (l'invention du mot par Horace Walpole)", "url": "https://daily.jstor.org/what-is-serendipity/" },
+    { "kind": "site", "label": "PBS NewsHour — The real story behind the world's first antibiotic", "url": "https://www.pbs.org/newshour/health/the-real-story-behind-the-worlds-first-antibiotic" }
+  ]
+}

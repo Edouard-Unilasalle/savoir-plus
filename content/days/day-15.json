@@ -1,0 +1,117 @@
+{
+  "day": 15,
+  "domain": "Psychologie",
+  "title": "Les biais cognitifs : comment le cerveau nous trompe",
+  "subtitle": "Raccourcis mentaux, erreurs prévisibles… et ce que la science sait vraiment",
+  "emoji": "🧠",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Une roue de loterie dans la tête",
+      "body": "Faites tourner une roue truquée qui s'arrête sur 10 ou sur 65, puis demandez à des étudiants quel pourcentage des pays de l'ONU sont africains. Ceux qui ont vu 65 donnent des réponses bien plus élevées que ceux qui ont vu 10. Un nombre sans aucun rapport a orienté leur jugement. Bienvenue dans le monde des biais cognitifs."
+    },
+    {
+      "type": "text",
+      "title": "Deux psychologues, une révolution",
+      "body": "Dans les années 1970, deux psychologues israéliens, **Daniel Kahneman** et **Amos Tversky**, s'attaquent à une idée reçue : celle d'un humain qui jugerait de façon rationnelle. Leur article de **1974** dans la revue *Science*, « Jugement en situation d'incertitude : heuristiques et biais », décrit des **heuristiques**, c'est-à-dire des raccourcis mentaux.\n\nCes raccourcis sont efficaces la plupart du temps, mais ils produisent des **erreurs systématiques et prévisibles** : ce sont les biais. Leurs travaux ont fondé l'économie comportementale. Kahneman a reçu le prix Nobel d'économie en 2002 ; Tversky, mort en 1996, n'a pas pu être récompensé. Kahneman est décédé le 27 mars 2024."
+    },
+    {
+      "type": "text",
+      "title": "Système 1, système 2",
+      "body": "Dans *Thinking, Fast and Slow* (2011), traduit en français sous le titre *Système 1 / Système 2 : les deux vitesses de la pensée* (Flammarion, 2012), Kahneman popularise une distinction empruntée à d'autres psychologues.\n\nLe **système 1** est rapide, automatique, intuitif : il reconnaît un visage en colère ou complète « 2 + 2 = ? » sans effort. Le **système 2** est lent, coûteux, délibéré : il calcule 17 × 24 ou vérifie un raisonnement.\n\nLe système 2 est paresseux et valide souvent les impressions du système 1 sans les contrôler. Attention : ce sont des **métaphores** commodes pour décrire deux modes de pensée, pas deux zones du cerveau."
+    },
+    {
+      "type": "text",
+      "title": "Le biais de confirmation",
+      "body": "En 1960, le psychologue britannique **Peter Wason** propose une énigme : la suite « 2, 4, 6 » obéit à une règle secrète, à vous de la trouver en proposant d'autres suites. La plupart des participants imaginent une règle précise (« nombres pairs croissants de 2 en 2 ») et ne testent que des suites qui la **confirment**, comme 10, 12, 14.\n\nLa vraie règle était simplement « trois nombres croissants ». Pour la découvrir, il fallait proposer des suites susceptibles de **réfuter** son hypothèse. C'est le biais de confirmation : nous cherchons, retenons et interprétons de préférence les informations qui confortent ce que nous pensons déjà."
+    },
+    {
+      "type": "figure",
+      "value": "25 % / 45 %",
+      "label": "Estimations médianes après avoir vu 10 ou 65",
+      "body": "C'est l'expérience d'ancrage décrite par Tversky et Kahneman en 1974. Les participants qui avaient vu 10 estimaient en médiane à 25 % la part de pays africains à l'ONU, ceux qui avaient vu 65 l'estimaient à 45 %. Un premier nombre, même arbitraire, sert d'« ancre » dont on s'écarte trop peu : prix affichés, premières offres en négociation…"
+    },
+    {
+      "type": "figure",
+      "value": "≈ 2",
+      "label": "Une perte pèse environ deux fois plus qu'un gain équivalent",
+      "body": "C'est l'aversion à la perte, au cœur de la « théorie des perspectives » (Kahneman et Tversky, 1979). Une méta-analyse publiée en 2024 dans le Journal of Economic Literature, portant sur 607 estimations, trouve un coefficient moyen de 1,96. Perdre 100 euros fait donc à peu près aussi mal que gagner 200 euros fait plaisir."
+    },
+    {
+      "type": "text",
+      "title": "L'effet de disponibilité",
+      "body": "Un mot anglais pris au hasard a-t-il plus de chances de **commencer** par la lettre K ou d'avoir K en **troisième** position ? La plupart des gens choisissent la première réponse, car des mots comme *kitchen* ou *kangaroo* viennent plus facilement à l'esprit. Pourtant, dans un texte courant, les mots avec K en troisième lettre sont environ deux fois plus nombreux.\n\nC'est l'**heuristique de disponibilité** (Tversky et Kahneman, 1973) : nous jugeons la fréquence d'un événement à la facilité avec laquelle des exemples nous reviennent. D'où notre tendance à surestimer les risques spectaculaires et très médiatisés, et à sous-estimer les risques banals."
+    },
+    {
+      "type": "text",
+      "title": "L'effet Dunning-Kruger",
+      "body": "En 1999, Justin Kruger et David Dunning publient « Unskilled and unaware of it » (incompétents et inconscients de l'être). Ils testent des étudiants en humour, en grammaire et en logique, puis leur demandent d'évaluer leur performance.\n\nRésultat : les participants du **quart le plus faible**, situés en moyenne vers le **12e centile**, s'estimaient vers le **62e**. Les auteurs l'expliquent par un « double fardeau » : manquer de compétence empêcherait aussi de reconnaître ses erreurs. L'expression est devenue virale… souvent au prix de beaucoup de contresens."
+    },
+    {
+      "type": "text",
+      "title": "Dunning-Kruger, l'effet mal compris",
+      "body": "Le graphique qui circule partout, avec une « montagne de la stupidité » où les débutants seraient plus confiants que les experts, **ne vient pas de l'article de 1999**. Dans les données originales, l'auto-évaluation augmente avec le niveau réel ; simplement, les plus faibles se surestiment et les meilleurs se sous-estiment légèrement.\n\nSurtout, plusieurs travaux récents estiment que ce motif est en grande partie un **artefact statistique** (régression vers la moyenne, scores bornés). Une étude préenregistrée de 2022 (*Royal Society Open Science*) conclut ainsi que l'effet classique « ne dit pas grand-chose » de la métacognition. Que l'on se surestime souvent reste vrai ; l'explication, elle, est débattue."
+    },
+    {
+      "type": "text",
+      "title": "La crise de réplication",
+      "body": "En 2015, un vaste collectif de chercheurs, l'**Open Science Collaboration**, refont 100 études publiées dans trois grandes revues de psychologie. 97 % des études originales avaient un résultat significatif ; seules **36 %** des répétitions en obtiennent un, avec des effets en moyenne deux fois plus faibles.\n\nDes effets célèbres vacillent. L'**épuisement de l'ego** (la volonté serait une réserve qui s'épuise) : en 2016, une réplication menée dans 23 laboratoires sur 2 141 participants trouve un effet quasi nul. L'**amorçage** comportemental : en 2012, l'équipe de Stéphane Doyen ne retrouve pas l'idée que lire des mots liés à la vieillesse fait marcher plus lentement, sauf quand l'expérimentateur s'y attend. L'aversion à la perte, elle, reste solidement établie."
+    },
+    {
+      "type": "text",
+      "title": "Comment s'en protéger ?",
+      "body": "Connaître les biais ne suffit pas à les éviter, car le système 1 fonctionne malgré nous. Mieux vaut des **méthodes** :\n\n- **Chercher à se réfuter** : se demander quelle information prouverait qu'on a tort (la leçon de Wason).\n- **Fixer sa propre ancre** : faire son estimation avant de voir un prix ou une offre.\n- **Penser en fréquences** : regarder les statistiques plutôt que les exemples marquants.\n- **Le « pre-mortem »** du psychologue Gary Klein (2007) : imaginer que le projet a échoué et lister pourquoi.\n- **Ralentir** pour les décisions importantes, et demander l'avis de personnes qui pensent autrement."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "Les biais cognitifs sont entrés dans le débat public français, notamment à propos de la désinformation. En 2021, le président de la République a confié au sociologue **Gérald Bronner**, spécialiste des croyances collectives, la présidence d'une commission sur les théories du complot, la haine en ligne et la désinformation. Bronner analyse dans *La Démocratie des crédules* (2013) comment nos biais, comme celui de confirmation, nourrissent la diffusion des fausses informations.\n\nSes thèses, notamment dans *Apocalypse cognitive* (2021), sont aussi discutées par d'autres chercheurs : un rappel que la psychologie des biais reste un champ vivant et débattu."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Kahneman et Tversky ont montré que nos raccourcis mentaux (ancrage, disponibilité, aversion à la perte) produisent des erreurs systématiques et prévisibles.",
+        "Certains effets célèbres sont fragiles : l'épuisement de l'ego et l'amorçage comportemental ont mal résisté aux réplications, et l'effet Dunning-Kruger est souvent mal représenté.",
+        "Pour limiter les biais, mieux vaut des méthodes (chercher à se réfuter, fixer sa propre estimation, pre-mortem) que la simple bonne volonté."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dans l'expérience de la roue de Tversky et Kahneman (1974), que montre l'effet d'ancrage ?",
+      "choices": ["Que les étudiants connaissaient mal la géographie africaine", "Qu'un nombre arbitraire vu juste avant influence nettement une estimation", "Que les gens refusent de répondre quand ils ne savent pas", "Que les estimations sont plus justes en groupe"],
+      "answer": 1,
+      "explain": "Les participants ayant vu 65 sur la roue estimaient en médiane à 45 % la part de pays africains à l'ONU, contre 25 % pour ceux ayant vu 10 : un chiffre sans rapport a servi d'ancre."
+    },
+    {
+      "q": "Selon Daniel Kahneman, comment fonctionne le « système 1 » de la pensée ?",
+      "choices": ["De façon rapide, automatique et intuitive", "De façon lente, délibérée et coûteuse en effort", "Uniquement pendant le sommeil", "Seulement pour les calculs mathématiques"],
+      "answer": 0,
+      "explain": "Le système 1 produit des impressions immédiates sans effort ; le système 2, lent et délibéré, intervient pour les raisonnements et vérifications, mais il est souvent paresseux."
+    },
+    {
+      "q": "Lors du grand projet de réplication en psychologie de 2015 (Open Science Collaboration), quelle part des 100 études a donné à nouveau un résultat significatif ?",
+      "choices": ["Environ 97 %", "Environ 75 %", "Environ 5 %", "Environ 36 %"],
+      "answer": 3,
+      "explain": "97 % des études originales étaient significatives, mais seulement 36 % des répétitions, avec des effets en moyenne deux fois plus faibles : c'est l'un des déclencheurs de la « crise de réplication »."
+    },
+    {
+      "q": "Quelle critique adresse-t-on aujourd'hui à l'effet Dunning-Kruger tel qu'on le présente souvent ?",
+      "choices": ["Il n'a jamais été publié dans une revue scientifique", "Il prouverait que les experts sont toujours trop confiants", "Le graphique viral ne vient pas de l'étude de 1999 et le motif pourrait être en grande partie un artefact statistique", "Il ne concerne que les enfants"],
+      "answer": 2,
+      "explain": "Dans l'étude de 1999, l'auto-évaluation croît avec le niveau réel ; plusieurs travaux récents attribuent l'essentiel de l'effet à la régression vers la moyenne et aux scores bornés."
+    }
+  ],
+  "sources": [
+    { "label": "Science — Tversky & Kahneman, Judgment under Uncertainty: Heuristics and Biases (1974)", "url": "https://doi.org/10.1126/science.185.4157.1124" },
+    { "label": "Science — Open Science Collaboration, Estimating the reproducibility of psychological science (2015)", "url": "https://doi.org/10.1126/science.aac4716" },
+    { "label": "Perspectives on Psychological Science — Hagger et al., A Multilab Preregistered Replication of the Ego-Depletion Effect (2016)", "url": "https://doi.org/10.1177/1745691616652873" },
+    { "label": "PLOS ONE — Doyen et al., Behavioral Priming: It's All in the Mind, but Whose Mind? (2012)", "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029081" },
+    { "label": "Journal of Economic Literature — Brown et al., Meta-analysis of Empirical Estimates of Loss Aversion (2024)", "url": "https://www.aeaweb.org/articles?id=10.1257/jel.20221698" },
+    { "label": "Royal Society Open Science — McIntosh et al., Skill and self-knowledge: empirical refutation of the dual-burden account of the Dunning-Kruger effect (2022)", "url": "https://doi.org/10.1098/rsos.191727" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Système 1 / Système 2 : les deux vitesses de la pensée — Daniel Kahneman (Flammarion, 2012)" },
+    { "kind": "site", "label": "Harvard Business Review — Gary Klein, Performing a Project Premortem (2007)", "url": "https://hbr.org/2007/09/performing-a-project-premortem" }
+  ]
+}

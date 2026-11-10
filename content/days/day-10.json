@@ -1,0 +1,134 @@
+{
+  "day": 10,
+  "domain": "Livres",
+  "title": "Les Misérables : le roman-monde de Victor Hugo",
+  "subtitle": "Un forçat, un policier, une mère, une enfant et un gamin de Paris : l'épopée de la misère au XIXe siècle",
+  "emoji": "📚",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Dix-neuf ans pour un pain",
+      "body": "Un hiver sans travail, sept enfants à nourrir, une vitre brisée chez un boulanger. Pour ce pain volé, Jean Valjean passe dix-neuf ans au bagne. De ce fait divers inventé, Victor Hugo a tiré l'un des romans les plus lus au monde, et un réquisitoire contre la misère."
+    },
+    {
+      "type": "text",
+      "title": "Un roman écrit en deux fois",
+      "body": "Hugo commence à écrire en **novembre 1845**, à Paris, sous le titre « Jean Tréjean », puis « Les Misères ». Il est alors pair de France, écrivain célèbre. La révolution de février 1848 l'arrête net : il range le manuscrit et se lance dans la politique.\n\nIl ne le reprend que le 25 avril 1860, en exil sur l'île anglo-normande de Guernesey. Douze ans et un coup d'État plus tard, il remanie et complète son texte. Selon les spécialistes, les pages écrites en 1845-1848 représentent environ les trois cinquièmes du roman final."
+    },
+    {
+      "type": "text",
+      "title": "De la tribune à l'exil",
+      "body": "Élu député de Paris en 1848, Hugo siège d'abord à droite, puis évolue vers les républicains démocrates à partir de 1849. Le 9 juillet 1849, à l'Assemblée législative, il soutient une proposition sur l'assistance publique par un discours resté célèbre sur la misère.\n\nQuand Louis-Napoléon Bonaparte prend le pouvoir par le **coup d'État du 2 décembre 1851**, Hugo tente de résister, puis doit fuir : Belgique, Jersey, enfin Guernesey, où il achète Hauteville House. Il ne rentrera en France qu'en septembre 1870, après la chute du Second Empire."
+    },
+    {
+      "type": "quote",
+      "quote": "Je ne suis pas, messieurs, de ceux qui croient qu'on peut supprimer la souffrance en ce monde, la souffrance est une loi divine, mais je suis de ceux qui pensent et qui affirment qu'on peut détruire la misère.",
+      "author": "Victor Hugo, discours à l'Assemblée nationale législative, 9 juillet 1849",
+      "body": "La phrase déclenche « réclamations » et « violentes dénégations à droite ». La notice biographique de l'Assemblée nationale juge l'intervention « assez ambiguë » ; elle annonce pourtant le grand projet des Misérables."
+    },
+    {
+      "type": "figure",
+      "value": "19 ans",
+      "label": "de bagne pour Jean Valjean, pour un pain volé",
+      "body": "Le roman détaille le calcul : cinq ans pour « vol avec effraction la nuit dans une maison habitée » (en 1795), puis quatorze ans ajoutés pour quatre tentatives d'évasion. Libéré en octobre 1815, Valjean porte un passeport jaune qui le désigne comme « très dangereux » et le fait chasser de partout."
+    },
+    {
+      "type": "text",
+      "title": "Une galerie de personnages",
+      "body": "Recueilli par **Mgr Myriel**, évêque de Digne, qui le protège même après que Valjean l'a volé, l'ancien forçat décide de devenir honnête. Sous le nom de M. Madeleine, il devient industriel et maire.\n\nFace à lui, **Javert**, policier inflexible pour qui la loi ne pardonne jamais. Fantine, ouvrière abandonnée, confie sa fille Cosette aux Thénardier, aubergistes cupides de Montfermeil, puis sombre dans la misère. Valjean arrache Cosette à ses tortionnaires et l'élève. Autour d'eux : Marius, jeune étudiant amoureux de Cosette, et Gavroche, gamin des rues parisiennes, fils des Thénardier."
+    },
+    {
+      "type": "text",
+      "title": "Un roman d'histoire",
+      "body": "L'action s'étend de 1815 au début des années 1830 : la Restauration, puis la monarchie de Juillet. Hugo multiplie les digressions historiques, dont un long récit de la bataille de Waterloo.\n\nLe sommet du roman est une insurrection bien réelle : les **5 et 6 juin 1832**, les funérailles du général Lamarque, figure républicaine, tournent à l'émeute contre le régime de Louis-Philippe. Les derniers insurgés tiennent près du cloître Saint-Merri. L'émeute fait environ 800 tués ou blessés à Paris. Hugo s'en inspire pour la barricade où meurt Gavroche."
+    },
+    {
+      "type": "text",
+      "title": "Justice, misère, rédemption",
+      "body": "Le roman pose une question : la loi suffit-elle à faire la justice ? Javert applique la loi à la lettre ; Valjean, transformé par le pardon de l'évêque, choisit sa conscience. Ébranlé par la générosité de son ennemi, Javert finit par se jeter dans la Seine.\n\nLa misère, elle, est décrite comme une mécanique sociale qui broie. Fantine perd son emploi, vend ses cheveux, puis ses deux dents de devant, et finit par se prostituer pour payer la pension de sa fille. Pour Hugo, la société fabrique les « misérables » qu'elle punit ensuite."
+    },
+    {
+      "type": "figure",
+      "value": "3 avril 1862",
+      "label": "les deux premiers tomes arrivent en librairie",
+      "body": "L'éditeur bruxellois Lacroix, Verboeckhoven et Cie publie le roman, diffusé à Paris par Pagnerre. Il faut trois mois, d'avril à juin 1862, pour faire paraître les dix volumes. Le succès est immédiat, alors même que l'auteur est un proscrit, opposant déclaré de Napoléon III."
+    },
+    {
+      "type": "quote",
+      "quote": "Tant qu'il y aura sur la terre ignorance et misère, des livres de la nature de celui-ci pourront ne pas être inutiles.",
+      "author": "Victor Hugo, préface des Misérables, Hauteville-House, 1862",
+      "body": "Fin de l'unique phrase de la préface. Hugo y nomme « les trois problèmes du siècle » : la dégradation de l'homme par le prolétariat, la déchéance de la femme par la faim, l'atrophie de l'enfant par la nuit."
+    },
+    {
+      "type": "france",
+      "title": "Et ailleurs ?",
+      "body": "Les Misérables ont fait le tour du monde, en traduction puis à l'écran. Leur plus grand succès moderne est français d'origine : une comédie musicale d'Alain Boublil et Claude-Michel Schönberg, créée en 1980 au Palais des Sports de Paris, mise en scène par Robert Hossein. Adaptée en anglais, elle triomphe à Londres à partir de 1985. Selon la Ville de Paris, elle a été vue par environ 130 millions de spectateurs, en 27 langues."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Commencé en 1845, interrompu par la révolution de 1848, Les Misérables est achevé en exil à Guernesey et publié en 1862.",
+        "Autour de Jean Valjean, Javert, Fantine, Cosette et Gavroche, Hugo oppose la loi à la conscience et fait de la misère une injustice sociale, et non une fatalité.",
+        "Le roman mêle fiction et histoire, de Waterloo à l'insurrection républicaine de juin 1832, et prolonge le combat politique d'Hugo, député devenu proscrit."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dans Les Misérables de Victor Hugo, pourquoi Jean Valjean a-t-il été envoyé au bagne ?",
+      "choices": [
+        "Pour avoir tué un gendarme",
+        "Pour avoir participé à l'insurrection de 1832",
+        "Pour avoir volé un pain, peine alourdie ensuite par ses tentatives d'évasion",
+        "Pour avoir volé l'argenterie de l'évêque"
+      ],
+      "answer": 2,
+      "explain": "Valjean est condamné à cinq ans pour avoir volé un pain avec effraction ; ses quatre tentatives d'évasion portent sa peine à dix-neuf ans. Le vol de l'argenterie de l'évêque vient après sa libération."
+    },
+    {
+      "q": "Où Victor Hugo a-t-il achevé Les Misérables ?",
+      "choices": [
+        "En exil à Guernesey",
+        "Dans son appartement de la place des Vosges",
+        "En prison après le coup d'État",
+        "À Bruxelles, chez son éditeur"
+      ],
+      "answer": 0,
+      "explain": "Exilé après le coup d'État du 2 décembre 1851, Hugo reprend son manuscrit en 1860 à Guernesey, où il vit à Hauteville House, et l'achève avant la publication de 1862."
+    },
+    {
+      "q": "Quel événement historique sert de toile de fond à la barricade des Misérables ?",
+      "choices": [
+        "La prise de la Bastille en 1789",
+        "La Commune de Paris en 1871",
+        "La révolution de février 1848",
+        "L'insurrection républicaine des 5 et 6 juin 1832"
+      ],
+      "answer": 3,
+      "explain": "Les funérailles du général Lamarque, en juin 1832, tournent à l'émeute contre la monarchie de Juillet ; Hugo y situe la barricade où meurt Gavroche."
+    },
+    {
+      "q": "Que soutenait Victor Hugo dans son discours du 9 juillet 1849 à l'Assemblée ?",
+      "choices": [
+        "Qu'il fallait rétablir l'Empire",
+        "Qu'on pouvait détruire la misère, à défaut de supprimer la souffrance",
+        "Que la misère était une loi divine",
+        "Qu'il fallait abolir la propriété privée"
+      ],
+      "answer": 1,
+      "explain": "Hugo distingue la souffrance, « loi divine », de la misère, qu'il affirme possible de « détruire » : une idée au cœur des Misérables."
+    }
+  ],
+  "sources": [
+    { "label": "Wikisource — Victor Hugo, Les Misérables, préface (texte de l'édition de 1890)", "url": "https://fr.wikisource.org/wiki/Page:Hugo_-_Les_Mis%C3%A9rables_Tome_I_(1890).djvu/4" },
+    { "label": "Wikisource — Victor Hugo, Discours à l'Assemblée législative 1849-1851 : La misère", "url": "https://fr.wikisource.org/wiki/Discours_%C3%A0_l%E2%80%99Assembl%C3%A9e_l%C3%A9gislative_1849-1851_LA_MIS%C3%88RE" },
+    { "label": "Assemblée nationale — Base Sycomore : Victor Hugo", "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/%28num_dept%29/8795" },
+    { "label": "Acta fabula (Pierre Laforgue) — compte rendu de l'édition Pléiade des Misérables (2018)", "url": "https://www.fabula.org/revue/document11141.php" },
+    { "label": "Encyclopædia Universalis — Rue du Cloître-Saint-Merri (juin 1832)", "url": "https://www.universalis.fr/encyclopedie/rue-du-cloitre-saint-merri/" },
+    { "label": "Ville de Paris — Les Misérables, la comédie musicale", "url": "https://www.paris.fr/evenements/les-miserables-59942" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Les Misérables — Victor Hugo (1862), éditions de poche Folio classique ou Le Livre de Poche" },
+    { "kind": "site", "label": "Maisons de Victor Hugo (Paris et Guernesey) — Paris Musées", "url": "https://www.maisonsvictorhugo.paris.fr" }
+  ]
+}

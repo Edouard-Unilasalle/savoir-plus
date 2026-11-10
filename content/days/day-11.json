@@ -1,0 +1,118 @@
+{
+  "day": 11,
+  "domain": "Géopolitique",
+  "title": "Les détroits, goulets d'étranglement du monde",
+  "subtitle": "Ormuz, Malacca, Suez, Panama… ces passages étroits par où transite l'économie mondiale",
+  "emoji": "🌍",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Un monde suspendu à quelques couloirs d'eau",
+      "body": "Au premier semestre 2025, environ les trois quarts du pétrole consommé dans le monde voyageaient par la mer. Et une grande partie de ces navires doit se faufiler dans une poignée de passages étroits. Qu'un seul se bloque, et ce sont les prix à la pompe, les délais de livraison et parfois la diplomatie mondiale qui s'emballent."
+    },
+    {
+      "type": "text",
+      "title": "Qu'est-ce qu'un goulet ?",
+      "body": "Les spécialistes parlent de **« chokepoints »** (points d'étranglement) : des détroits ou des canaux qu'une large part du commerce maritime ne peut pas éviter sans faire un immense détour.\n\nL'Agence américaine d'information sur l'énergie (EIA) en suit huit pour le pétrole : Ormuz, Malacca, Bab-el-Mandeb, le canal de Suez, les détroits danois, les détroits turcs, le canal de Panama et la route du cap de Bonne-Espérance. Selon elle, au premier semestre 2025, **79,8 millions de barils par jour** circulaient par la mer, sur 104,4 millions consommés. Un incident dans l'un de ces passages se répercute donc immédiatement sur le prix du baril et le coût du fret."
+    },
+    {
+      "type": "figure",
+      "value": "20 %",
+      "label": "de la consommation mondiale de pétrole passait par Ormuz (2024)",
+      "body": "Entre l'Iran et le sultanat d'Oman, le détroit d'Ormuz a vu passer en moyenne environ 20 millions de barils par jour en 2024, selon l'EIA, ainsi qu'environ un cinquième du commerce mondial de gaz naturel liquéfié (surtout qatari). 84 % du pétrole brut qui le traversait partait vers l'Asie, Chine et Inde en tête."
+    },
+    {
+      "type": "text",
+      "title": "Ormuz, la menace devenue réalité",
+      "body": "Pendant des décennies, la fermeture d'Ormuz était un scénario de crise. En 2026, elle est devenue réalité : après le déclenchement du conflit avec l'Iran le 28 février 2026 et des frappes américaines sur le territoire iranien, le trafic dans le détroit a chuté d'environ **90 %**, selon le Centre d'études stratégiques de la Marine (avril 2026). Le prix du baril a aussitôt bondi.\n\nLes alternatives sont limitées : l'Arabie saoudite et les Émirats disposent d'oléoducs qui contournent le détroit, mais l'EIA estimait en 2025 à seulement **2,6 millions de barils par jour** la capacité réellement disponible, soit une fraction des volumes habituels."
+    },
+    {
+      "type": "figure",
+      "value": "29 %",
+      "label": "des flux maritimes de pétrole passent par Malacca",
+      "body": "Entre la péninsule malaise et l'île indonésienne de Sumatra, le détroit de Malacca est le premier point de passage pétrolier du monde en volume : 22,5 millions de barils par jour en 2024 selon l'EIA. C'est la route la plus courte entre l'océan Indien et le Pacifique, donc vers la Chine, le Japon et la Corée du Sud."
+    },
+    {
+      "type": "text",
+      "title": "Bab-el-Mandeb et la mer Rouge",
+      "body": "Entre le Yémen et Djibouti, le détroit de Bab-el-Mandeb ouvre la mer Rouge, et donc la route vers le canal de Suez. Depuis **novembre 2023**, les rebelles houthistes du Yémen y attaquent des navires marchands.\n\nL'effet a été spectaculaire : selon l'EIA, les flux pétroliers par Bab-el-Mandeb sont passés de 9,3 millions de barils par jour en 2023 à 4,1 millions en 2024, tandis que la route du cap de Bonne-Espérance passait de 6,2 à 9,3 millions. Dès janvier 2024, la CNUCED notait une chute de 42 % des volumes transitant par Suez en deux mois. Contourner l'Afrique, c'est plus de carburant, plus d'émissions et des primes d'assurance en hausse."
+    },
+    {
+      "type": "text",
+      "title": "Suez, de Lesseps à Nasser",
+      "body": "Percé sous la direction du Français **Ferdinand de Lesseps**, le canal de Suez est inauguré le **17 novembre 1869** en présence de l'impératrice Eugénie. Il relie la Méditerranée à la mer Rouge et évite le tour de l'Afrique.\n\nLe **26 juillet 1956**, le président égyptien Gamal Abdel Nasser nationalise la Compagnie du canal. Le Royaume-Uni, la France et Israël interviennent militairement à l'automne, avant de devoir se retirer sous la pression internationale. Le canal sera ensuite fermé huit ans, de la guerre des Six Jours (1967) à 1975. Selon la CNUCED, il voyait passer 12 à 15 % du commerce mondial en 2023."
+    },
+    {
+      "type": "text",
+      "title": "Panama, un canal qui a soif",
+      "body": "Inauguré le **15 août 1914**, le canal de Panama franchit l'isthme grâce à des écluses alimentées en eau douce par le lac artificiel de Gatún. Chaque passage de navire déverse environ 197 000 m³ d'eau douce dans l'océan (les écluses ouvertes en 2016 en réutilisent une partie).\n\nD'où sa fragilité face au climat : en **2023**, une sécheresse sévère a fait baisser le niveau du lac. L'autorité du canal a limité le tirant d'eau et le nombre de passages quotidiens, jusqu'à 18 par jour au plus fort de la crise, et des files d'attente de plus de 160 navires se sont formées. La CNUCED relevait début 2024 une baisse de 36 % des transits sur un an."
+    },
+    {
+      "type": "text",
+      "title": "Le Bosphore et Montreux",
+      "body": "Les détroits turcs (Bosphore et Dardanelles) sont la seule sortie maritime de la mer Noire. Leur régime est fixé par la **convention de Montreux, signée le 20 juillet 1936**.\n\nElle garantit en temps de paix le libre passage des navires de commerce, mais encadre strictement les navires de guerre : préavis, nombre et tonnage limités, et des règles plus restrictives pour les pays non riverains de la mer Noire. En temps de guerre, la Turquie peut fermer les détroits aux bâtiments militaires des belligérants. C'est ce qu'elle a annoncé fin février 2022, après l'invasion de l'Ukraine par la Russie, avec une exception pour les navires regagnant leur port d'attache."
+    },
+    {
+      "type": "text",
+      "title": "Le droit de la mer",
+      "body": "La **Convention des Nations unies sur le droit de la mer**, signée à Montego Bay (Jamaïque) en 1982 et entrée en vigueur en 1994, a étendu les eaux territoriales à 12 milles marins (environ 22 km). Beaucoup de détroits sont donc entièrement des eaux territoriales.\n\nPour préserver la navigation, elle crée le **passage en transit** : tout navire peut traverser un détroit international de façon continue et rapide, et l'État riverain ne peut pas suspendre ce passage (article 44). Reste un point sensible : l'Iran n'a pas ratifié la convention, pas plus que les États-Unis. Beaucoup de juristes estiment toutefois que ce régime relève aussi du droit coutumier, qui s'impose à tous."
+    },
+    {
+      "type": "figure",
+      "value": "14 km",
+      "label": "séparent l'Europe de l'Afrique à Gibraltar",
+      "body": "À son point le plus étroit, le détroit de Gibraltar, entre l'Espagne et le Maroc, ne mesure qu'environ 14 km de large. C'est l'unique passage naturel entre l'Atlantique et la Méditerranée : tout navire allant du canal de Suez vers l'Europe du Nord ou l'Amérique doit l'emprunter."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "La France a des positions militaires aux portes de deux goulets majeurs. À **Djibouti**, face au détroit de Bab-el-Mandeb, stationne le contingent militaire français le plus nombreux hors de France (environ 1 500 militaires en 2025) ; un traité de coopération de défense de vingt ans a été signé en juillet 2024. À **Abou Dhabi**, sur le golfe Persique, une base française a été inaugurée le 26 mai 2009, à proximité d'Ormuz.\n\nCes implantations servent notamment à protéger la liberté de navigation, dont dépend l'approvisionnement en énergie de la France, qui importe la quasi-totalité de son pétrole."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Une grande partie du pétrole et des marchandises mondiales passe par quelques détroits et canaux, si bien qu'un seul blocage peut faire flamber les prix et les délais.",
+        "Ormuz et Malacca sont les deux premiers goulets pétroliers, tandis que la mer Rouge (depuis fin 2023) et Panama (sécheresse de 2023) ont montré la fragilité des routes.",
+        "Le droit de la mer de 1982 garantit un « passage en transit » que les États riverains ne peuvent pas suspendre, mais son application dépend du rapport de force."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Selon l'EIA, quel détroit a vu passer le plus grand volume de pétrole en 2024 ?",
+      "choices": ["Le détroit d'Ormuz", "Le détroit de Malacca", "Le détroit de Bab-el-Mandeb", "Le détroit de Gibraltar"],
+      "answer": 1,
+      "explain": "Malacca (environ 22,5 millions de barils par jour en 2024) devance légèrement Ormuz : c'est la route la plus courte entre l'océan Indien et les grands importateurs d'Asie de l'Est."
+    },
+    {
+      "q": "Que garantit le « passage en transit » prévu par la Convention de Montego Bay (1982) dans les détroits internationaux ?",
+      "choices": ["Un péage obligatoire au profit de l'État riverain", "Le passage des seuls navires de commerce, jamais des navires de guerre", "Un passage continu et rapide que l'État riverain ne peut pas suspendre", "Le droit pour l'État riverain de fermer le détroit en cas de tension"],
+      "answer": 2,
+      "explain": "Le passage en transit permet à tout navire de traverser un détroit international de façon continue et rapide, et l'article 44 interdit à l'État riverain de le suspendre."
+    },
+    {
+      "q": "Pourquoi le trafic du canal de Panama a-t-il été fortement restreint en 2023 ?",
+      "choices": ["Une sécheresse a fait baisser le lac qui alimente les écluses en eau douce", "Des attaques de rebelles contre les navires", "Une grève générale des pilotes du canal", "La fermeture du canal par les États-Unis"],
+      "answer": 0,
+      "explain": "Les écluses du canal de Panama fonctionnent avec l'eau douce du lac Gatún ; la sécheresse de 2023 a obligé l'autorité du canal à limiter le nombre de passages et le tirant d'eau des navires."
+    },
+    {
+      "q": "Quelle a été la principale conséquence des attaques houthistes en mer Rouge à partir de fin 2023 ?",
+      "choices": ["La fermeture définitive du canal de Suez", "La nationalisation du canal de Suez par l'Égypte", "Le transfert du trafic vers le canal de Panama", "Le détournement de nombreux navires par le cap de Bonne-Espérance"],
+      "answer": 3,
+      "explain": "Pour éviter Bab-el-Mandeb, de nombreux navires ont contourné l'Afrique : selon l'EIA, les flux pétroliers par le cap de Bonne-Espérance sont passés de 6,2 à 9,3 millions de barils par jour entre 2023 et 2024."
+    }
+  ],
+  "sources": [
+    { "label": "EIA — World Oil Transit Chokepoints (mise à jour mars 2026)", "url": "https://www.eia.gov/international/content/analysis/special_topics/World_Oil_Transit_Chokepoints" },
+    { "label": "EIA — Amid regional conflict, the Strait of Hormuz remains critical oil chokepoint (juin 2025)", "url": "https://www.eia.gov/todayinenergy/detail.php?id=65504" },
+    { "label": "CNUCED — Red Sea, Black Sea and Panama Canal: UNCTAD raises alarm on global trade disruptions (janvier 2024)", "url": "https://unctad.org/news/red-sea-black-sea-and-panama-canal-unctad-raises-alarm-global-trade-disruptions" },
+    { "label": "Ministère des Armées (CESM) — Le détroit d'Ormuz, passage stratégique (avril 2026)", "url": "https://www.defense.gouv.fr/cesm/actualites/detroit-dormuz-passage-strategique" },
+    { "label": "IRIS — Le statut juridique du détroit d'Ormuz : territoire international ou territoire partagé ?", "url": "https://www.iris-france.org/43622-le-statut-juridique-du-detroit-dormuz-territoire-international-ou-territoire-partage/" },
+    { "label": "The Conversation — What the Montreux Convention is and what it means for the Ukraine war (mars 2022)", "url": "https://theconversation.com/what-the-montreux-convention-is-and-what-it-means-for-the-ukraine-war-178136" }
+  ],
+  "further": [
+    { "kind": "vidéo", "label": "Le Dessous des cartes — émission de géopolitique d'Arte (nombreux épisodes sur les détroits et routes maritimes)" },
+    { "kind": "site", "label": "Vie-publique.fr — « Le détroit d'Ormuz, verrou stratégique du golfe Persique » (Parole d'expert)", "url": "https://www.vie-publique.fr/parole-dexpert/277081-le-detroit-dormuz-verrou-strategique-du-golfe-persique" }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "day": 18,
+  "domain": "Économie",
+  "title": "La PAC : comment l'Europe finance son agriculture",
+  "subtitle": "Des prix garantis aux éco-régimes, soixante ans d'une politique au cœur de la construction européenne",
+  "emoji": "🇪🇺",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Un euro sur quatre",
+      "body": "Environ un quart du budget de l'Union européenne finance l'agriculture. En 1980, c'était près de 70 %. Née pour garantir l'approvisionnement d'une Europe qui se souvenait des pénuries, la politique agricole commune a ensuite croulé sous ses propres excédents. Comment est-elle devenue à la fois un pilier et une cible de la construction européenne ?"
+    },
+    {
+      "type": "text",
+      "title": "Une promesse du traité de Rome",
+      "body": "Signé en 1957, le traité de Rome crée la Communauté économique européenne au 1er janvier 1958 et pose les bases de la PAC. Son article 39 (aujourd'hui dans le traité sur le fonctionnement de l'UE) lui fixe **cinq objectifs**, inchangés depuis :\n\n- accroître la productivité de l'agriculture ;\n- assurer un niveau de vie équitable aux agriculteurs ;\n- stabiliser les marchés ;\n- garantir la sécurité des approvisionnements ;\n- assurer des prix raisonnables aux consommateurs.\n\nLa PAC entre en vigueur en **1962**, avec des organisations communes de marché par produit (céréales, lait, viande…)."
+    },
+    {
+      "type": "text",
+      "title": "La machine des prix garantis",
+      "body": "Pendant trente ans, la PAC est surtout une politique de **soutien des prix**. Chaque année, les ministres fixent un prix minimum garanti pour les grands produits. Si l'offre dépasse la demande, la Communauté achète les surplus à ce prix, puis les stocke, les exporte à prix réduit grâce à des subventions, voire les détruit.\n\nAux frontières, des **prélèvements variables** relèvent le prix des importations au niveau des prix européens. C'est la « préférence communautaire » : les agriculteurs européens sont protégés des fluctuations des cours mondiaux. Le système est efficace pour produire… peut-être trop."
+    },
+    {
+      "type": "text",
+      "title": "Montagnes de beurre",
+      "body": "Garantir un prix quelle que soit la quantité produite pousse à produire toujours plus. Dans les années 1970-1980, la Communauté devient durablement excédentaire pour plusieurs produits (lait, céréales, vin, viande bovine). Les stocks publics s'accumulent : la presse parle de « montagnes de beurre » et de « lacs de lait ». Leur coût de stockage et d'écoulement pèse lourd sur le budget, et les exportations subventionnées irritent les partenaires commerciaux.\n\nPremière réponse en **1984** : les **quotas laitiers**, qui plafonnent la production de lait de chaque pays et de chaque producteur. Ils resteront en vigueur jusqu'en 2015. Mais le cœur du système, le soutien par les prix, demeure."
+    },
+    {
+      "type": "figure",
+      "value": "≈ 70 %",
+      "label": "Part de la PAC dans le budget européen en 1980",
+      "body": "Selon le Parlement européen, la PAC représentait près de 70 % des dépenses communautaires en 1980. Cette part n'a cessé de baisser depuis, avec le développement d'autres politiques (cohésion régionale, recherche…) et les réformes successives : elle tourne aujourd'hui autour de 25 %."
+    },
+    {
+      "type": "text",
+      "title": "1992 : la rupture MacSharry",
+      "body": "La réforme portée par le commissaire irlandais Ray MacSharry marque la **première grande rupture**. Les prix garantis des céréales et de la viande bovine baissent fortement ; en compensation, les agriculteurs reçoivent des **aides directes**, liées notamment à la mise en jachère d'une partie des terres.\n\nLe but est aussi diplomatique : faciliter la conclusion des négociations commerciales du cycle de l'Uruguay, achevé en 1994 par l'accord de Marrakech qui crée l'Organisation mondiale du commerce. Les prélèvements variables à l'importation sont remplacés par des droits de douane fixes, ensuite réduits."
+    },
+    {
+      "type": "text",
+      "title": "2003 : le découplage",
+      "body": "Avec la réforme de 2003, l'essentiel des aides directes est **« découplé »** : il ne dépend plus de ce que l'agriculteur produit ni des volumes, mais surtout des surfaces. L'idée est de laisser les agriculteurs répondre aux signaux du marché sans les inciter à surproduire.\n\nEn contrepartie, les aides sont soumises à la **conditionnalité** : respect de normes environnementales, de sécurité sanitaire et de bien-être animal.\n\nDepuis cette période, la PAC repose sur **deux piliers** : le premier finance les aides directes et les mesures de marché (fonds FEAGA) ; le second, le développement rural et l'environnement (fonds Feader), cofinancé par les États."
+    },
+    {
+      "type": "figure",
+      "value": "386 Md€",
+      "label": "Budget de la PAC sur 2021-2027, plan de relance compris",
+      "body": "Selon le Parlement européen, plus de 378 milliards d'euros sont prévus au budget pluriannuel 2021-2027, plus de 386 milliards avec les crédits de relance. Le premier pilier reçoit environ 283 milliards, le second environ 94 milliards. Cela représente environ 54 milliards d'euros par an, soit à peu près un quart du budget de l'UE."
+    },
+    {
+      "type": "text",
+      "title": "La PAC 2023-2027",
+      "body": "La dernière réforme, appliquée depuis 2023, laisse plus de marge aux États : chacun rédige un **plan stratégique national** (PSN) qui regroupe toutes les aides des deux piliers.\n\nNouveauté majeure : les **éco-régimes**, des paiements réservés aux agriculteurs qui vont au-delà des exigences de base en faveur du climat et de la biodiversité. En France, ils pèsent 25 % des paiements directs, soit 1,7 milliard d'euros par an. On y accède par trois voies : des pratiques (diversifier ses cultures, ne pas labourer ses prairies permanentes), une certification (agriculture biologique, Haute Valeur Environnementale) ou des infrastructures écologiques comme les haies."
+    },
+    {
+      "type": "quote",
+      "quote": "80 % des bénéficiaires reçoivent environ 20 % du total des paiements directs.",
+      "author": "Commission européenne, rapport sur la répartition des aides directes, exercice 2020 (traduit de l'anglais)",
+      "body": "Les aides étant surtout versées à l'hectare, leur répartition reflète celle des terres : 20 % des plus grandes exploitations de l'UE détiennent 80 % de la surface agricole. La plupart des gros bénéficiaires exploitent toutefois entre 5 et 250 hectares."
+    },
+    {
+      "type": "text",
+      "title": "Une politique contestée",
+      "body": "La PAC est critiquée de toutes parts. Sur la **répartition** : des aides proportionnelles aux surfaces favorisent les grandes exploitations. Sur l'**environnement** : ses effets sur la biodiversité, l'eau ou le climat sont jugés insuffisants par de nombreux scientifiques et ONG, tandis que des agriculteurs dénoncent des normes trop lourdes. Sur les **revenus** : malgré les aides, une partie des exploitants peine à vivre de son métier.\n\nEn juillet 2025, la Commission a proposé pour 2028-2034 de fondre la PAC dans un fonds de partenariat national et régional, avec au moins 300 milliards d'euros réservés au revenu agricole ; les organisations agricoles y voient une baisse, ce que conteste Bruxelles."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "La France est le **premier bénéficiaire** de la PAC, avec environ 17 % de l'enveloppe européenne : c'est le premier pays producteur agricole de l'UE. Sur 2023-2027, son plan stratégique dispose de **9,1 milliards d'euros par an**.\n\nPrincipaux postes : 3,3 milliards par an d'aides de base à l'hectare, 1,7 milliard pour l'éco-régime, 1,1 milliard pour l'indemnité compensatoire de handicaps naturels (montagne, zones difficiles). Un paiement « redistributif », égal à 10 % des paiements directs, est versé sur les 52 premiers hectares de chaque exploitation, pour soutenir les petites et moyennes fermes ; la surface moyenne des exploitations françaises est de 69 hectares."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "Prévue par le traité de Rome et lancée en 1962, la PAC a d'abord soutenu les prix agricoles, au point de créer des excédents massifs.",
+        "Les réformes de 1992 (aides directes) et 2003 (découplage) ont remplacé le soutien des prix par des aides au revenu, aujourd'hui conditionnées à des exigences environnementales.",
+        "La PAC pèse environ un quart du budget de l'UE (386 Md€ sur 2021-2027) ; la France en est le premier bénéficiaire avec 9,1 Md€ par an."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pourquoi la PAC des années 1970-1980 a-t-elle produit des « montagnes de beurre » ?",
+      "choices": ["À cause des quotas laitiers trop généreux", "Parce que les prix garantis incitaient à produire plus que la demande", "Parce que l'Europe importait trop de lait", "À cause du découplage des aides"],
+      "answer": 1,
+      "explain": "Un prix minimum garanti quelle que soit la quantité pousse à la surproduction ; la Communauté devait racheter et stocker les surplus."
+    },
+    {
+      "q": "Qu'a introduit la réforme de la PAC de 1992, dite réforme MacSharry ?",
+      "choices": ["Les quotas laitiers", "Les éco-régimes", "La baisse des prix garantis compensée par des aides directes", "La suppression totale des aides"],
+      "answer": 2,
+      "explain": "Les prix des céréales et de la viande bovine baissent ; les agriculteurs sont compensés par des aides directes, liées notamment au gel d'une partie des terres."
+    },
+    {
+      "q": "Dans la PAC, que signifie le « découplage » des aides décidé en 2003 ?",
+      "choices": ["Les aides ne dépendent plus des quantités produites", "Les aides sont versées par les régions", "Les aides sont réservées aux jeunes agriculteurs", "Les aides sont séparées entre hommes et femmes"],
+      "answer": 0,
+      "explain": "Découplées de la production, les aides sont versées surtout à l'hectare, sous conditions environnementales, sanitaires et de bien-être animal."
+    },
+    {
+      "q": "Quelle part environ du budget de l'Union européenne la PAC représente-t-elle sur 2021-2027 ?",
+      "choices": ["5 %", "70 %", "50 %", "25 %"],
+      "answer": 3,
+      "explain": "Selon le Parlement européen, environ 25 % du budget de l'UE va à la PAC, contre près de 70 % en 1980."
+    }
+  ],
+  "sources": [
+    { "label": "Parlement européen — Fiche thématique : la PAC et le traité", "url": "https://www.europarl.europa.eu/factsheets/fr/sheet/103/la-politique-agricole-commune-pac-et-le-traite" },
+    { "label": "Parlement européen — Fiche thématique : le financement de la PAC", "url": "https://www.europarl.europa.eu/factsheets/fr/sheet/106/le-financement-de-la-pac" },
+    { "label": "Fondation Robert Schuman — Redonner du sens à la politique agricole commune (B. Bourget, 2017)", "url": "https://server.www.robert-schuman.eu/storage/fr/doc/questions-d-europe/qe-422-fr.pdf" },
+    { "label": "Ministère de l'Agriculture — Le plan stratégique national PAC 2023-2027 (2022)", "url": "https://agriculture.gouv.fr/telecharger/132689" },
+    { "label": "Commission européenne — Report on the distribution of direct aids, financial year 2020", "url": "https://agriculture.ec.europa.eu/system/files/2021-11/direct-aid-report-2020_en_0.pdf" },
+    { "label": "Réussir — PAC 2028-2034 : la France devrait percevoir près de 51 milliards d'euros (2025)", "url": "https://www.reussir.fr/pac-2028-2034-la-france-devrait-percevoir-pres-de-51-milliards-deuros" }
+  ],
+  "further": [
+    { "kind": "site", "label": "Vie-publique.fr — La politique agricole commune (PAC)", "url": "https://www.vie-publique.fr/fiches/20381-la-politique-agricole-commune-pac-definition" }
+  ]
+}

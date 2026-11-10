@@ -1,0 +1,118 @@
+{
+  "day": 16,
+  "domain": "Culture du monde",
+  "title": "Le Japon d'Edo, un pays (presque) fermé",
+  "subtitle": "Comment un pays « fermé » a inventé une culture urbaine qui a bouleversé l'art européen",
+  "emoji": "🗾",
+  "cards": [
+    {
+      "type": "hook",
+      "title": "Une fenêtre de 15 000 m²",
+      "body": "En 1639, le Japon expulse les Portugais. Pendant plus de deux siècles, un minuscule îlot artificiel du port de Nagasaki sert de principale fenêtre sur l'Europe. Pourtant, c'est ce pays réputé « fermé » qui produira les estampes qui fascineront Monet, Degas ou Van Gogh. Comment l'isolement a-t-il pu nourrir une telle influence ?"
+    },
+    {
+      "type": "text",
+      "title": "La paix des Tokugawa",
+      "body": "En 1600, Tokugawa Ieyasu remporte la bataille de Sekigahara et met fin à plus d'un siècle de guerres civiles. En **1603**, l'empereur le nomme shogun, c'est-à-dire chef militaire suprême. Sa famille va gouverner le Japon jusqu'en **1868** : c'est l'époque d'Edo, du nom de la ville où siège le shogunat (l'actuelle Tokyo).\n\nL'empereur, resté à Kyoto, garde un rôle surtout symbolique. Le pouvoir réel appartient au shogun, qui contrôle directement environ 30 % des terres. Le reste est réparti entre quelque 270 familles de daimyos, des seigneurs qui administrent leur fief mais sont étroitement surveillés."
+    },
+    {
+      "type": "text",
+      "title": "Fermer pour contrôler",
+      "body": "Les Tokugawa voient dans le christianisme, introduit au XVIe siècle par les missionnaires européens, une menace pour l'ordre politique. Ils l'interdisent, expulsent les Portugais en **1639** et défendent aux Japonais de partir à l'étranger.\n\nOn appelle cette politique **sakoku**, « pays enchaîné ». Mais le mot est trompeur : il n'apparaît qu'en 1801, chez le traducteur Shizuki Tadao, pour rendre un texte néerlandais. Des historiens japonais comme Arano Yasunori soulignent que le Japon ne s'est jamais coupé du monde : il a surtout **contrôlé** et canalisé ses échanges extérieurs. D'où le titre de ce sujet, à prendre avec des guillemets."
+    },
+    {
+      "type": "figure",
+      "value": "15 000 m²",
+      "label": "Surface de Dejima, l'îlot artificiel réservé aux Hollandais",
+      "body": "Construit à Nagasaki entre 1634 et 1636 pour y cantonner les marchands portugais, cet îlot en forme d'éventail accueille à partir de 1641 le comptoir de la Compagnie néerlandaise des Indes orientales. Une vingtaine de Hollandais y vivent sous surveillance. Par eux arrivent livres et savoirs européens : les « études hollandaises » (rangaku)."
+    },
+    {
+      "type": "text",
+      "title": "Les quatre portes",
+      "body": "Le Japon d'Edo commerce en réalité par **quatre « portes »** contrôlées.\n\n- **Nagasaki** : marchands chinois et hollandais, sous l'autorité d'un gouverneur du shogun.\n- **Tsushima** : le clan Sō gère les relations avec la Corée.\n- **Satsuma** : le clan Shimazu s'occupe du royaume des Ryūkyū (l'actuelle Okinawa).\n- **Matsumae** : ce fief du nord traite avec les Aïnous d'Ezo (Hokkaidō).\n\nÀ l'époque, Ezo et les Ryūkyū sont considérés comme des terres étrangères. L'historien Arano Yasunori propose d'ailleurs de remplacer « sakoku » par **kaikin**, « restrictions maritimes »."
+    },
+    {
+      "type": "text",
+      "title": "Les daimyos en résidence alternée",
+      "body": "Comment tenir 270 seigneurs sans guerre ? En **1635**, le troisième shogun, Tokugawa Iemitsu, rend obligatoire le **sankin-kōtai**, la « résidence alternée » : les daimyos doivent vivre une année sur deux à Edo, l'autre dans leur fief. Leur épouse et leurs héritiers restent en permanence dans la capitale, de véritables otages.\n\nLes allers-retours se font en cortèges fastueux. Selon certaines estimations, ce système pouvait absorber jusqu'à 40 % des revenus d'un daimyo : autant d'argent qui ne finançait pas d'armée. Effet secondaire : les routes, les relais et le commerce prospèrent, et Edo gonfle."
+    },
+    {
+      "type": "figure",
+      "value": "1 million",
+      "label": "Habitants d'Edo vers 1700, l'une des plus grandes villes du monde",
+      "body": "La paix favorise la croissance : la population japonaise passe d'environ 15 à 30 millions d'habitants entre 1600 et 1720, puis se stabilise. Edo, peuplée de samouraïs, d'artisans et de marchands, dépasse le million d'habitants autour de 1700. Ces chiffres restent des estimations d'historiens, faute de recensement complet."
+    },
+    {
+      "type": "text",
+      "title": "Le « monde flottant »",
+      "body": "Dans ces grandes villes naît une culture de loisirs autour des quartiers de plaisir : l'**ukiyo**, le « monde flottant », celui des plaisirs éphémères.\n\nLe **kabuki** apparaît au début du XVIIe siècle. Joué d'abord par des hommes et des femmes, il devient exclusivement masculin : des acteurs spécialisés, les onnagata, tiennent les rôles féminins. Le dramaturge Chikamatsu Monzaemon (1653-1724) en est la grande figure. L'Unesco a inscrit le kabuki au patrimoine immatériel de l'humanité en 2008.\n\nLes **ukiyo-e**, « images du monde flottant », gravures sur bois tirées en nombre, montrent acteurs, courtisanes et paysages. Bon marché, elles circulent largement."
+    },
+    {
+      "type": "figure",
+      "value": "Vers 1830",
+      "label": "« Sous la vague au large de Kanagawa », de Hokusai",
+      "body": "La « Grande Vague » appartient à la série des Trente-six vues du mont Fuji. Hokusai, né en 1760, a environ 70 ans. Le Fuji, minuscule, se perd derrière la vague qui menace les pêcheurs. L'estampe utilise le bleu de Prusse, un pigment synthétique venu d'Europe. Le musée Guimet, à Paris, en conserve un exemplaire."
+    },
+    {
+      "type": "text",
+      "title": "Les navires noirs",
+      "body": "Le 8 juillet 1853, le commodore américain Matthew Perry entre dans la baie d'Edo, à Uraga, avec quatre navires de guerre, dont des vapeurs : les Japonais les surnomment les « navires noirs ». Il exige l'ouverture du pays au commerce et promet de revenir.\n\nIl revient en 1854 avec une escadre plus importante. Le 31 mars 1854, le shogunat signe la **convention de Kanagawa**, qui ouvre des ports aux navires américains. En 1858, de nouveaux traités sont conclus avec les États-Unis, puis le Royaume-Uni, la Russie et la France. Le shogunat, incapable de résister, perd son prestige."
+    },
+    {
+      "type": "text",
+      "title": "1868 : la restauration Meiji",
+      "body": "Face aux puissances occidentales, des fiefs du sud-ouest et une partie de l'élite reprochent au shogun sa faiblesse. Le dernier shogun, **Tokugawa Yoshinobu** (1837-1913), remet son autorité à la cour impériale ; une courte guerre civile achève la transition.\n\nEn **1868**, le pouvoir est officiellement « restauré » au profit du jeune empereur Meiji. Edo prend le nom de Tokyo, « capitale de l'Est ». S'ouvre alors une modernisation à marche forcée sur le modèle occidental. Ironie de l'histoire : au moment où le Japon s'occidentalise, l'Europe se passionne pour l'art japonais."
+    },
+    {
+      "type": "france",
+      "title": "Et en France ?",
+      "body": "Le **japonisme** est d'abord une affaire parisienne. Selon le récit traditionnel, en 1856, le graveur Félix Bracquemond découvre des croquis de Hokusai qui servaient à emballer des céramiques. À l'Exposition universelle de Paris de 1867, l'art japonais a déjà ses passionnés. En 1872, le critique Philippe Burty forge le mot « japonisme ».\n\nManet place un paravent japonais dans son Portrait d'Émile Zola (1868) ; Monet expose La Japonaise en 1876. Cadrages audacieux, aplats de couleur, absence de perspective classique : les estampes inspirent les impressionnistes. À Paris, Van Gogh achète 660 estampes au marchand Siegfried Bing durant l'hiver 1886-1887 et peint en 1887 un « Pont sous la pluie » d'après Hiroshige."
+    },
+    {
+      "type": "takeaways",
+      "items": [
+        "De 1603 à 1868, le shogunat Tokugawa impose la paix et contrôle étroitement les daimyos, notamment par la résidence alternée à Edo.",
+        "La « fermeture » (sakoku) est en fait un contrôle des échanges par quatre portes : Nagasaki avec Dejima, Tsushima, Satsuma et Matsumae.",
+        "La culture urbaine d'Edo (kabuki, estampes ukiyo-e, Hokusai) a nourri en France le japonisme et inspiré les impressionnistes."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dans le Japon d'Edo, quels Européens étaient autorisés à commercer depuis l'îlot de Dejima, à Nagasaki ?",
+      "choices": ["Les Portugais", "Les Hollandais", "Les Espagnols", "Les Anglais"],
+      "answer": 1,
+      "explain": "Après l'expulsion des Portugais en 1639, le comptoir de la Compagnie néerlandaise des Indes orientales est installé à Dejima en 1641."
+    },
+    {
+      "q": "Qu'imposait le sankin-kōtai aux daimyos du Japon d'Edo ?",
+      "choices": ["Payer un impôt en riz au shogun", "Envoyer leurs fils étudier en Chine", "Résider une année sur deux à Edo et y laisser leur famille", "Renoncer à toute armée"],
+      "answer": 2,
+      "explain": "Rendue obligatoire en 1635, la résidence alternée obligeait les daimyos à vivre une année sur deux à Edo, leur famille restant en permanence dans la capitale."
+    },
+    {
+      "q": "Quel événement de 1853-1854 a forcé le Japon des Tokugawa à s'ouvrir au commerce occidental ?",
+      "choices": ["L'arrivée des « navires noirs » du commodore Perry", "La révolte de Shimabara", "La bataille de Sekigahara", "L'Exposition universelle de Paris"],
+      "answer": 0,
+      "explain": "Perry arrive dans la baie d'Edo en 1853 et obtient en 1854 la convention de Kanagawa, qui ouvre des ports japonais aux navires américains."
+    },
+    {
+      "q": "Que désigne le « japonisme » dans l'histoire de l'art français ?",
+      "choices": ["Un style de jardin importé par Louis XIV", "Une école de peinture fondée à Tokyo par des Français", "L'engouement européen pour l'art japonais, qui a inspiré les impressionnistes", "Le nom de l'art japonais avant 1868"],
+      "answer": 2,
+      "explain": "Le mot est forgé par Philippe Burty en 1872 ; Manet, Monet, Degas ou Van Gogh s'inspirent des estampes japonaises."
+    }
+  ],
+  "sources": [
+    { "label": "World History Encyclopedia — Époque Edo", "url": "https://www.worldhistory.org/trans/fr/1-19619/epoque-edo/" },
+    { "label": "Nippon.com — Arano Yasunori, les relations extérieures du Japon d'Edo et le mythe de l'isolement", "url": "https://www.nippon.com/en/features/c00104/foreign-relations-in-early-modern-japan-exploding-the-myth-of-national-seclusion.html" },
+    { "label": "Nippon.com — Sankin kôtai : vérités et idées reçues sur le service en alternance", "url": "https://www.nippon.com/fr/japan-topics/c08601/" },
+    { "label": "Japan Experience — Dejima, le comptoir hollandais de Nagasaki", "url": "https://www.japan-experience.com/fr/all-about-japan/nagasaki/attractions-excursions/dejima-nagasaki" },
+    { "label": "Nippon.com — Aux racines du boom japonais : le japonisme", "url": "https://www.nippon.com/fr/column/g00284/" },
+    { "label": "Musée Guimet / Google Arts & Culture — Sous la vague au large de Kanagawa", "url": "https://artsandculture.google.com/asset/sous-la-vague-au-large-de-kanagawa-ou-la-grande-vague-de-kanagawa-1830/YAFrrfiJuTaxxg" }
+  ],
+  "further": [
+    { "kind": "livre", "label": "Nouvelle histoire du Japon — Pierre-François Souyri (Perrin, 2010)" },
+    { "kind": "site", "label": "Musée national des arts asiatiques – Guimet (collections d'estampes japonaises)", "url": "https://www.guimet.fr" }
+  ]
+}
